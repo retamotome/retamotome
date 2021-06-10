@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 ### Names
 + Eglish: Reta Pan
 + Japaness: 東儀元美(とうぎ　もとみ)
-+ [Wiki page](https://zh.wikipedia.org/wiki/User:RetaMotome)
 
 ### Books
 + [貞元年間 卷一, 廿卅隨筆](https://books.google.com.tw/books/about?id=Xfi2DwAAQBAJ)
 	+ Chinese version only. Free.
+
+### Links
++ [Wiki page](https://zh.wikipedia.org/wiki/User:RetaMotome)
