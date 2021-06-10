@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Names
-+ Eglish: Reta Pan
++ English: Reta Pan
 + Japaness: 東儀元美(とうぎ　もとみ)
 
 ### Books
