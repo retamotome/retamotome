@@ -55,8 +55,7 @@ Reta Pan  敬上
 Jul 2021 - Present   
 Taichung City, Taiwan  
   
-Integrated with the company's existing systems to implement automation of development, testing, software engineering, project management and related documentation processes. 串接公司現行系統，實現開發、測試、軟體工程、專案管理等流程、文件自動化。   
-  
+Integrated with existing company systems to implement automation of development, testing, software engineering, project management processes and documentation. This replaces manual labor hours, reduces human error, improves testing accuracy, and ultimately enhances product quality. 串接公司現行系統，實現開發、測試、軟體工程、專案管理等流程、文件自動化。以取代人力工時及降低人為疏失、提升測試準確率、進而提升產品品質。   
     
 <details><summary>Automated AI-based Project Management 以人工智慧為基礎的專案管理自動化</summary>  
 	
