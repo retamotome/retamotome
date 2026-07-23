@@ -1,3 +1,5 @@
+# 吉祥院軟體工程研究中心
+
 ![吉祥院軟體工程研究中心](./img/ResearchCenter.png)  
 
 # Members | 成員  
@@ -24,17 +26,17 @@
    
    
 
-# Open Resources | 開放資源  
+## Open Resources | 開放資源  
 * [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)
 * [Reta's Self-Directed Learning Guide｜Reta 的自主學習指南](https://github.com/retamotome/SelfDirectedTraining)
 
-## Open Courseware | 開放式課程  
+### Open Courseware | 開放式課程  
 * [四大宗師觀點的系統設計哲學](./open-courseware/SystemDesign.md)
 
 
 ---
 
-# License｜授權條款
+## License｜授權條款
 
 ![BY NC SA](./img/Cc-by-nc-sa.png)  
 This work © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
