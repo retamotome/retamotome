@@ -5,7 +5,7 @@
 # Members | 成員  
 | 人物 | 職稱 | 關鍵能力 | 見解風格 |   
 | --- | --- | --- | --- |  
-| Reta | [首席架構現實官](./reference/CARO.md) | 前提檢驗 | 挑戰假設 |   
+| Reta | [首席架構洞察官](./reference/CAIO.md) | 全局監察 | 洞察盲點 |   
 | Orion | 技術總監 | 創新探索 | 技術最佳解 |   
 | Jack | 敏捷顧問 | 實務導向 | 敏捷(Agile) |   
 | Michael | 首席整合架構師 | 全局整合 | 全局最佳解 |  
@@ -16,11 +16,11 @@
 
 | 英文名 | 由來 | 
 | --- | ------- |  
+| Reta | Toward Reality，「確認這東西到底是不是真的。」| 
 | Orion | Orion 是獵戶座，永遠在追獵未知的人。<br>「還有什麼是我沒看過的？」|
 | Jack |  「好記。」 |
 | Michael | Michael 在希伯來語有：「誰能與神相比？」的意思。<br>提醒自己：「保持敬畏」，追求：「正道」。 |
 | Thomas | Thomas 有一種穩定、可靠、沉靜的氣質，而且歷史上的聖多馬其實是個懷疑論者，他要親眼驗證。<br>「先驗證，再相信。」|
-| Reta | Toward Reality，「確認這東西到底是不是真的。」|
 
 </details>
    
@@ -31,7 +31,7 @@
 * [Reta's Self-Directed Learning Guide｜Reta 的自主學習指南](https://github.com/retamotome/SelfDirectedTraining)
 
 ### Open Courseware | 開放式課程  
-* [四大宗師觀點的系統設計哲學](./open-courseware/SystemDesign.md)
+* [以四大關鍵思維看系統設計哲學](./open-courseware/SystemDesign.md)
 
 
 ---
