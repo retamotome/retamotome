@@ -3,4 +3,5 @@
 ################################################################################
 .vs/
 *.sqlite
-open-courseware/img/
+open-courseware/material/
+.gitignore

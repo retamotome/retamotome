@@ -19,34 +19,42 @@
 
 # 課程內容
 
-* Season 01 系統設計  
-    * 01 Architecture Thinking、系統架構設計  
-    * 02 架構審查（Architecture Review） 
-    * 03 需求分析  
-    * 04 打造 AI Agent  
-    * 05 打造 Enterprise Architecture  
+## Season 01 系統設計  
 
-* Season 02 管理哲學  
-    * 06 專案管理哲學  
-    * 07 系統重構  
-    * 08 資安哲學  
-    * 09 雲端架構  
-    * 10 CTO 對談
+| Video | Description | Date |
+|:----|:----------|:--|
+| <a href="" target="_blank"><image src="" width="200"></a> | [ Architecture Thinking、系統架構設計]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [架構審查（Architecture Review）]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [需求分析]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [打造 AI Agent]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [打造 Enterprise Architecture]() | |
 
-* 番外篇  
-    * 01 安倍晴明 × 服部半藏：五芒星系統架構之道  
-    * 02 五行陣：Authority Matrix Framework 下的團隊成熟度演化模型  
-    * 03 敏捷江湖：以四大關鍵思維看敏捷  
+## Season 02 管理哲學  
 
-* 實戰演練  
-    * 01 案例研究：碧海潮生曲的系統架構 -- 從《射鵰英雄傳》看《易經》、五音、五行到狀態機  
-    * 02 案例研究：從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑
-    * 03 從奇門遁甲到決策工程學
-        * 03-1 將古代謀略模型轉化為可驗證的 Adaptive Decision Framework
-        * 03-2 從控制理論到自我進化決策架構
-            * [架構圖：以王重陽與黃藥師的決策風格呈現的架構策略](./img/03-2_01.svg)
-            * [架構圖：以張三丰觀點做 Clean Architecture](./img/03-2_02.svg)
+| Video | Description | Date |
+|:----|:----------|:--|
+| <a href="" target="_blank"><image src="" width="200"></a> | [專案管理哲學]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [系統重構]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [資安哲學]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [雲端架構]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [CTO 對談]() | |
+
     
+## 番外篇  
+
+| Video | Description | Date |
+|:----|:----------|:--|
+| <a href="" target="_blank"><image src="" width="200"></a> | [安倍晴明 × 服部半藏：五芒星系統架構之道]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [五行陣：Authority Matrix Framework 下的團隊成熟度演化模型]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [敏捷江湖：以四大關鍵思維看敏捷]() | |
+
+## 實戰演練  
+
+| Video | Description | Date |
+|:----|:----------|:--|
+| <a href="https://youtu.be/4RROHItZuWc" target="_blank"><image src="img/2026-07-25.png" width="200"></a> | [碧海潮生曲的系統架構 -- 從《射鵰英雄傳》看《易經》、五音、五行到狀態機](https://youtu.be/4RROHItZuWc) <details><summary> 大綱 </summary> ● 《射鵰英雄傳》中的《碧海潮生曲》<br>● 第一層：陰陽（海潮）<br>● 第二層：五音（情緒）<br>● 第三層：內力（氣）<br>● 用系統架構重新理解《碧海潮生曲》<br>● 九段《碧海潮生曲》<br>● 《碧海潮定曲》：《碧海潮生曲》破解版 </details> | 2026-07-25 |
+| <a href="" target="_blank"><image src="" width="200"></a> | [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑]() | |
+| <a href="" target="_blank"><image src="" width="200"></a> | 從奇門遁甲到決策工程學 <br> ▶ [將古代謀略模型轉化為可驗證的 Adaptive Decision Framework]() <br>▶ [從控制理論到自我進化決策架構]()  <details><summary>架構圖</summary> [以王重陽與黃藥師的決策風格呈現的架構策略](./material/03-2_01.svg) <br> [以張三丰觀點做 Clean Architecture](./material/03-2_02.svg) </details> | |
 
    
 ---
