@@ -52,7 +52,7 @@
 
 | Video | Description | Date |
 |:----|:----------|:--|
-| <a href="https://youtu.be/4RROHItZuWc" target="_blank"><image src="img/2026-07-25.png" width="200"></a> | [碧海潮生曲的系統架構 -- 從《射鵰英雄傳》看《易經》、五音、五行到狀態機](https://youtu.be/4RROHItZuWc) <details><summary> 大綱 </summary> ● 《射鵰英雄傳》中的《碧海潮生曲》<br>● 第一層：陰陽（海潮）<br>● 第二層：五音（情緒）<br>● 第三層：內力（氣）<br>● 用系統架構重新理解《碧海潮生曲》<br>● 九段《碧海潮生曲》<br>● 《碧海潮定曲》：《碧海潮生曲》破解版 </details> | 2026-07-25 |
+| <a href="https://youtu.be/4RROHItZuWc" target="_blank"><image src="img/2026-07-25.png" width="200"></a> | [碧海潮生曲的系統架構學 -- 從《射鵰英雄傳》看《易經》、五音、五行到狀態機](https://youtu.be/4RROHItZuWc) <details><summary> 大綱 </summary> ● 《射鵰英雄傳》中的《碧海潮生曲》<br>● 第一層：陰陽（海潮）<br>● 第二層：五音（情緒）<br>● 第三層：內力（氣）<br>● 用系統架構重新理解《碧海潮生曲》<br>● 九段《碧海潮生曲》<br>● 《碧海潮定曲》：《碧海潮生曲》破解版 </details> | 2026-07-25 |
 | <a href="" target="_blank"><image src="" width="200"></a> | [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑]() | |
 | <a href="" target="_blank"><image src="" width="200"></a> | 從奇門遁甲到決策工程學 <br> ▶ [將古代謀略模型轉化為可驗證的 Adaptive Decision Framework]() <br>▶ [從控制理論到自我進化決策架構]()  <details><summary>架構圖</summary> [以王重陽與黃藥師的決策風格呈現的架構策略](./material/03-2_01.svg) <br> [以張三丰觀點做 Clean Architecture](./material/03-2_02.svg) </details> | |
 
