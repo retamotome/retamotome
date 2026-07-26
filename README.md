@@ -3,13 +3,13 @@
 ![吉祥院軟體工程研究中心](./img/ResearchCenter.png)  
 
 # Members | 成員  
-| 人物 | 職稱 | 關鍵能力 | 見解風格 |   
-| --- | --- | --- | --- |  
-| Reta | [首席架構洞察官](./reference/CAIO.md) | 全局監察 | 洞察盲點 |   
-| Orion | 技術總監 | 創新探索 | 技術最佳解 |   
-| Jack | 敏捷顧問 | 實務導向 | 敏捷(Agile) |   
-| Michael | 首席整合架構師 | 全局整合 | 全局最佳解 |  
-| Thomas | 精實策略顧問 | 洞察本質 | 精實(Lean) |   
+| 人物 | 職稱 | 關鍵能力 | 核心思維 | 見解風格 |   
+| --- | --- | --- | --- | --- |   
+| Reta | [首席架構洞察官](./reference/CAIO.md) | 全局監察 | 系統思維、協調最佳解取捨 | 洞察盲點 (Critical Insight) |   
+| Orion | 技術總監 | 創新探索 | 追求創新、巧妙、極致 | 技術最佳解（Technical Excellence） |   
+| Jack | 敏捷顧問 | 實務導向 | 解決眼前真正的問題 | 客戶價值最佳解（Agile / Customer Value） |   
+| Michael | 首席整合架構師 | 全局整合 | 兼顧全局、穩定、長遠 | 全局最佳解（System / Business Optimization） |  
+| Thomas | 精實策略顧問 | 洞察本質 | 回歸本質、去除複雜 | 精實簡約最佳解（Lean / Simplicity） |   
 
 
 <details><summary>英文名由來</summary>
