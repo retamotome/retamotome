@@ -11,20 +11,7 @@
 | Michael | 首席整合架構師 | 全局整合 | 兼顧全局、穩定、長遠 | 全局最佳解（System / Business Optimization） |  
 | Thomas | 精實策略顧問 | 洞察本質 | 回歸本質、去除複雜 | 精實簡約最佳解（Lean / Simplicity） |   
 
-
-<details><summary>英文名由來</summary>
-
-| 英文名 | 由來 | 
-| --- | ------- |  
-| Reta | Toward Reality，「確認這東西到底是不是真的。」| 
-| Orion | Orion 是獵戶座，永遠在追獵未知的人。<br>「還有什麼是我沒看過的？」|
-| Jack |  「好記。」 |
-| Michael | Michael 在希伯來語有：「誰能與神相比？」的意思。<br>提醒自己：「保持敬畏」，追求：「正道」。 |
-| Thomas | Thomas 有一種穩定、可靠、沉靜的氣質，而且歷史上的聖多馬其實是個懷疑論者，他要親眼驗證。<br>「先驗證，再相信。」|
-
-</details>
-   
-   
+▶ [角色設定集](./reference/CharacterBible.md)
 
 ## Open Resources | 開放資源  
 * [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)
