@@ -29,6 +29,6 @@
 
 © 2026 作者 潘貞元（Reta Pan）。   
 
-課程教材與公開教學內容採用  [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。 
+課程教材與公開教學內容採用 Creative Commons [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。 
 
 角色設定、世界觀設定、人物形象與相關 IP 不包含於 Creative Commons 授權範圍內，除另有說明外，[保留一切權利（All Rights Reserved）](./COPYRIGHT.md)。
