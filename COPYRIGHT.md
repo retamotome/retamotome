@@ -46,7 +46,7 @@ Provided that:
 
 - No commercial use | 不得作商業用途
 
-- Derivative works use the same license |衍生作品需採相同授權
+- Derivative works use the same license | 衍生作品需採相同授權
 
 ---
 
