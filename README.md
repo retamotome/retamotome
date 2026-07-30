@@ -15,7 +15,9 @@
 
 ## Open Resources | 開放資源  
 * [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)
+* [Practical System Design Considerations | 系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations)
 * [Reta's Self-Directed Learning Guide｜Reta 的自主學習指南](https://github.com/retamotome/SelfDirectedTraining)
+* [貞元年間 卷一 廿卅隨筆](https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ)  
 
 ### Open Courseware | 開放式課程  
 * [以四大關鍵思維看系統設計哲學](./open-courseware/SystemDesign.md)
@@ -25,6 +27,8 @@
 
 ## License｜授權條款
 
-![BY NC SA](./img/Cc-by-nc-sa.png)  
-This work © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-本作品 © 2026 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+© 2026 作者 潘貞元（Reta Pan）。   
+
+課程教材與公開教學內容採用  [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。 
+
+角色設定、世界觀設定、人物形象與相關 IP 不包含於 Creative Commons 授權範圍內，除另有說明外，[保留一切權利（All Rights Reserved）](./COPYRIGHT.md)。
