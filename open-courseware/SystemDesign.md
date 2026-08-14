@@ -46,7 +46,7 @@
 | Video | Description | Date |
 |:----|:----------|:--|
 | <a href="" target="_blank"><image src="" width="200"></a> | [安倍晴明 × 服部半藏：五芒星系統架構之道]() <details><summary> 大綱 </summary> ● <br></details> | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [五行陣：Authority Matrix Framework 下的團隊成熟度演化模型]() <details><summary> 大綱 </summary> ● <br></details> | |
+| <a href="" target="_blank"><image src="" width="200"></a> | [五行陣：Authority Matrix Framework 下的團隊成熟度演化模型]()<br>必修通識課：[Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) <details><summary> 大綱 </summary> ● <br></details> | |
 | <a href="" target="_blank"><image src="" width="200"></a> | [敏捷江湖：以四大關鍵思維看敏捷]() <details><summary> 大綱 </summary> ● <br></details> | |
 
 ## 實戰演練  
@@ -54,8 +54,8 @@
 | Video | Description | Date |
 |:----|:----------|:--|
 | <a href="https://youtu.be/bK8FlP9ZoeA" target="_blank"><image src="img/2026-07-30.png" width="200"></a> | [碧海潮生曲的系統架構學 -- 從《射鵰英雄傳》看《易經》、五音、五行到狀態機](https://youtu.be/bK8FlP9ZoeA) <details><summary> 大綱 </summary> ● 《射鵰英雄傳》中的《碧海潮生曲》<br>　● 第一層：陰陽（海潮）<br>　● 第二層：五音（情緒）<br>　● 第三層：內力（氣）<br>● 用系統架構重新理解《碧海潮生曲》<br>● 九段《碧海潮生曲》<br>● 《碧海潮定曲》：《碧海潮生曲》破解版 </details> | 2026-07-30 |
-| <a href="" target="_blank"><image src="" width="200"></a> | [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑]() <details><summary> 大綱 </summary> ● 桃花陣更新計畫<br> ● 案例解析<br>　● 在規則內思考的人<br>　● 跳出系統的人<br>　● 發現真正的弱點<br>　● 從破解者變成設計者<br>　● 從桃花陣到桃花海陣<br>　● 最高階的防禦</details> | |
-| <a href="" target="_blank"><image src="" width="200"></a> | 從奇門遁甲到決策工程學 <br>● [將古代謀略模型轉化為可驗證的 Adaptive Decision Framework]() <details><summary> 大綱 </summary> ● <br></details><br>● [從控制理論到自我進化決策架構]() <details><summary> 大綱 </summary> ● <br></details><details><summary>架構圖</summary> [以王重陽與黃藥師的決策風格呈現的架構策略](./material/03-2_01.svg) <br> [以張三丰觀點做 Clean Architecture](./material/03-2_02.svg) </details> | |
+| <a href="" target="_blank"><image src="img/2026-08-14.png" width="200"></a> | [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/Fme_qiEeCYI) <details><summary> 大綱 </summary> ● 桃花陣更新計畫<br> ● 案例解析<br>　● 在規則內思考的人<br>　● 跳出系統的人<br>　● 發現真正的弱點<br>　● 從破解者變成設計者<br>　● 從桃花陣到桃花海陣<br>　● 最高階的防禦</details> | |
+| <a href="" target="_blank"><image src="" width="200"></a> | 從奇門遁甲到決策工程學 <br>01 [將古代謀略模型轉化為可驗證的 Adaptive Decision Framework]() <details><summary> 大綱 </summary> ● <br></details>02 [從控制理論到自我進化決策架構]() <details><summary> 大綱 </summary> ● <br></details> | |
 
    
 ---
