@@ -31,7 +31,7 @@ August  負責維持平衡。
 Thomas 負責回歸本質。  
 Reta 負責確認以上四位是否掉進自己沒發現的坑。  
 
-![YouTube](../img/YouTube_icon.gif) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑]()
+![YouTube](../img/YouTube_icon.gif) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/Hp0R1CD8lfc)
 
 ## 生活設定
 
