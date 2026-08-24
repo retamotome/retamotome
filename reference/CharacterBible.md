@@ -33,6 +33,21 @@ Reta 負責確認以上四位是否掉進自己沒發現的坑。
 
 ![YouTube](../img/YouTube_icon.gif) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/Hp0R1CD8lfc)
 
+### 團隊屬性  
+
+說明影片：[Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)    
+
+| Authority Matrix<br>權責矩陣框架 | ARCI 模型 | 管理方式 | Cynefin Framework<br>Cynefin 情境框架 (任務領域) | 衡量方法 |  
+| --- | --- | --- | --- | --- |
+| Self-designing Teams<br>自主設計型團隊 (高成熟度) | Team is Accountable and Responsible<br>團隊同時是負責人與執行者 | Agile<br> 敏捷式管理 | Complex Domain<br>複雜領域 | Solution or workaround<br>解決方案或變通方案 | 
+
+<details><summary>團隊屬性圖解</summary>
+
+![團隊屬性圖解](./img/team_level.jpg)
+
+</details>
+
+
 ## 生活設定
 
 |人物|星座|休閒飲食|代表色|
