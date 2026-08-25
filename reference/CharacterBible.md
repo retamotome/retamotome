@@ -39,7 +39,7 @@ Reta 負責確認以上四位是否掉進自己沒發現的坑。
 
 | Authority Matrix<br>權責矩陣框架 | ARCI 模型 | 管理方式 | Cynefin Framework<br>Cynefin 情境框架<br>(任務領域) | 衡量方法 |  
 | --- | --- | --- | --- | --- |
-| Self-designing Teams<br>自主設計型團隊<br>(高成熟度) | Team is Accountable and Responsible<br>團隊同時是負責人與執行者 | Agile<br> 敏捷式管理 | Complex Domain<br>複雜領域 | Solution or workaround<br>解決方案或變通方案 | 
+| Self-designing Teams<br>自主設計型團隊<br>(高成熟度) | <div style="display: flex;  align-items: center; gap: 12px;">  ![ARCI](./img/team_arci.jpg)  <p>Team is Accountable and Responsible<br>團隊同時是負責人與執行者</p></div> | Agile<br> 敏捷式管理 | Complex Domain<br>複雜領域 (幕僚) | Solution or workaround<br>解決方案或變通方案 | 
 
 <details><summary>團隊屬性圖解</summary>
 
