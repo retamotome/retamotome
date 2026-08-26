@@ -31,15 +31,15 @@ August  負責維持平衡。
 Thomas 負責回歸本質。  
 Reta 負責確認以上四位是否掉進自己沒發現的坑。  
 
-![YouTube](../img/YouTube_icon.gif) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/Hp0R1CD8lfc)
+![YouTube](../img/YouTube_icon.gif) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)
 
 ### 團隊屬性  
 
-說明影片：[Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)    
-
 | Authority Matrix<br>權責矩陣框架 | ARCI 模型 | 管理方式 | Cynefin Framework<br>Cynefin 情境框架<br>(任務領域) | 衡量方法 |  
 | --- | --- | --- | --- | --- |
-| Self-designing Teams<br>自主設計型團隊<br>(高成熟度) | <div style="display: flex;  align-items: center; gap: 12px;">  ![ARCI](./img/team_arci.jpg)  <p>Team is Accountable and Responsible<br>團隊同時是負責人與執行者</p></div> | Agile<br> 敏捷式管理 | Complex Domain<br>複雜領域 (幕僚) | Solution or workaround<br>解決方案或變通方案 | 
+| Self-designing Teams<br>自主設計型團隊<br>(高成熟度) | ![ARCI](./img/team_arci.jpg)<br>Team is Accountable and Responsible<br>團隊同時是負責人與執行者 | Agile<br> 敏捷式管理 | Complex Domain<br>複雜領域 (幕僚) | Solution or workaround<br>解決方案或變通方案 | 
+
+說明影片：[Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)    
 
 <details><summary>團隊屬性圖解</summary>
 
