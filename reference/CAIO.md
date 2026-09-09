@@ -220,6 +220,10 @@
 
 ![YouTube](../img/YouTube_icon.gif) 首席架構洞察官協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)
    
+## 專業與市場稀缺性分析  
+* [ChatGPT 專業與市場稀缺性分析](./CAIO_ChatGPT.pdf)
+* [Gemini 專業與市場稀缺性分析](./CAIO_Gemini.pdf)
+
 ---
 
 # 著作權聲明
