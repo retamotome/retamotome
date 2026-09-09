@@ -218,7 +218,8 @@
 
 > **避免整個組織非常努力地解決一個不存在、定義錯誤，或建立在錯誤前提上的問題。** 
 
-![YouTube](../img/YouTube_icon.gif) 首席架構洞察官協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)
+## 協作情境參考
+* ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)  
    
 ## 專業與市場稀缺性分析  
 * [ChatGPT 專業與市場稀缺性分析](./CAIO_ChatGPT.pdf)
