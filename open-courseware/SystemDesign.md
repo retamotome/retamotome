@@ -10,7 +10,7 @@
 
 | 人物 | 職稱 | 關鍵能力 | 核心思維 | 見解風格 |   
 | --- | --- | --- | --- | --- |   
-| Reta | [首席架構洞察官](../reference/CAIO.md) | 全局監察 | 系統思維、協調最佳解取捨 | 洞察盲點 (Critical Insight) |   
+| Reta | [首席架構洞察官](../reference/CAIO/CAIO.md) | 全局監察 | 系統思維、協調最佳解取捨 | 洞察盲點 (Critical Insight) |   
 | Orion | 技術總監 | 創新探索 | 追求創新、巧妙、極致 | 技術最佳解（Technical Excellence） |   
 | Jack | 敏捷顧問 | 實務導向 | 解決眼前真正的問題 | 客戶價值最佳解（Agile / Customer Value） |   
 | August  | 首席整合架構師 | 全局整合 | 兼顧全局、穩定、長遠 | 全局最佳解（System / Business Optimization） |  
