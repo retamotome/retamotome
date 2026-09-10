@@ -216,25 +216,28 @@
 
 重點：
 
-> **避免整個組織非常努力地解決一個不存在、定義錯誤，或建立在錯誤前提上的問題。** 
-
-## 協作情境參考
-* ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)  
+> **避免整個組織非常努力地解決一個不存在、定義錯誤，或建立在錯誤前提上的問題。**   
+  
+# 參考資源  
+## 協作情境
+* [團隊成員角色列表與說明](../CharacterBible.md)  
+* ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)    
    
 ## 專業與市場稀缺性分析  
-* [ChatGPT 專業與市場稀缺性分析](./CAIO_ChatGPT.pdf)
-* [Gemini 專業與市場稀缺性分析](./CAIO_Gemini.pdf)
-
+* [Reta 人才適配性評估報告](suitability.md)  
+* [ChatGPT 專業與市場稀缺性分析](CAIO_ChatGPT.pdf)  
+* [Gemini 專業與市場稀缺性分析](CAIO_Gemini.pdf)  
+  
 ---
 
 # 著作權聲明
-© 2026 潘貞元（Reta Pan） [保留一切權利](../COPYRIGHT.md)。  
+© 2026 潘貞元（Reta Pan） [保留一切權利](../../COPYRIGHT.md)。  
 
 《吉祥院軟體工程研究中心》、
 Reta、Orion、Jack、August、Thomas
 之角色設定、人物關係、
 世界觀設定及相關原創內容，
-均為作者創作並[保留一切權利](../COPYRIGHT.md)。
+均為作者創作並[保留一切權利](../../COPYRIGHT.md)。
 
 除作者另行書面授權外，
 上述角色與世界觀內容

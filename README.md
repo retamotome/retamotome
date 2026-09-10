@@ -11,7 +11,7 @@
 | August  | 首席整合架構師 | 全局整合 | 兼顧全局、穩定、長遠 | 全局最佳解（System / Business Optimization） |  
 | Thomas | 精實策略顧問 | 洞察本質 | 回歸本質、去除複雜 | 精實簡約最佳解（Lean / Simplicity） |   
 
-▶ [角色設定集](./reference/CharacterBible.md)
+▶ [角色設定集](./reference/CharacterBible.md)  
 
 ## Open Resources | 開放資源  
 * [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)
