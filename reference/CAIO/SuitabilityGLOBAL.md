@@ -1,5 +1,4 @@
-# Talent & Role Suitability Assessment
-# 希臘神話原型人才與職能適配性評估報告
+# Talent & Role Suitability Assessment | 人才與職能適配性評估報告
 
 **Assessment Subject｜評估對象：** 潘貞元 (Reta Pan)  
 **Assessment Framework｜評估架構：** Natal Chart × Greek Mythological Archetypes × Professional Competency Model | 本命星盤 × 希臘神話原型 × 專業職能模型
