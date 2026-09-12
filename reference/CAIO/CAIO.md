@@ -223,31 +223,11 @@
 * [團隊成員角色列表與說明](../CharacterBible.md)  
 * ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)    
    
-## 專業與市場稀缺性分析  
-* [Reta 人才適配性評估報告](suitability.md)  
-* [ChatGPT 專業與市場稀缺性分析](CAIO_ChatGPT.pdf)  
-* [Gemini 專業與市場稀缺性分析](CAIO_Gemini.pdf)  
-  
+## 職能評估報告  
+* [人才適配性評估報告](SuitabilityASIA.md)（亞洲版，以金庸人物為模型）  
+* [職能適配性評估報告](SuitabilityGLOBAL.md)（全球版，以希臘神話人物為模型）  
 ---
 
 # 著作權聲明
 © 2026 潘貞元（Reta Pan） [保留一切權利](../../COPYRIGHT.md)。  
-
-《吉祥院軟體工程研究中心》、
-Reta、Orion、Jack、August、Thomas
-之角色設定、人物關係、
-世界觀設定及相關原創內容，
-均為作者創作並[保留一切權利](../../COPYRIGHT.md)。
-
-除作者另行書面授權外，
-上述角色與世界觀內容
-**不得** 重製、改作、
-商業使用或建立衍生商業作品。
-
-------------------------------------------------
-本角色設定集不適用 Creative Commons 授權。
-------------------------------------------------
-
-課程教材、公開文章與教學影片，依各作品標示之授權條款辦理；  
-如標示為 CC BY-NC-SA 4.0，則依該授權條款使用。  
-角色設定與世界觀之權利範圍，**不** 因課程內容採用 Creative Commons 授權而一併開放。  
+© 2026 Jen-Yuan Pan（Reta Pan） [All rights reserved](../../COPYRIGHT.md)。
