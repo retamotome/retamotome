@@ -7,8 +7,6 @@
 
 # Executive Summary | 執行摘要
 
-### English
-
 This assessment examines the candidate's suitability for a Chief Architecture Insight Officer (CAIO) role by integrating the symbolic structure of the natal chart with archetypal patterns derived primarily from the twelve Olympian gods of Greek mythology. The purpose of this framework is not to identify the candidate with a single mythological character, but to construct a multidimensional archetypal profile that illustrates how different cognitive, strategic, technical, interpersonal, and organizational tendencies may interact within the same professional personality.
 
 The candidate's natal chart presents a distinctive combination of Pisces emphasis in the 12th House, Aquarius emphasis in the 11th House, Capricorn emphasis in the 10th House, and additional activity involving the 7th and 8th Houses. This configuration suggests a working style characterized by deep observation, sensitivity to less visible structures, abstract and associative information processing, systemic thinking, independence of judgment, and a preference for understanding complex problems before committing to an implementation path. At the same time, the Capricorn and Virgo components provide a counterbalancing tendency toward structure, quality, methodology, and professional standards.
@@ -16,8 +14,6 @@ The candidate's natal chart presents a distinctive combination of Pisces emphasi
 From a Greek mythology perspective, the candidate is best represented not by a single Olympian archetype but by a coordinated constellation of Athena, Prometheus, Hermes, Hephaestus, Artemis, and Apollo. Athena represents the candidate's strategic and architectural intelligence; Prometheus represents the drive to investigate what is not yet understood and to introduce new knowledge into an existing system; Hermes represents cross-domain integration and the ability to translate information between different conceptual environments; Hephaestus represents the engineering impulse to turn abstract ideas into workable structures; Artemis represents autonomy, boundaries, and the ability to operate effectively without continuous supervision; and Apollo represents the search for patterns, coherence, principles, and a clearer understanding of what lies ahead.
 
 The overall profile is therefore highly compatible with a CAIO-type role in which the principal contribution is not the management of large numbers of people or the execution of high volumes of routine work, but the improvement of organizational decision quality through architectural insight, strategic analysis, risk identification, cross-domain synthesis, and the development of better problem-solving frameworks.
-
-### 中文
 
 本報告以受評者本命星盤為基礎，並以希臘神話十二奧林帕斯神作為主要原型參照，評估其擔任 Chief Architecture Insight Officer（CAIO，首席架構洞察官）類型職務的適配程度。本報告並非試圖將受評者簡化為某一位希臘神祇，而是將不同神祇所代表的認知、策略、技術、自主性與組織互動原型視為一個相互協作的系統，用以描述受評者在複雜工作環境中的主要能力來源與可能的行為模式。
 
