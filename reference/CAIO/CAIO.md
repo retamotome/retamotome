@@ -224,8 +224,8 @@
 * ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)    
    
 ## 職能評估報告  
-* [人才適配性評估報告](SuitabilityASIA.md)（亞洲版，以金庸人物為模型）  
-* [職能適配性評估報告](SuitabilityGLOBAL.md)（全球版，以希臘神話人物為模型）  
+* [人才適配性評估報告](SuitabilityASIA.md)（亞洲版，以金庸人物為模型，篇幅精簡）  
+* [職能適配性評估報告](SuitabilityGLOBAL.md)（全球版，以希臘神話人物為模型，篇幅完整）  
 ---
 
 # 著作權聲明
