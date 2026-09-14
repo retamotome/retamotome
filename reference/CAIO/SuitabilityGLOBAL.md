@@ -1,10 +1,15 @@
-# Talent & Role Suitability Assessment | 人才與職能適配性評估報告
+# Professional Competency Assessment Report | 職能適配性評估報告
 
 **Assessment Subject｜評估對象：** 潘貞元 (Reta Pan)  
 
 **Purpose | 評估用途:** To support management decisions regarding talent development, role assignment, and organizational planning. | 提供部門主管作為人才發展、職務配置與組織規畫參考    
 
 **Assessment Framework｜評估架構：** Natal Chart × Greek Mythological Archetypes × Professional Competency Model | 本命星盤 × 希臘神話原型 × 專業職能模型
+  
+> [!note]  
+> This report regards natal chart analysis as a framework for exploring individual potential and cognitive archetypes, with the purpose of identifying talent attributes that may not yet be fully visible through conventional organizational assessment mechanisms. The ultimate evaluation of an individual’s value should nevertheless be grounded in demonstrated work performance, organizational impact, and sustained long-term achievements. Personality-based models serve as a means of generating developmental hypotheses, while performance-based assessments provide empirical validation. Together, these complementary perspectives enable a more holistic understanding of talent and support more effective talent development and deployment decisions.  
+> 本報告將星盤視為一種潛能探索與認知原型分析工具，其目的在於協助發現可能尚未被組織正式制度看見的人才特質。最終人才價值之認定，仍應以實際工作成果、組織貢獻及長期績效表現作為驗證依據。人格模型提供的是方向假設，績效驗證提供的是現實證據；兩者結合，方能形成較完整的人才發展視角。  
+> [Assessment Methodology Statement | 評估方法說明](./Statement.md)    
 
 ---
 
