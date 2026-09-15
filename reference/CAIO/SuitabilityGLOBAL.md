@@ -135,7 +135,7 @@ The candidate shows strong potential for integrating information from different 
 
 The candidate demonstrates a strong orientation toward identifying factors that are not immediately visible within a system. The involvement of the 8th and 12th Houses suggests a tendency to investigate underlying dependencies, hidden assumptions, and consequences that may not become apparent until a system is placed under pressure. This does not necessarily mean that the candidate will always predict a specific future event; rather, the stronger capability lies in recognizing where uncertainty, structural weakness, or untested assumptions exist. This makes the profile particularly suitable for red-team analysis, architecture review, risk assessment, and pre-implementation validation.
 
-受評者對系統中不容易直接被看見的因素具有較高敏感度。第8宮與第12宮的作用，使其較容易關注底層依賴、隱性假設，以及在正常情況下不一定會立即顯現、但在系統受到壓力後可能被放大的問題。這並不表示受評者能夠精確預測每一個未來事件，而是表示其真正具有優勢的地方，在於能夠辨認「目前其實還沒有被充分驗證的地方」以及「系統可能在哪些條件下失去穩定性」。因此，紅隊分析、架構審查、風險評估與方案驗證等工作，均可能成為其高價值應用場景。
+受評者對系統中不容易直接被看見的因素具有較高敏感度。第8宮與第12宮的作用，使其較容易關注底層依賴、隱性假設，以及在正常情況下不一定會立即顯現、但在系統受到壓力後可能被放大的問題。這並不表示受評者能夠精確預測每一個未來事件，而是表示其真正具有優勢的地方，在於能夠辨認「目前其實還沒有被充分驗證的地方」以及「系統可能在哪些條件下失去穩定性」。因此，紅隊分析、架構審查、風險評估與方案驗證等工作，均可能成為其高價值應用情境。
 
 ---
 
