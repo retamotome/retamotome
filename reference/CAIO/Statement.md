@@ -24,7 +24,7 @@ This report makes a clear distinction between the concepts of Potential and Perf
 本報告特別區分「潛能（Potential）」與「績效（Performance）」兩項概念。潛能反映的是個體可能較容易發展的能力方向、認知優勢及學習傾向，而績效則反映個體在特定職務、特定環境與特定時間點下所呈現的實際成果。兩者雖然相關，但並不等同。一位具備高度潛能的人才，未必能在所有情境中立即展現卓越績效；同樣地，一位目前績效優異的人員，也未必適合所有未來角色與發展方向。  
 
 Accordingly, natal chart analysis is positioned within this report as a tool for talent exploration and potential identification rather than a performance prediction mechanism. Its purpose is to help organizations better understand an individual's personality traits, thinking patterns, interests, and developmental potential from multiple perspectives, thereby supporting more informed talent development and role assignment decisions.   
-因此，本報告將星盤定位為人才探索與潛能辨識工具，而非績效預測工具。其主要功能在於協助組織從不同角度理解個體可能具備的人格特質、思維模式、興趣方向及職涯發展潛力，使組織在人才培育與職務安排上能夠擁有更完整且更多元的觀察視角。  
+因此，本報告將星盤定位為人才探索與潛能辨識工具，而非績效預測工具。其主要功能在於協助組織從不同角度領會個體可能具備的人格特質、思維模式、興趣方向及職涯發展潛力，使組織在人才培育與職務安排上能夠擁有更完整且更多元的觀察視角。  
   
 ## Importance of Performance-Based Validation | 績效驗證的重要性  
 The report further recognizes that conclusions derived from any potential assessment framework must ultimately be validated through actual work outcomes. Whether an individual is truly suited to a specific role should therefore be evaluated through objective measures such as KPIs, OKRs, project achievements, leadership effectiveness, and organizational contributions. Potential assessments provide directional hypotheses, while performance outcomes provide real-world validation; both should be regarded as complementary rather than mutually exclusive.   
@@ -36,7 +36,7 @@ It is also important to recognize that even commonly accepted management tools s
 
 ## Core Position and Application Principles | 核心立場與應用原則  
 The core position of this report is that natal chart analysis should be viewed as a reference framework for exploring individual potential and personality archetypes, rather than as a tool for personnel decisions. Performance management should likewise be viewed as a mechanism for validating outcomes and organizational contributions, rather than as a means of assessing potential. When used together, these complementary perspectives enable organizations to evaluate talent through both a developmental and a performance lens. Such an approach not only helps identify capabilities and future potential that may not yet be recognized by conventional organizational processes, but also ensures that these potential attributes are validated through measurable achievements and real-world contributions. As a result, organizations are able to establish a more comprehensive foundation for talent development, career planning, and role assignment decisions.  
-本報告的核心立場在於，星盤分析應被視為探索潛能與人格原型的參考工具，而非決策工具；績效管理則應被視為驗證成果與實際價值的評估工具，而非潛能判定工具。當兩者相互搭配時，組織能同時從潛力面與績效面理解人才，不僅有助於發掘尚未被看見的發展可能性，也能透過實際成果驗證其價值，進而形成更完整的人才發展與職務配置參考依據。    
+本報告的核心立場在於，星盤分析應被視為探索潛能與人格原型的參考工具，而非決策工具；績效管理則應被視為驗證成果與實際價值的評估工具，而非潛能判定工具。當兩者相互搭配時，組織能同時從潛力面與績效面識別人才，不僅有助於發掘尚未被看見的發展可能性，也能透過實際成果驗證其價值，進而形成更完整的人才發展與職務配置參考依據。    
 
 ---  
   

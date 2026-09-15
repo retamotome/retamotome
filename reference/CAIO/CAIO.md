@@ -1,5 +1,24 @@
 # Chief Architecture Insight Officer | 首席架構洞察官（CAIO）
 
+## About the Title | 職務名稱說明
+
+**Chief Architecture Insight Officer (CAIO)** is not a standard job title directly adopted from the existing employment market.  
+**Chief Architecture Insight Officer（CAIO）首席架構洞察官**並非作者直接取自現有人力市場中的既有標準職稱。  
+
+The title was developed by the author based on **more than 20 years of experience in technical staff and advisory roles**, by organizing, abstracting, and synthesizing the responsibilities, ways of thinking, and capabilities required in practice, with AI assisting in naming the resulting role.  
+此職務名稱是作者基於**二十餘年技術幕僚工作經驗**，將實際工作中所涉及的職務內容、思考方式與所需能力進行整理、抽象與歸納後，再由 AI 協助命名所形成的角色定義。  
+
+Therefore, the CAIO described in this document can be regarded as a **role model defined by its capabilities and actual responsibilities**, rather than as a standardized job title that is already widely established in the employment market.  
+因此，本文件所描述的 CAIO，**可視為一個以職務能力與實際工作內容為核心定義的角色模型**，而非宣稱市場上已普遍存在的標準職稱。  
+
+Highly comparable positions are uncommon in the general public job market. This combination of capabilities is more likely to be found in **senior technical consulting, technical staff, strategic or architecture advisory roles, or specialized executive search and headhunting**.  
+目前一般公開人力市場中，與此完整角色高度對應的職缺並不常見。這類能力組合較可能出現在**高階技術顧問、技術幕僚、策略／架構幕僚，以及針對特殊專業能力進行的高階獵才**情境中。  
+
+In other words, the purpose of this document is not to claim that the market already has a widely established position called “CAIO,” but to describe a **relatively uncommon yet clearly valuable senior technical insight and decision-support role** within an organization.  
+換言之，本文的重點並非證明「市場上已有一個叫 CAIO 的職位」，而是描述一種在組織中相對少見、但具有明確價值的**高階技術洞察與決策支援角色**。  
+
+---
+
 ## Mission | 使命  
   
 Ensure that critical organizational decisions, architectures, processes, strategies, and technology directions are built upon verifiable facts, sound premises, and consistent reasoning.  

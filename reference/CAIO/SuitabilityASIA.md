@@ -24,7 +24,7 @@ This assessment indicates that the individual is not a conventional execution-or
 在大型技術組織之中，這類人才的價值經常體現在重大決策形成之前。他們不僅研究解決方案，更會確認問題是否被正確定義、假設是否合理，以及組織是否低估了潛在風險。  
 In complex technology organizations, individuals of this type often create value before major decisions are finalized. Rather than focusing solely on solutions, they tend to evaluate whether the underlying problem has been correctly defined, whether the assumptions are valid, and whether key risks have been overlooked.  
   
-若以金庸小說人物作為理解模型，評估對象並非郭靖式的執行型人才，而較接近黃藥師、張三豐與掃地僧的綜合特質。  
+若以金庸小說人物作為解說模型，評估對象並非郭靖式的執行型人才，而較接近黃藥師、張三豐與掃地僧的綜合特質。  
 Using characters from Jin Yong's novels as archetypes, the individual bears less similarity to the execution-focused Guo Jing and more resemblance to a combination of Huang Yaoshi, Zhang Sanfeng, and the Sweeper Monk.  
   
 # 二、核心人格分析 | Core Personality Analysis  
