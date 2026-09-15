@@ -2,11 +2,9 @@
 
 > Competency Assessment Reports | 職能評估報告  
 > * [Talent Suitability Assessment Report | 人才適配性評估報告](SuitabilityASIA.md)  
-Asia Edition. Based on Jin Yong characters, concise format.  
-亞洲版，以金庸人物為模型，篇幅精簡。   
+Asia Edition, concise format. | 亞洲版，篇幅精簡。     
 > * [Professional Competency Assessment Report | 職能適配性評估報告](SuitabilityGLOBAL.md)  
-Global Edition. Based on Greek mythology archetypes, comprehensive version.  
-全球版，以希臘神話人物為模型，篇幅完整。    
+Global Edition, comprehensive version. | 全球版，篇幅完整。  
 
 ## Rationale for Adopting Natal Chart Analysis | 採用星盤分析之理由  
 
