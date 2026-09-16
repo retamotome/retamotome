@@ -1,5 +1,27 @@
 # Chief Architecture Insight Officer | 首席架構洞察官（CAIO）
 
+## About the Title | 職務名稱說明
+
+**Chief Architecture Insight Officer (CAIO)** is not a standard job title directly adopted from the existing employment market.  
+**Chief Architecture Insight Officer（CAIO）首席架構洞察官**並非作者直接取自現有人力市場中的既有標準職稱。  
+
+The title was developed by the author based on **more than 20 years of experience in technical staff and advisory roles**, by organizing, abstracting, and synthesizing the responsibilities, ways of thinking, and capabilities required in practice, with AI assisting in naming the resulting role.  
+此職務名稱是作者基於**二十餘年技術幕僚工作經驗**，將實際工作中所涉及的職務內容、思考方式與所需能力進行整理、抽象與歸納後，再由 AI 協助命名所形成的角色定義。  
+
+<details><summary>More Information | 更多說明</summary>
+
+Therefore, the CAIO described in this document can be regarded as a **role model defined by its capabilities and actual responsibilities**, rather than as a standardized job title that is already widely established in the employment market.   
+因此，本文件所描述的 CAIO，**可視為一個以職務能力與實際工作內容為核心定義的角色模型**，而非宣稱市場上已普遍存在的標準職稱。  
+
+Highly comparable positions are uncommon in the general public job market. This combination of capabilities is more likely to be found in **senior technical consulting, technical staff, strategic or architecture advisory roles, or specialized executive search and headhunting**.  
+目前一般公開人力市場中，與此完整角色高度對應的職缺並不常見。這類能力組合較可能出現在**高階技術顧問、技術幕僚、策略／架構幕僚，以及針對特殊專業能力進行的高階獵才**情境中。  
+
+In other words, the purpose of this document is not to claim that the market already has a widely established position called “CAIO,” but to describe a **relatively uncommon yet clearly valuable senior technical insight and decision-support role** within an organization.  
+換言之，本文的重點並非證明「市場上已有一個叫 CAIO 的職位」，而是描述一種在組織中相對少見、但具有明確價值的**高階技術洞察與決策支援角色**。  
+
+</details>
+
+---
 
 ## Mission | 使命  
   
@@ -71,7 +93,7 @@ Then discuss solutions | 再討論解法
 ```
  ***
 
-# Organizational Value | 組織價值
+## Organizational Value | 組織價值
 
 | Traditional Architect<br>一般架構師 | Chief Architecture Risk Officer<br>首席架構風險官 | Chief Architecture Reality Officer<br>首席架構現實官 | Chief Architecture Insight Officer ⭐<br>首席架構洞察官 |
 | --- | --- | --- | --- |
@@ -80,7 +102,7 @@ Then discuss solutions | 再討論解法
 
 ***
 
-# Capability Model | 能力模型
+## Capability Model | 能力模型
 
 ```text
                    首席架構洞察官
@@ -112,9 +134,9 @@ Then discuss solutions | 再討論解法
 ***
 
 
-# Five Core Responsibilities | 五大核心職責
+## Five Core Responsibilities | 五大核心職責
 
-## Reality Validation | 現實檢驗
+### Reality Validation | 現實檢驗
 
 Validate whether organizational beliefs are supported by evidence and measurable facts.  
 驗證組織認知是否具備事實基礎與可驗證證據。  
@@ -127,7 +149,7 @@ Validate whether organizational beliefs are supported by evidence and measurable
 
 ***
 
-## Risk Validation | 風險檢驗
+### Risk Validation | 風險檢驗
 
 Identify factors that may lead to failure before they become organizational problems.  
 提前發現可能導致失敗的因素，避免風險演變為組織問題。  
@@ -151,7 +173,7 @@ Have these risks been seen and acknowledged?
 
 ***
 
-## Contradiction Validation | 矛盾檢驗
+### Contradiction Validation | 矛盾檢驗
 
 Identify conflicts among goals, processes, and governance mechanisms.  
 尋找目標、流程與制度之間的衝突與不一致。  
@@ -177,7 +199,7 @@ Can both statements be true at the same time?
 
 ***
 
-## Premise Validation | 前提檢驗
+### Premise Validation | 前提檢驗
 
 Reveal hidden assumptions behind decisions.  
 識別決策背後未被明確說明的隱藏假設。  
@@ -201,7 +223,7 @@ What happens if we do not use AI? | 不用 AI 會怎樣？
 ***
 
 
-## Frame Validation | 觀察座標檢驗
+### Frame Validation | 觀察座標檢驗
 
 Challenge the definition of the problem itself when discussions are constrained by existing assumptions.  
 當團隊受限於既有思維框架時，挑戰問題定義本身。  
@@ -213,7 +235,7 @@ Challenge the definition of the problem itself when discussions are constrained 
 | How many microservices should we split into?<br>微服務要拆幾個？ | Who said microservices are necessary?<br>誰說一定要微服務？ |  
 
 ***
-# Typical Statements in Decision Meetings | 決策會議中的典型發言
+## Typical Statements in Decision Meetings | 決策會議中的典型發言
 
 | Others<br>其他人 | CAIO Response<br>首席架構洞察官 |
 | --- | --- | 
@@ -225,7 +247,7 @@ Challenge the definition of the problem itself when discussions are constrained 
 
 ***
 
-# Summary | 總結
+## Summary | 總結
 
 > The Chief Architecture Insight Officer is not responsible for finding the best solution, but for validating whether the problem, assumptions, evidence, and frame of observation are valid before the organization commits significant resources.  
 > 首席架構洞察官並非負責為組織尋找最佳解，而是負責在組織投入大量資源之前，驗證問題、前提、證據與觀察座標是否成立。  
@@ -233,7 +255,7 @@ Challenge the definition of the problem itself when discussions are constrained 
 A simpler version:  
 更容易記憶的版本：  
 
-> Others optimize answers. The Chief Architecture Insight Officer validates the question.
+> Others optimize answers. The Chief Architecture Insight Officer validates the question.  
 > 別人在優化答案；首席架構洞察官在驗證問題。
 
 The ultimate objective is:  
@@ -242,25 +264,6 @@ The ultimate objective is:
 > 避免整個組織非常努力地解決一個不存在、定義錯誤，或建立在錯誤前提上的問題。  
 
 ---
-## About the Title | 職務名稱說明
-
-**Chief Architecture Insight Officer (CAIO)** is not a standard job title directly adopted from the existing employment market.  
-**Chief Architecture Insight Officer（CAIO）首席架構洞察官**並非作者直接取自現有人力市場中的既有標準職稱。  
-
-The title was developed by the author based on **more than 20 years of experience in technical staff and advisory roles**, by organizing, abstracting, and synthesizing the responsibilities, ways of thinking, and capabilities required in practice, with AI assisting in naming the resulting role.  
-此職務名稱是作者基於**二十餘年技術幕僚工作經驗**，將實際工作中所涉及的職務內容、思考方式與所需能力進行整理、抽象與歸納後，再由 AI 協助命名所形成的角色定義。  
-
-Therefore, the CAIO described in this document can be regarded as a **role model defined by its capabilities and actual responsibilities**, rather than as a standardized job title that is already widely established in the employment market.  
-因此，本文件所描述的 CAIO，**可視為一個以職務能力與實際工作內容為核心定義的角色模型**，而非宣稱市場上已普遍存在的標準職稱。  
-
-Highly comparable positions are uncommon in the general public job market. This combination of capabilities is more likely to be found in **senior technical consulting, technical staff, strategic or architecture advisory roles, or specialized executive search and headhunting**.  
-目前一般公開人力市場中，與此完整角色高度對應的職缺並不常見。這類能力組合較可能出現在**高階技術顧問、技術幕僚、策略／架構幕僚，以及針對特殊專業能力進行的高階獵才**情境中。  
-
-In other words, the purpose of this document is not to claim that the market already has a widely established position called “CAIO,” but to describe a **relatively uncommon yet clearly valuable senior technical insight and decision-support role** within an organization.  
-換言之，本文的重點並非證明「市場上已有一個叫 CAIO 的職位」，而是描述一種在組織中相對少見、但具有明確價值的**高階技術洞察與決策支援角色**。  
-
----
-
   
 # References | 參考資源  
 ## Collaboration Scenarios | 協作情境
@@ -268,7 +271,6 @@ In other words, the purpose of this document is not to claim that the market alr
 * ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)   
 From Peach Blossom Formation to Ocean-Scale Peach Blossom Formation: System Vulnerabilities, Breakthrough Innovation, and Architectural Reframing Through the Lens of _The Legend of the Condor Heroes_. (Chinese only)  
  
-   
 ## Competency Assessment Reports | 職能評估報告  
 * [Talent Suitability Assessment Report | 人才適配性評估報告](SuitabilityASIA.md)  
 Asia Edition, concise format. | 亞洲版，篇幅精簡。     
