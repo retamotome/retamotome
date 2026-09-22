@@ -276,7 +276,9 @@ From Peach Blossom Formation to Ocean-Scale Peach Blossom Formation: System Vuln
 Asia Edition, concise format. | 亞洲版，篇幅精簡。     
 * [Professional Competency Assessment Report | 職能適配性評估報告](SuitabilityGLOBAL.md)  
 Global Edition, comprehensive version. | 全球版，篇幅完整。 
-* [獨立技術／系統架構顧問服務契約](Contract.md)
+
+## Agreement | 契約
+* [Reta Independent Technology Strategy and System Architecture Consulting Services Agreement | Reta 獨立技術策略與系統架構顧問服務契約](Agreement.md)
 
 ---
 
