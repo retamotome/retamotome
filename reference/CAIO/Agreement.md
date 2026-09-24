@@ -857,12 +857,13 @@ If such transaction would reasonably and materially impair the other Party's int
 ## 第二十條　準據法及管轄法院 | Article 20 Governing Law and Jurisdiction
 
 一  
-甲、乙雙方同意就本契約之內容所生疑義，應秉持誠信原則協商解決，並依中華民國法律解釋及適用之。  
+甲、乙雙方同意，本契約之成立、效力、解釋、履行、終止及因本契約所生或與本契約有關之一切爭議，均依中華民國（臺灣）法律解釋及適用之。  
+雙方應秉持誠信原則，以友好協商方式解決爭議。  
 This Agreement shall be governed by and construed in accordance with the laws of the Republic of China (Taiwan), without regard to its conflict of law principles.  
 The Parties shall first attempt in good faith to resolve any dispute arising out of or relating to this Agreement through amicable negotiations.  
 
 二  
-如雙方因本契約涉訟，同意以臺灣臺中地方法院為第一審管轄法院。  
+如因本契約所生或與本契約有關之爭議而涉訟，雙方同意以臺灣臺中地方法院為第一審管轄法院。  
 Any dispute arising out of or relating to this Agreement that cannot be resolved through negotiation shall be submitted to the Taiwan Taichung District Court as the court of first instance.  
 
 三  
