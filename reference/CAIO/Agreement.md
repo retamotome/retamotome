@@ -16,8 +16,8 @@ The Client desires to retain the Consultant to provide independent consulting se
 ## 第一條　契約期間 | Article 1 Term
 
 一  
-本契約期間自西元 ____ 年 __ 月 __ 日起至 ____ 年 __ 月 __ 日止。  
-The term of this Agreement shall commence on __________ and shall continue until __________, unless earlier terminated in accordance with the provisions of this Agreement.  
+本契約期間自西元 20__ 年 01 月 01 日起至 20__ 年 12 月 31 日止。  
+The term of this Agreement shall commence on January 1, 20__ and expire on December 31, 20__, unless earlier terminated in accordance with Article 17.   
 
 二  
 契約期滿後，如雙方有意續約，應另行協議續約條件。  
