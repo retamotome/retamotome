@@ -56,7 +56,7 @@ Except for tax withholdings required by applicable law, the Client shall not wit
 
 ---
 
-## 第三條 差旅費及相關費用 | Article 3 Travel Expenses and Related Costs
+## 第三條　差旅費及相關費用 | Article 3 Travel Expenses and Related Costs
 
 一、差旅費之負擔 | Responsibility for Travel Expenses  
 
