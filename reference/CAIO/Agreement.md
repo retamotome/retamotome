@@ -17,7 +17,7 @@ The Client desires to retain the Consultant to provide independent consulting se
 
 一  
 本契約期間自西元 20__ 年 01 月 01 日起至 20__ 年 12 月 31 日止。  
-The term of this Agreement shall commence on January 1, 20__ and expire on December 31, 20__, unless earlier terminated in accordance with Article 17.   
+The term of this Agreement shall commence on January 1, 20__ and expire on December 31, 20__, unless earlier terminated in accordance with Article 18.   
 
 二  
 契約期滿後，如雙方有意續約，應另行協議續約條件。  
@@ -43,24 +43,308 @@ The consulting fee represents compensation for:
 （c）the research, analysis, preparation, and related activities reasonably required to perform the Services.  
  
 三  
-甲方如因乙方要求而有出差行程，經乙方事前核可後，差旅費依乙方當時適用之差旅規定辦理。  
-Reasonable travel and out-of-pocket expenses incurred at the Client's request shall be reimbursed by the Client, provided that such expenses have been approved in advance by the Client and are consistent with the Client's applicable travel policies.  
-
-四  
 乙方應於每月二十日前，以電匯方式將當月顧問費匯款至甲方指定帳戶。  
 The Client shall remit the monthly consulting fee to the bank account designated by the Consultant no later than the twentieth （20th）day of each month.  
 
-五  
+四  
 甲方應依相關法令及乙方依法辦理扣繳所必要之範圍，提供必要之身分及稅務資料。  
 The Consultant shall provide such identification and tax-related information as may be reasonably required for compliance with applicable tax withholding and reporting obligations.  
 
-六  
+五  
 除依法應由乙方代扣繳之稅款外，乙方不得任意扣減應支付予甲方之顧問費。  
 Except for tax withholdings required by applicable law, the Client shall not withhold, offset, reduce, or otherwise deduct any amount from the consulting fees payable to the Consultant without the Consultant's prior written consent.  
 
 ---
 
-## 第三條　服務內容 | Article 3  Services 
+## 第三條 差旅費及相關費用 | Article 3 Travel Expenses and Related Costs
+
+一、差旅費之負擔 | Responsibility for Travel Expenses  
+
+甲方因履行本契約，經乙方事前以書面方式（包括電子郵件、電子簽核系統或其他雙方同意之電子方式）指示、要求或同意辦理國內外出差者，其因此所生之合理且必要費用，由乙方負擔。  
+Where Consultant is required, requested, instructed, or otherwise authorized in writing by Client (including email, electronic approval systems, or other mutually agreed electronic means) to undertake domestic or international travel for the performance of this Agreement, Client shall reimburse or bear all reasonable, necessary, and properly documented travel-related expenses incurred by Consultant.  
+
+前項費用包括但不限於：  
+Such reimbursable expenses shall include, without limitation:  
+
+（一）  
+交通費（含機票、高鐵、鐵路、計程車、租車、停車費、過路費及當地交通費）。  
+Transportation expenses, including airfare, rail, high-speed rail, taxi, ride-hailing services, car rental, parking fees, tolls, and local transportation.  
+
+（二）  
+住宿費。  
+Accommodation expenses.  
+
+（三）  
+膳食費。  
+Meals and incidental expenses.  
+
+（四）  
+簽證、護照、入境許可及相關規費。  
+Visa, passport, entry permit, and related governmental fees.  
+
+（五）  
+出差所需保險費用。  
+Travel and business-related insurance.  
+
+（六）  
+行李託運費及機場接送費。  
+Baggage handling and airport transfer expenses.  
+
+（七）  
+通訊費（含漫遊、SIM卡及網路服務費）。  
+Communication expenses, including roaming charges, SIM cards, and internet access.  
+
+（八）  
+跨境匯款手續費、信用卡交易手續費及支付相關費用。  
+International payment, remittance, and credit card transaction fees.  
+
+（九）  
+機場稅、燃油附加費、住宿稅、城市稅及依法應繳納之相關稅費。  
+Airport taxes, fuel surcharges, hotel taxes, city taxes, and other legally required charges.  
+
+（十）  
+其他經雙方確認或依一般商業慣例認屬必要之支出。  
+Any other expenses reasonably incurred and consistent with generally accepted business practices.  
+
+費用是否屬合理且必要，應依出差地市場行情、工作需求、交通便利性、安全性及一般商業慣例綜合判斷。  
+The reasonableness and necessity of any expense shall be determined based on prevailing market conditions at the destination, business requirements, convenience, safety considerations, and generally accepted commercial practices.  
+
+二、交通及住宿標準 | Travel and Accommodation Standards  
+
+國外出差之航空運輸以經濟艙為原則。  
+International air travel shall generally be booked in economy class.  
+
+有下列情形之一者，甲方得搭乘較高艙等：  
+Consultant may book a higher class of travel where any of the following circumstances applies:  
+
+（一）  
+單程飛行時間達八小時以上。  
+The one-way flight time exceeds eight (8) hours.  
+
+（二）  
+須轉機二次以上。  
+Two or more flight connections are required.  
+
+（三）  
+因專案時程、工作需求或客戶要求。  
+Project schedules, operational requirements, or client requests so require.  
+
+（四）  
+因安全、健康或其他合理事由。  
+Safety, health, or other reasonable considerations justify such travel.  
+
+（五）  
+經乙方同意者。  
+Client provides prior approval.  
+
+住宿應以符合當地安全標準、商務需求及工作便利性之住宿設施為原則。  
+Accommodation shall be selected based on reasonable business standards, safety requirements, and operational convenience.  
+
+如乙方指定特定交通工具、住宿地點或供應商而增加費用者，增加部分由乙方負擔。  
+Any additional costs arising from Client's requirement to use a specific carrier, hotel, transportation provider, or vendor shall be borne by Client.  
+
+三、差旅預算 | Travel Budget Guidelines  
+
+除雙方另有書面約定外：  
+Unless otherwise agreed in writing:  
+
+（一）  
+亞洲地區出差，以每人每次新臺幣十萬元為預算參考。  
+Travel within Asia shall have a reference budget of NT$100,000 per traveler per trip.  
+
+（二）  
+亞洲以外地區出差，以每人每次新臺幣二十萬元為預算參考。  
+Travel outside Asia shall have a reference budget of NT$200,000 per traveler per trip.  
+
+前述金額僅供預算管理及費用預估參考，非差旅費給付上限。  
+The foregoing amounts are provided solely as budgeting guidelines and estimates and shall not constitute reimbursement caps.  
+
+如因下列情形之一致實際支出超過預算參考金額者，雙方應本於誠信原則協商處理：  
+Where actual expenses exceed the reference budget due to any of the following circumstances, the Parties shall resolve the matter through good-faith consultation:  
+
+（一）  
+異常市場價格波動。  
+Significant fluctuations in market prices.  
+
+（二）  
+展覽、會議或旅遊旺季。  
+Conferences, exhibitions, or peak travel seasons.  
+
+（三）  
+當地資源供給不足。  
+Limited availability of transportation or accommodation resources.  
+
+（四）  
+客戶指定需求。  
+Client-designated locations, schedules, or requirements.  
+
+（五）  
+專案緊急需求。  
+Urgent project requirements.  
+
+（六）  
+其他合理事由。  
+Other commercially reasonable circumstances.  
+
+四、保險 | Travel Insurance  
+
+甲方依乙方要求辦理國外出差時，乙方應負擔出差期間所需之海外醫療保險、旅遊平安保險、意外保險及其他必要保險費用。  
+For international travel requested by Client, Client shall bear the cost of travel accident insurance, overseas medical insurance, and any other insurance reasonably required for the trip.  
+
+保險期間應涵蓋出差期間及合理往返期間。  
+The insurance coverage period shall include the travel period and reasonable transit time before and after the trip.  
+
+如乙方未辦理投保，而由甲方自行辦理者，甲方得檢附相關憑證請求乙方全額償付。  
+If Client fails to arrange such insurance and Consultant obtains the required coverage directly, Client shall reimburse Consultant in full upon submission of supporting documentation.  
+
+五、預支及結算 | Travel Advances  
+
+乙方要求甲方出差時，甲方得提出預估差旅費明細並申請預支款。  
+Where travel is requested by Client, Consultant may submit a travel expense estimate and request a travel advance.  
+
+乙方應於收到申請後五個工作日內支付合理金額之預支款，原則上不得低於預估差旅費總額百分之八十。  
+Client shall provide a reasonable travel advance within five (5) business days after receipt of such request, which shall generally be no less than eighty percent (80%) of the estimated travel costs.  
+
+如乙方未於出發日前依約支付預支款，甲方得暫停或順延出差行程及相關履約工作，並得要求雙方協商調整出差時程或其他替代方案；因此所生之履約期限順延、專案延遲或其他影響，均不視為甲方違約，相關責任亦不歸責於甲方。  
+If Client fails to make the agreed advance payment prior to the departure date, Consultant may suspend or postpone the business trip and any related performance of the Services, and may request that the Parties discuss and agree upon a revised travel schedule or alternative arrangements. Any extension of performance deadlines, project delays, or other consequences arising therefrom shall not constitute a breach of this Agreement by Consultant, and Consultant shall bear no responsibility or liability in connection therewith.  
+
+
+六、核銷及付款 | Expense Reimbursement and Payment  
+
+甲方應於合理期間內檢附發票、收據、電子憑證、訂單紀錄、信用卡簽單或其他足資證明支出之文件辦理核銷。  
+Consultant shall submit invoices, receipts, electronic records, order confirmations, credit card charge slips, or other supporting documentation sufficient to substantiate the expenses within a reasonable period for reimbursement purposes.  
+
+因當地法令、商業慣例或客觀環境因素，致無法取得正式憑證者，甲方得提出支出說明及其他足資證明支出事實之佐證資料作為核銷依據。  
+Where official receipts or supporting documents cannot reasonably be obtained due to applicable laws, customary business practices, or objective circumstances in the relevant location, Consultant may provide a written explanation together with other supporting evidence sufficient to substantiate the expense for reimbursement purposes.  
+
+乙方如對核銷資料有疑義，應於收到相關文件後十五個工作日內一次性提出具體項目及理由；逾期未提出者，視為核銷內容已經乙方確認且無異議。  
+If Client has any questions or objections regarding the reimbursement documents, it shall provide a one-time written notice specifying all disputed items and the reasons therefor within fifteen (15) Business Days after receipt of such documents. Failure to do so within the foregoing period shall be deemed acceptance of the reimbursement submission without objection.  
+
+甲方依乙方要求補充說明、補正或補件後，乙方應於十五個工作日內完成審核；除經甲方同意或有合理事由外，乙方不得就同一事項再次要求補正或補件。  
+Upon Consultant's submission of additional explanations, corrections, or supplementary documents as reasonably requested by Client, Client shall complete its review within fifteen (15) Business Days. Unless otherwise agreed by Consultant or justified by reasonable cause, Client shall not repeatedly request supplementation or correction concerning the same matter.  
+
+經核銷確認後：  
+Upon final confirmation of the reimbursement:  
+
+（一）  
+實際支出高於預支款者，乙方應給付差額。  
+If the actual expenses exceed the advance payment, Client shall pay the shortfall.  
+
+（二）  
+實際支出低於預支款者，甲方應返還溢領部分。  
+If the actual expenses are less than the advance payment, Consultant shall refund the excess amount received.  
+
+乙方應於核銷確認後三十日內完成付款。  
+Client shall make payment within thirty (30) days following confirmation of the reimbursement claim.  
+
+乙方未於前項期限內付款者，自付款期限屆滿之次日起至實際付款日止，按中華民國民法規定之法定遲延利率計付遲延利息。  
+If Client fails to make payment within the foregoing period, interest on overdue amounts shall accrue from the day immediately following the payment due date until the actual payment date, at the statutory default interest rate applicable under the laws of the Republic of China (Taiwan).  
+
+差旅費之給付，不得以專案驗收、系統上線、客戶驗收完成、成果交付或其他與差旅費無直接關聯之事項作為付款條件或給付前提。  
+Payment of travel expenses shall not be conditioned upon project acceptance, system go-live, customer acceptance, delivery of work products, or any other matter unrelated to the travel expenses themselves.  
+
+
+七、出差取消、延期或變更 | Cancellation, Postponement, or Modification of Business Trips  
+
+甲方依乙方要求完成機票、住宿、簽證、保險、交通或其他相關安排後，如因可歸責於乙方之事由致出差取消、延期、改期、縮短或變更目的地者，乙方應負擔因此所生之合理費用及損失。  
+If Consultant has arranged air tickets, accommodations, visas, insurance, transportation, or other travel arrangements at Client's request, and the business trip is cancelled, postponed, rescheduled, shortened, or the destination is changed due to reasons attributable to Client, Client shall bear all reasonable costs and losses incurred as a result thereof.  
+
+前項費用及損失包括但不限於：  
+Such costs and losses include, without limitation:  
+
+（一）  
+已支付且無法退還之機票費用。  
+Non-refundable airfare already paid.
+
+（二）  
+退票費及改票費。  
+Ticket cancellation or change fees.
+
+（三）  
+住宿取消費。  
+Accommodation cancellation charges.  
+
+（四）  
+簽證及規費支出。  
+Visa fees and governmental charges.  
+
+（五）  
+保險費。  
+Insurance premiums.
+
+（六）  
+已發生之交通費。  
+Transportation expenses already incurred; and  
+
+（七）  
+其他因此所生之合理必要支出。  
+Any other reasonable and necessary expenses resulting therefrom.  
+
+如因甲方可歸責事由所致者，由甲方自行負擔。  
+Where such costs or losses arise from causes attributable to Consultant, Consultant shall bear the relevant costs and losses.  
+
+八、出差期間之工作時間及報酬 | Working Time and Compensation During Business Trips  
+
+乙方要求甲方進行出差時，自甲方離開工作地點、住所或雙方約定之出發地起，至返回原出發地止之期間，包括交通、候機、轉機、通關、等候接駁及其他因出差所需之必要移動時間，均屬履行本契約相關工作之時間。  
+Where Client requires Consultant to undertake a business trip, the period commencing from Consultant's departure from its workplace, residence, or other mutually agreed place of departure until Consultant's return thereto, including travel, check-in, waiting, flight connections, customs clearance, shuttle transfers, and other necessary travel-related time, shall be deemed time spent in connection with the performance of this Agreement.  
+
+前項時間應納入本契約約定之工作時間範圍。其中，甲方於出差期間實際執行工作、參與會議、教育訓練、客戶訪談、現場支援或其他履約活動之時間，應依本契約約定全額計入計費工時；單純交通移動、候機、轉機、通關、接駁及其他非實際工作之時間，則按實際發生時數之百分之五十（50%）計入計費工時。但雙方另有書面約定者，不在此限。  
+Such time shall be included within the working time contemplated under this Agreement. Time spent by Consultant performing actual work, attending meetings, participating in training sessions, conducting customer interviews, providing on-site support, or engaging in other contractual activities during the trip shall be fully billable. Pure travel time, including transit, waiting, flight connections, customs clearance, transfers, and other non-working travel-related activities, shall be billable at fifty percent (50%) of the actual time incurred, unless otherwise agreed by the Parties in writing.  
+
+因班機延誤、航班取消、天候因素、政府管制措施、罷工或其他非可歸責於甲方之事由所增加之停留、候機、轉機、移動或待命時間，均視為出差期間之一部分，其計費方式依前項約定辦理；因此增加之合理必要費用，由乙方負擔。  
+Any additional layover, waiting, transit, travel, or standby time arising from flight delays, flight cancellations, weather conditions, governmental actions, labor strikes, or any other circumstances beyond Consultant's reasonable control shall be deemed part of the business trip period. Compensation for such time shall be calculated in accordance with the preceding paragraph, and Client shall reimburse Consultant for all reasonable and necessary costs and expenses incurred as a result thereof.  
+
+乙方不得以甲方處於交通移動、候機、轉機、待命、住宿、跨境旅行或非客戶現場期間為由，否認該期間屬履行本契約所需之時間，或拒絕依本條約定支付相關報酬。  
+Client shall not deny that such periods constitute time reasonably required for the performance of this Agreement, nor refuse payment of compensation in accordance with this Article, solely because Consultant is traveling, waiting, in transit, on standby, lodging, crossing international borders, or not physically present at the customer's site.  
+
+如出差安排於例假日、休息日、國定假日或雙方約定工作時間以外之時段進行者，乙方仍應依本契約約定之計費標準給付相關報酬。  
+Where travel is required on weekends, rest days, public holidays, or outside the Parties' agreed working hours, Client shall compensate Consultant in accordance with the billing rates and payment terms set forth in this Agreement.  
+
+九、外幣換算 | Foreign Currency Conversion  
+
+國外出差之外幣支出，依下列順序換算為新臺幣：  
+Foreign currency expenses shall be converted into New Taiwan Dollars in the following order of priority:  
+
+（一）  
+信用卡帳單實際請款金額。  
+Actual credit card billing amount.  
+
+（二）  
+金融機構結匯證明所載金額。  
+Amount shown on official foreign exchange documentation.  
+
+（三）  
+無前二款資料者，以支出當日臺灣銀行公告即期賣出匯率計算。  
+The spot selling exchange rate published by Bank of Taiwan on the transaction date.  
+
+因匯率波動、支付手續費或其他跨境支付成本所生差額，由乙方負擔。  
+Any reasonable exchange rate differences and cross-border payment charges shall be borne by Client.  
+
+十、不可抗力 | Force Majeure  
+
+因天災、地震、颱風、水災、火災、戰爭、恐怖攻擊、暴動、政府命令、法令變更、疫情、邊境管制、國際制裁、航班停飛、簽證遭拒，或其他非雙方所能合理控制之不可抗力事件（以下稱「不可抗力事件」），致出差計畫無法執行、延遲、中斷或受重大影響者，受該事件影響之一方應於合理期間內通知他方。  
+If any business trip is prevented, delayed, suspended, materially affected, or rendered impracticable due to a natural disaster, earthquake, typhoon, flood, fire, war, terrorist act, civil unrest, governmental action, change in law, epidemic, pandemic, border restriction, international sanction, flight suspension, visa denial, or any other event beyond the reasonable control of the affected Party (each, a "Force Majeure Event"), the affected Party shall notify the other Party within a reasonable time after becoming aware of such event.  
+
+於不可抗力事件持續期間內，雙方得暫停履行受影響之契約義務，就其未能履行或延遲履行之部分，不負違約或遲延責任。但受影響之一方應採取合理措施，以減輕不可抗力事件所造成之影響及損失。  
+During the continuance of a Force Majeure Event, either Party may suspend performance of the obligations affected thereby, and neither Party shall be liable for any failure or delay in performance to the extent resulting from such Force Majeure Event. The affected Party shall, however, use commercially reasonable efforts to mitigate the impact of the Force Majeure Event and to resume performance as soon as reasonably practicable.  
+
+如該出差係依乙方要求、指示或同意辦理者，因不可抗力事件所產生且已實際發生而無法退還之機票、住宿、簽證、保險、交通費用及其他合理必要支出，應由乙方負擔；惟甲方應盡合理努力申請退款、折抵或其他可得減免之措施。  
+Where the relevant business trip was requested, directed, or approved by Client, any airfare, accommodation costs, visa fees, insurance premiums, transportation expenses, and other reasonable and necessary costs actually incurred by Consultant that are non-refundable as a result of the Force Majeure Event shall be borne by Client. Consultant shall use reasonable efforts to obtain any available refunds, credits, reimbursements, or other forms of cost recovery.  
+
+不可抗力事件持續超過三十（30）日，且雙方合理判斷已無法達成相關出差或契約目的者，任一方均得以書面通知終止、取消或調整相關出差安排，而不負違約責任。  
+If a Force Majeure Event continues for more than thirty (30) consecutive days and the Parties reasonably determine that the purpose of the relevant business trip or the affected contractual obligations can no longer be achieved, either Party may terminate, cancel, postpone, or otherwise modify the affected travel arrangements upon written notice to the other Party, without liability for breach of contract.  
+
+十一、一般約定 | General Provisions  
+
+乙方不得以其內部管理規章、差旅辦法、採購政策、財務制度或其後續修訂內容，單方面變更、限制、排除或減少本契約約定之差旅費負擔範圍或付款義務。  
+Client shall not unilaterally modify, restrict, exclude, or reduce its obligations relating to travel expense reimbursement or payment under this Agreement by reference to any internal policies, travel rules, procurement procedures, financial controls, guidelines, or any subsequent amendments thereto.  
+
+雙方同意，與出差相關之安排、費用管理、核銷程序及付款事項，應依誠信原則、商業合理性及本契約目的辦理；如因市場環境、法令變更或其他重大情事變更，致本條約定之部分內容有調整必要者，雙方應本於誠信原則協商解決。  
+The Parties agree that all matters relating to travel arrangements, expense management, reimbursement procedures, and payment obligations shall be administered in good faith, in accordance with commercially reasonable standards, and in a manner consistent with the purpose of this Agreement. If material changes in market conditions, applicable laws, regulations, or other circumstances materially affect the implementation of this Article, the Parties shall negotiate in good faith to determine appropriate adjustments.  
+
+---
+
+## 第四條　服務內容 | Article 4  Services 
 
 一  
 甲方得依乙方提出之需求，提供下列一項或數項服務：  
@@ -134,7 +418,7 @@ The Client shall independently evaluate and determine whether and how such recom
 
 ---
 
-## 第四條　服務方式及顧問額度 | Article 4 Service Structure and Consulting Capacity
+## 第五條　服務方式及顧問額度 | Article 5 Service Structure and Consulting Capacity
 
 一  
 本契約採月度顧問費制，每月包含之服務額度為二十（20）小時。乙方支付之顧問費，係用於保留甲方之專業服務能力、研究投入及回應優先權。甲方原則上於一般工作時間內提供服務。非緊急事項之回應時間以二個工作日內為原則。非經甲方同意，甲方無提供夜間、假日或國定假日服務之義務。  
@@ -202,7 +486,7 @@ Unless otherwise agreed in writing, the Consultant shall have no obligation to d
 
 ---
 
-## 第五條　服務成果及交付 | Article 5 Deliverables
+## 第六條　服務成果及交付 | Article 6 Deliverables
 
 一  
 甲方應依雙方確認之工作內容及合理時程，提供相應之顧問意見、分析結果、研究成果或其他約定之交付成果。  
@@ -226,7 +510,7 @@ Any revision, enhancement, or supplemental work that materially exceeds the orig
 
 ---
 
-## 第六條　保密責任 | Article 6 Confidentiality
+## 第七條　保密責任 | Article 7 Confidentiality
 
 一  
 本契約所稱「機密資訊」，係指乙方以書面、電子、口頭或其他方式向甲方揭露，且於揭露時合理可認定具有保密性質之非公開資訊，包括但不限於營業秘密、技術資料、設計文件、原始碼、產品規劃、客戶資料、商業策略及其他未公開資訊。  
@@ -292,8 +576,8 @@ is required to be disclosed by law, regulation, judicial order, or governmental 
 If disclosure is required by applicable law, court order, or governmental authority, the Consultant shall, to the extent legally permissible, provide the Client with reasonable prior notice.  
 
 七  
-甲方因故意或重大過失違反本條保密義務，致乙方受有損害者，依本契約第十二條約定負責。  
-Any liability arising from the Consultant's intentional misconduct or gross negligence in connection with this Article shall be subject to Article 12 of this Agreement.  
+甲方因故意或重大過失違反本條保密義務，致乙方受有損害者，依本契約第十三條約定負責。  
+Any liability arising from the Consultant's intentional misconduct or gross negligence in connection with this Article shall be subject to Article 13 of this Agreement.  
 
 八  
 保密義務於本契約終止或屆滿後五年內繼續有效；依法屬營業秘密者，依相關法令規定辦理。  
@@ -305,7 +589,7 @@ Upon termination of this Agreement or upon the Client's reasonable request, the 
 
 ---
 
-## 第七條　智慧財產權 | Article 7 Intellectual Property Rights
+## 第八條　智慧財產權 | Article 8 Intellectual Property Rights
 
 一  
 甲方於本契約成立前已擁有或控制之知識、技術、程式、工具、模板、方法論、分析框架、架構模型、文件格式、軟體工具、範本、技術經驗及其他智慧財產，均屬甲方既有智慧財產，不因本契約之簽訂、履行或交付成果之交付而移轉予乙方。  
@@ -379,7 +663,7 @@ Unless expressly agreed in writing, the Consultant shall have no obligation to p
 
 ---
 
-## 第八條　法律關係 | Article 8 Relationship of the Parties
+## 第九條　法律關係 | Article 9 Relationship of the Parties
 
 一  
 甲方係以獨立專業顧問身分提供服務，並非乙方之員工、代理人或法定代表人。  
@@ -403,7 +687,7 @@ Except for the rights expressly granted under this Agreement, no license, assign
 
 ---
 
-## 第九條　獨立專業顧問關係 | Article 9 Independent Consulting Relationship
+## 第十條　獨立專業顧問關係 | Article 10 Independent Consulting Relationship
 
 一  
 甲方得依其專業判斷，自主決定完成服務所採用之方法、分析程序、研究方式及技術工具。  
@@ -427,7 +711,7 @@ The Parties acknowledge that their intent is to establish an independent contrac
 
 ---
 
-## 第十條　資料及資訊安全 | Article 10 Data Protection and Information Security
+## 第十一條　資料及資訊安全 | Article 11 Data Protection and Information Security
 
 一  
 甲方僅得於執行本契約所必要之範圍內使用乙方提供之資料。  
@@ -486,7 +770,7 @@ Notwithstanding the foregoing, the Consultant may retain information where reten
 
 ---
 
-## 第十一條　個人資料 | Article 11 Personal Data
+## 第十二條　個人資料 | Article 12 Personal Data
 
 一  
 如服務涉及個人資料之蒐集、處理或利用，雙方應依個人資料保護法及其他相關法令辦理。  
@@ -507,7 +791,7 @@ If the Client requires the Consultant to access, process, or handle sensitive pe
 
 ---
 
-## 第十二條　顧問責任及責任限制 | Article 12 Professional Responsibility and Limitation of Liability
+## 第十三條　顧問責任及責任限制 | Article 13 Professional Responsibility and Limitation of Liability
 
 一  
 甲方應以合理之專業注意義務提供本契約約定之顧問服務。甲方所提供之研究、分析、評估及建議，係依服務當時所取得之資料、乙方提供之資訊、公開可得之技術資訊及甲方當時合理之專業判斷為之。  
@@ -632,7 +916,7 @@ Except as expressly stated in this Agreement, the Consultant disclaims all warra
 
 ---
 
-## 第十三條　第三方資訊及技術方案 | Article 13 Third-Party Information and Technology Solutions
+## 第十四條　第三方資訊及技術方案 | Article 14 Third-Party Information and Technology Solutions
 
 一  
 甲方得於必要範圍內引用公開技術資料、第三方產品文件、開源軟體或其他第三方資訊。  
@@ -667,7 +951,7 @@ The Consultant shall have no obligation to monitor, update, notify, or advise th
 
 ---
 
-## 第十四條　非排他性 | Article 14 Non-Exclusivity
+## 第十五條　非排他性 | Article 15 Non-Exclusivity
 
 一  
 除雙方另有書面約定外，本契約不具有排他性。  
@@ -704,7 +988,7 @@ Nothing in this Agreement shall restrict the Consultant from continuing to devel
 
 ---
 
-## 第十五條　利益衝突 | Article 15 Conflicts of Interest
+## 第十六條　利益衝突 | Article 16 Conflicts of Interest
 
 一  
 甲方如發現其與其他客戶之合作可能與本契約產生重大且實質之利益衝突，應於合理可行範圍內通知乙方。  
@@ -742,7 +1026,7 @@ Any non-competition, exclusivity, restricted-customer, restricted-market, or res
 
 ---
 
-## 第十六條　不得挖角及規避合作 | Article 16 Non-Solicitation and Non-Circumvention
+## 第十七條　不得挖角及規避合作 | Article 17 Non-Solicitation and Non-Circumvention
 
 一  
 契約期間內及契約終止後一年內，乙方不得以直接或間接方式，招攬、聘僱、委任、聘請、合作或促使甲方為履行本契約所介紹、安排、管理或實際參與服務之顧問、專家、分包商、合作廠商或其他專業人員終止其與甲方之合作關係。  
@@ -769,7 +1053,7 @@ If the Consultant's actual damages exceed such amount, the Consultant may seek r
 
 ---
 
-## 第十七條　契約終止 | Article 17 Termination
+## 第十八條　契約終止 | Article 18 Termination
 
 一  
 甲、乙雙方得提前三十日以書面通知他方終止本契約。  
@@ -815,7 +1099,7 @@ The provisions relating to confidentiality, intellectual property, payment oblig
 
 ---
 
-## 第十八條　不可歸責事由 | Article 18 Force Majeure
+## 第十九條　不可歸責事由 | Article 19 Force Majeure
 
 一  
 因天災、戰爭、政府命令、重大網路或資訊基礎設施故障、疫情或其他非雙方合理控制之事由，致一方無法履行契約者，於合理範圍內不負違約責任。  
@@ -841,7 +1125,7 @@ Any performance deadline affected by a force majeure event shall be extended for
 
 ---
 
-## 第十九條　禁止轉讓 | Article 19 Assignment
+## 第二十條　禁止轉讓 | Article 20 Assignment
 
 一  
 未經他方事前書面同意，任一方不得將本契約之主要權利義務全部或部分轉讓予第三人。  
@@ -854,7 +1138,7 @@ If such transaction would reasonably and materially impair the other Party's int
 
 ---
 
-## 第二十條　準據法及管轄法院 | Article 20 Governing Law and Jurisdiction
+## 第二十一條　準據法及管轄法院 | Article 21 Governing Law and Jurisdiction
 
 一  
 甲、乙雙方同意，本契約之成立、效力、解釋、履行、終止及因本契約所生或與本契約有關之一切爭議，均依中華民國（臺灣）法律解釋及適用之。  
@@ -873,7 +1157,7 @@ In the event of any inconsistency, discrepancy, or conflict between the Chinese 
 
 ---
 
-## 第二十一條　完整合意 | Article 21 Entire Agreement
+## 第二十二條　完整合意 | Article 22 Entire Agreement
 
 一  
 本契約構成甲乙雙方就本契約事項之完整合意。  
@@ -897,11 +1181,67 @@ Failure or delay by either Party to exercise any right, power, or remedy under t
 
 ---
 
-## 第二十二條　契約生效 | Article 22 Effectiveness
+## 第二十三條　契約簽署及文件效力 | Article 23 Execution of Agreement and Legal Effect of Documents  
 
-本契約壹式貳份，由甲乙雙方代表簽章後生效，甲乙雙方各執壹份為憑。  
-This Agreement shall become effective upon execution by duly authorized representatives of both Parties.  
-This Agreement may be executed in two counterparts, each of which shall be deemed an original, and together shall constitute one and the same instrument. Each Party shall retain one fully executed counterpart for its records.  
+一、契約簽署方式 | Form of Execution  
+
+本契約得以紙本簽署、電子簽署或其他依法足以證明雙方意思表示之電子方式簽訂；無論採何種方式簽署，均具有相同之法律效力。  
+This Agreement may be executed in hard-copy form, by electronic signature, or by any other electronic means legally sufficient to evidence the Parties' intent to be bound. All such methods of execution shall have the same legal force and effect.  
+
+二、書面之定義 | Definition of Writing  
+
+本契約所稱「書面」或「書面方式」，包括紙本文件、電子郵件（E-mail）、電子簽署平台、電子文件交換系統、企業協作系統、資訊管理系統，以及其他足以記錄、保存及證明雙方意思表示之電子方式。  
+For purposes of this Agreement, the terms “written,” “in writing,” or “written form” include physical documents, electronic mail (e-mail), electronic signature platforms, electronic document exchange systems, collaboration platforms, information management systems, and any other electronic means capable of recording, retaining, and evidencing the Parties' communications and intentions.  
+
+三、電子簽署及電子紀錄之證明效力 | Evidentiary Effect of Electronic Signatures and Records  
+
+雙方同意，以電子簽署方式簽訂本契約者，其電子文件、電子簽章、數位簽章、驗證資料、時間戳記、稽核軌跡（Audit Trail）、傳送紀錄及其他足以證明簽署事實與文件完整性之電子紀錄，均得作為本契約成立、變更、履行及內容之證明。  
+Where this Agreement is executed electronically, the Parties agree that any electronic document, electronic signature, digital signature, authentication record, timestamp, audit trail, transmission record, or other electronic record evidencing execution and document integrity shall constitute valid evidence of the execution, amendment, performance, and contents of this Agreement.  
+
+四、電子通訊之效力 | Effect of Electronic Communications  
+
+除本契約另有約定外，雙方以電子郵件、電子簽署平台、企業系統或其他雙方同意之電子方式所為之同意、確認、核准、通知、申請、請款、驗收、出差核准、費用核銷及其他與本契約履行相關之往來紀錄，均與書面文件具有相同效力。  
+Unless otherwise expressly provided herein, any approvals, consents, confirmations, notices, requests, invoices, acceptances, travel authorizations, expense reimbursements, or other communications relating to the performance of this Agreement transmitted through e-mail, electronic signature platforms, enterprise systems, or other mutually agreed electronic means shall have the same legal effect as written documents.  
+
+五、電子文件之法律效力 | Legal Validity of Electronic Documents
+
+除法令另有強制規定外，任何一方不得僅因相關文件或紀錄係以電子形式建立、傳輸、保存、簽署或呈現，而否認其法律效力、證據能力、可執行性或可接受性。  
+Except as otherwise required by applicable law, neither Party shall deny the legal validity, admissibility, enforceability, or evidentiary value of any document or record solely because it was created, transmitted, stored, executed, or maintained in electronic form.  
+
+六、正本及複本 | Counterparts and Electronic Copies
+
+本契約得以一份或多份正本簽署，亦得以掃描檔、電子檔案或電子簽署方式完成簽訂。各該版本均視為正本，合併構成同一契約，並具有相同法律效力。  
+This Agreement may be executed in one or more counterparts, including by scanned copy, electronic file, or electronic signature. Each counterpart shall be deemed an original, and all counterparts together shall constitute one and the same Agreement.  
+
+七、書面同意及書面核准 | Written Consent and Written Approval
+
+本契約所稱「書面同意」、「書面核准」或其他類似用語，包括但不限於下列方式：  
+For purposes of this Agreement, “written consent,” “written approval,” and similar expressions include, without limitation:  
+
+（一）  
+經雙方或其授權代表簽署之紙本文件；  
+physical documents executed by the Parties or their authorized representatives;  
+
+（二）  
+可合理識別寄件人身分之電子郵件往來；  
+e-mail communications reasonably identifying the sender and evidencing the relevant approval or consent;  
+
+（三）  
+雙方指定之企業資訊系統、協作平台、ERP、CRM、專案管理系統、服務管理系統或其他電子工作流程系統所留存之核准紀錄；  
+approval records maintained within designated enterprise systems, collaboration platforms, ERP systems, CRM systems, project management systems, service management systems, or other electronic workflow systems designated by the Parties;  
+
+（四）  
+雙方同意使用之電子簽署平台所產生之簽署或核准紀錄；  
+signature or approval records generated through mutually agreed electronic signature platforms; and  
+
+（五）  
+其他足以證明雙方意思表示及相關授權內容之電子紀錄。  
+any other electronic record reasonably evidencing the Parties' intent and the applicable authorization.  
+
+八、授權代表 | Authorized Representatives  
+
+雙方同意，其員工、經理人、專案負責人或其他經合理表徵具有代表權限之人員，於其職務範圍內透過本條所定之電子方式所為之核准、確認、同意或指示，均視為代表該方所為之有效意思表示，對該方具有拘束力。  
+Each Party agrees that any approval, confirmation, consent, instruction, or other communication made through the means described in this Article by its employees, officers, project managers, or other personnel who reasonably appear to possess authority to act on behalf of such Party within the scope of their duties shall constitute a valid and binding act of that Party.  
 
 ---
 

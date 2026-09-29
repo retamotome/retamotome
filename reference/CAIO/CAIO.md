@@ -267,7 +267,8 @@ The ultimate objective is:
   
 # References | 參考資源  
 ## Collaboration Scenarios | 協作情境
-* [Technical Staff Character Reference and Role Definitions | 技術幕僚成員角色與說明](../CharacterBible.md)  
+* [技術幕僚成員角色與說明](../CharacterBible.md)   
+Technical Staff Character Reference and Role Definitions. (Chinese only)   
 * ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)   
 From Peach Blossom Formation to Ocean-Scale Peach Blossom Formation: System Vulnerabilities, Breakthrough Innovation, and Architectural Reframing Through the Lens of _The Legend of the Condor Heroes_. (Chinese only)  
  
@@ -278,8 +279,9 @@ Asia Edition, concise format. | 亞洲版，篇幅精簡。
 Global Edition, comprehensive version. | 全球版，篇幅完整。 
 
 ## Agreement | 契約
-* [Reta Independent Technology Strategy and System Architecture Consulting Services Agreement<br>Reta 獨立技術策略與系統架構顧問服務契約](Agreement.md)  
-以中華民國（臺灣）法律為準據法。   
+* [Reta 獨立技術策略與系統架構顧問服務契約<br>Reta Independent Technology Strategy and System Architecture Consulting Services Agreement](Agreement.md)  
+本協議以中華民國（臺灣）法律為準據法。  
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of China (Taiwan).     
 
 ---
 
