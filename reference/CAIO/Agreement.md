@@ -42,7 +42,7 @@ This Agreement is a fixed-term independent consulting services agreement. Upon e
 
 **一、顧問費用 | Section 2.1 Consulting Fee**   
 
-顧問費用：每月顧問費用為新臺幣________元，契約期間共十二個月。  
+顧問費用：每月顧問費用為新臺幣________元，契約期間共十二 (12) 個月。  
 As consideration for the Services, the Client shall pay the Consultant a consulting fee of NT$________ per month for a total engagement period of twelve （12）months.  
 
 **二、費用涵蓋範圍 | Section 2.2 Scope of Compensation**   
@@ -55,7 +55,7 @@ The consulting fee represents compensation for:
  
 **三、付款方式及期限 | Section 2.3 Payment Method and Due Date**   
 
-乙方應於每月二十日前，以電匯方式將當月顧問費匯款至甲方指定帳戶。  
+乙方應於每月二十 (20) 日前，以電匯方式將當月顧問費匯款至甲方指定帳戶。  
 The Client shall remit the monthly consulting fee to the bank account designated by the Consultant no later than the twentieth （20th）day of each month.  
 
 **四、稅務資料提供 | Section 2.4 Tax Information**    
@@ -544,7 +544,7 @@ If any request, modification, supplement, or additional work proposed by the Cli
 
 **二、口頭揭露資訊 | Section 7.2 Oral Disclosures**    
 
-如乙方以口頭或其他不易留存之方式揭露資訊，乙方應於揭露時告知其具有機密性質，並於揭露後三十日內以書面確認。  
+如乙方以口頭或其他不易留存之方式揭露資訊，乙方應於揭露時告知其具有機密性質，並於揭露後三十 (30) 日內以書面確認。  
 Where Confidential Information is disclosed orally or through another non-recorded medium, the Client shall identify the information as confidential at the time of disclosure and confirm such designation in writing within thirty (30) days.  
 
 **三、保密義務 | Section 7.3 Confidentiality Obligations**    
@@ -599,7 +599,7 @@ Any liability arising from the Consultant's intentional misconduct or gross negl
 
 **八、保密期間 | Section 7.8 Survival of Confidentiality Obligations**    
 
-保密義務於本契約終止或屆滿後五年內繼續有效；依法屬營業秘密者，依相關法令規定辦理。  
+保密義務於本契約終止或屆滿後五 (5) 年內繼續有效；依法屬營業秘密者，依相關法令規定辦理。  
 The confidentiality obligations set forth herein shall survive termination or expiration of this Agreement for five (5) years following termination or expiration of this Agreement, except that trade secrets shall remain protected for so long as such information qualifies as a trade secret under applicable law.  
 
 **九、返還與刪除 | Section 7.9 Return or Destruction of Information**    
@@ -890,7 +890,7 @@ regardless of the legal theory upon which such claim is based.
 
 **六、責任上限 | Section 13.6 Limitation of Liability Cap**   
 
-除甲方故意、重大過失或依法不得限制責任之情形外，甲方因本契約所負之累計損害賠償責任，以損害發生日前六個月內乙方實際支付予甲方之顧問費總額為上限。    
+除甲方故意、重大過失或依法不得限制責任之情形外，甲方因本契約所負之累計損害賠償責任，以損害發生日前六 (6) 個月內乙方實際支付予甲方之顧問費總額為上限。    
 Except for liability arising from the Consultant's willful misconduct, gross negligence, fraud, or circumstances for which liability may not be limited under applicable law, the Consultant's aggregate cumulative liability arising out of or relating to this Agreement shall not exceed the total consulting fees actually paid by the Client under this Agreement during the six (6) months immediately preceding the event giving rise to the claim.  
 
 **七、責任上限之適用範圍 | Section 13.7 Scope of Liability Limitation**   
@@ -948,7 +948,7 @@ The Consultant shall not be liable for damages resulting from:
 
 乙方如主張甲方應負損害賠償責任，應提出具體損害、合理之損害計算方式及因果關係之相關證明。  
 As a condition to recovery, the Client shall provide reasonable evidence demonstrating:  
-（a）the existence of actual damages;  
+(a) the existence of actual damages;  
 (b) the method used to calculate such damages; and  
 (c) a direct causal relationship between the alleged damages and the Consultant's conduct.  
 
@@ -989,7 +989,7 @@ The Client shall be solely responsible for obtaining any legal, tax, accounting,
 
 **十四、請求權期間限制 | Section 13.14 Limitation Period for Claims**   
 
-任何因本契約所生或與本契約有關之請求，應於請求權發生後一年內提出；逾期者，不得再行主張。  
+任何因本契約所生或與本契約有關之請求，應於請求權發生後一 (1) 年內提出；逾期者，不得再行主張。  
 Any claim arising out of or relating to this Agreement must be commenced within one (1) year after the cause of action first arises, failing which such claim shall be permanently barred.  
 
 **十五、免責保證條款 | Section 13.15 Disclaimer of Warranties**   
@@ -1130,7 +1130,7 @@ Any non-competition, exclusivity, restricted-customer, restricted-market, or res
 
 **一、禁止挖角 | Section 17.1 Non-Solicitation**   
 
-契約期間內及契約終止後一年內，乙方不得以直接或間接方式，招攬、聘僱、委任、聘請、合作或促使甲方為履行本契約所介紹、安排、管理或實際參與服務之顧問、專家、分包商、合作廠商或其他專業人員終止其與甲方之合作關係。  
+契約期間內及契約終止後一 (1) 年內，乙方不得以直接或間接方式，招攬、聘僱、委任、聘請、合作或促使甲方為履行本契約所介紹、安排、管理或實際參與服務之顧問、專家、分包商、合作廠商或其他專業人員終止其與甲方之合作關係。  
 During the term of this Agreement and for a period of one (1) year following its termination or expiration, the Client shall not, directly or indirectly, solicit, recruit, hire, engage, retain, contract with, or otherwise induce any consultant, advisor, specialist, subcontractor, contractor, service provider, or other professional introduced, managed, coordinated, or utilized by the Consultant in connection with the Services to terminate or reduce such person's relationship with the Consultant.  
 
 **二、禁止規避合作 | Section 17.2 Non-Circumvention**   
@@ -1165,7 +1165,7 @@ The Parties acknowledge that actual damages arising from a breach of this Articl
 
 **一、任意終止權 | Section 18.1 Termination for Convenience**    
 
-甲、乙雙方得提前三十日以書面通知他方終止本契約。  
+甲、乙雙方得提前三十 (30) 日以書面通知他方終止本契約。  
 Either Party may terminate this Agreement for convenience by providing at least thirty (30) days' prior written notice to the other Party.  
 
 **二、終止時之費用結算 | Section 18.2 Fees Upon Termination**   
@@ -1231,8 +1231,8 @@ Either Party may immediately terminate this Agreement upon written notice if the
 （四）為債權人利益而讓與主要資產，或與債權人達成一般性債務清理安排；   
 （d）makes an assignment for the benefit of creditors or enters into any general arrangement with creditors concerning its debts;  
 
-（五）解散、停業、歇業或停止主要營業活動。   
-（e）is dissolved, ceases business operations, or substantially discontinues its business activities.   
+（五）解散、停業、歇業或停止主要營業活動；   
+（e）is dissolved, ceases business operations, or substantially discontinues its business activities;   
 
 （六）乙方有連續三十（30）日以上未依本契約支付到期款項，且於甲方書面催告後十（10）日內仍未改善者。   
 （f）fails to pay any undisputed amount due under this Agreement for more than thirty (30) days after its due date and does not cure such failure within ten (10) days after receiving written notice from the Consultant.   
@@ -1277,7 +1277,7 @@ Neither Party may assign, delegate, transfer, sublicense, or otherwise dispose o
 
 **二、組織重整之例外 | Section 20.2 Assignment in Corporate Transactions**   
 
-但因公司合併、分割、組織重整或其他依法進行之企業組織變動而需移轉本契約者，應事先通知他方；如移轉後可能對他方權益造成重大影響，受影響之一方得於通知後三十日內終止本契約。  
+但因公司合併、分割、組織重整或其他依法進行之企業組織變動而需移轉本契約者，應事先通知他方；如移轉後可能對他方權益造成重大影響，受影響之一方得於通知後三十 (30) 日內終止本契約。  
 Notwithstanding the foregoing, a Party may assign this Agreement in connection with a merger, acquisition, corporate reorganization, business transfer, or similar transaction, provided that prior written notice is given.  
 If such transaction would reasonably and materially impair the other Party's interests, the affected Party may terminate this Agreement within thirty (30) days after receiving notice.  
 
