@@ -176,5 +176,5 @@ Email／電子郵件：[Email Address]
 © 2026 作者 潘貞元（Reta Pan），採用 [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。   
 © 2026 by Jen Yuan Pan is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
 
-For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [Full License Terms](https://github.com/retamotome/retamotome/blob/main/LICENSE.md). By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
-詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。使用本範本即表示您已閱讀、理解並同意遵守該等條款。  
+For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [Copyright Notice](https://github.com/retamotome/retamotome/blob/main/COPYRIGHT.md) and [Full License Terms](https://github.com/retamotome/retamotome/blob/main/LICENSE.md). By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
+詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[著作權聲明](https://github.com/retamotome/retamotome/blob/main/COPYRIGHT.md)》與《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。使用本範本即表示您已閱讀、理解並同意遵守該等條款。  
