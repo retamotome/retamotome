@@ -280,7 +280,6 @@ Global Edition, comprehensive version. | 全球版，篇幅完整。
 
 ## Agreement | 契約
 * [ RETA 獨立技術策略與系統架構顧問服務契約<br>RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](ConsultingAgreement.md)   
-* [ RETA 技術教育訓練服務契約<br>RETA TECHNICAL TRAINING SERVICES AGREEMENT](TrainingAgreement.md)   
 以上協議以中華民國（臺灣）法律為準據法。  
 The Agreements shall be governed by and construed in accordance with the laws of the Republic of China (Taiwan).     
 

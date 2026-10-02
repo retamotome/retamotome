@@ -29,24 +29,11 @@ Unless otherwise specified, educational materials, open courseware,
 articles and teaching videos are licensed under:  
 除另有說明外，課程教材、開放式課程、文章與教學影片採用以下授權：  
 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
- [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en)
+the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+ [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en)。
 
-Under this license, you may:  
-依據該授權條款，你可以：  
-
-- Share and redistribute the material | 分享與散布內容
-
-- Adapt, remix and build upon the material | 修改、改作與延伸內容
-
-Provided that:  
-但必須遵守：  
-
-- Attribution is given | 標示原作者
-
-- No commercial use | 不得作商業用途
-
-- Derivative works use the same license | 衍生作品需採相同授權
+For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [Full License Terms](https://github.com/retamotome/retamotome/blob/main/LICENSE.md). By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
+詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。使用本課程教材與教學內容即表示您已閱讀、理解並同意遵守該等條款。  
 
 ---
 
@@ -56,33 +43,25 @@ The following intellectual property is NOT released under the
 Creative Commons license.  
 下列智慧財產權內容不包含於 Creative Commons 授權範圍內：
 
-- 吉祥院軟體工程研究中心
-- Auspicious Software Engineering Research Center
-
-- Reta
-- Orion
-- Jack
-- August
-- Thomas
+- 吉祥院軟體工程研究中心  
+- Auspicious Software Engineering Research Center  
+- Reta  
+- Orion  
+- Jack  
+- August  
+- Thomas  
 
 Including but not limited to:  
 包含但不限於：  
 
-- Character settings | 角色設定
-
-- Character personalities | 角色人格特質
-
-- Character relationships | 人物關係
-
-- Worldbuilding | 世界觀設定
-
-- Original dialogues | 原創對話
-
-- Story concepts | 劇情概念
-
-- Educational character universe | 教學角色宇宙設定
-
-- Future derivative character works | 未來衍生角色作品
+- Character settings | 角色設定  
+- Character personalities | 角色人格特質  
+- Character relationships | 人物關係  
+- Worldbuilding | 世界觀設定  
+- Original dialogues | 原創對話  
+- Story concepts | 劇情概念  
+- Educational character universe | 教學角色宇宙設定  
+- Future derivative character works | 未來衍生角色作品  
 
 All rights reserved.  
 上述內容保留一切權利。  
@@ -102,20 +81,12 @@ Some visual assets or drafts may be created with the assistance of AI tools.
 However, the following content is designed, edited, organized and maintained by the author:  
 但以下內容均由作者規劃、編輯、整理與維護：  
 
-- Character concepts | 角色概念
-
-- Character personalities | 角色人格設定
-
-- Educational framework | 教學架構
-
-- Worldbuilding | 世界觀設計
-
-- Story structures | 故事結構
-
-- Original written content | 原創文字內容
-
-Author | 作者：  
-潘貞元（Reta Pan）
+- Character concepts | 角色概念  
+- Character personalities | 角色人格設定  
+- Educational framework | 教學架構  
+- Worldbuilding | 世界觀設計  
+- Story structures | 故事結構  
+- Original written content | 原創文字內容  
 
 ---
 
@@ -124,14 +95,13 @@ Author | 作者：
 Names, logos, and brands associated with:  
 下列名稱、標誌與品牌：  
 
-- 吉祥院軟體工程研究中心  
+- 吉祥院軟體工程研究中心   
 - Auspicious Software Engineering Research Center  
-
-- Reta
-- Orion
-- Jack
-- August
-- Thomas
+- Reta  
+- Orion  
+- Jack  
+- August  
+- Thomas  
 
 may be used as identifiers of original works and intellectual property.  
 可能作為原創作品與智慧財產之識別標誌。  
@@ -144,12 +114,12 @@ No rights are granted to use these names, brands, or identifiers for commercial 
 # License Boundary | 授權邊界
 
 Educational content and course materials may be shared under
-CC BY-NC-SA 4.0.  
-課程教材與教學內容可依 CC BY-NC-SA 4.0 使用。  
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+課程教材與教學內容可依 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 使用。  
 
 Character IP, worldbuilding, and original character settings
 are excluded from the Creative Commons license.  
-角色 IP、世界觀及角色設定不包含於Creative Commons 授權範圍內。  
+角色 IP、世界觀及角色設定 **不** 包含於Creative Commons 授權範圍內。  
 
 In case of ambiguity, the Character IP and Worldbuilding
 restrictions take precedence.  
@@ -164,3 +134,10 @@ Reta Pan (潘貞元)
 
 GitHub:
 https://github.com/retamotome
+
+---
+
+> [!note]  
+> **AI Translation Notice | AI 翻譯說明**  
+> The Chinese content of this document has been generated through AI-based translation and is presented using Traditional Chinese characters and terminology commonly used in Taiwan to ensure clarity, localization, and readability.  
+> 本文之中文內容係由人工智慧（AI）翻譯產出，並採用正體中文及台灣常用語彙進行表述，以確保內容符合在地語言之使用與閱讀習慣。  
