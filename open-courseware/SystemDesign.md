@@ -71,7 +71,7 @@
 以四大關鍵思維看系統設計哲學 © 2026 作者 潘貞元（Reta Pan）。   
 
 課程教材與公開教學內容採用 Creative Commons [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。     
-詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[著作權聲明](https://github.com/retamotome/retamotome/blob/main/COPYRIGHT.md)》與《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。使用本課程教材與教學內容即表示您已閱讀、理解並同意遵守該等條款。  
+詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。您使用本站任何作品，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。  
 
-角色設定、世界觀設定、人物形象與相關 IP **不** 包含於 Creative Commons 授權範圍內，除另有說明外，[保留一切權利（All Rights Reserved）](../COPYRIGHT.md)。
+角色設定、世界觀設定、人物形象與相關 IP **不** 包含於 Creative Commons 授權範圍內，除另有說明外，[保留一切權利（All Rights Reserved）](../LICENSE.md)。
 

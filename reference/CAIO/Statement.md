@@ -39,8 +39,8 @@ The core position of this report is that natal chart analysis should be viewed a
 ---  
   
 # 著作權聲明
-© 2026 潘貞元（Reta Pan） [保留一切權利](../../COPYRIGHT.md)。  
-© 2026 Jen-Yuan Pan（Reta Pan） [All rights reserved](../../COPYRIGHT.md)。  
+© 2026 潘貞元（Reta Pan） [保留一切權利](../../LICENSE.md)。  
+© 2026 Jen-Yuan Pan（Reta Pan） [All rights reserved](../../LICENSE.md)。  
 
 
 ---
