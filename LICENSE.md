@@ -28,7 +28,7 @@ Please read the following sections carefully.
 
 Except as expressly provided otherwise, all course materials, open courseware, articles, and teaching videos are made available under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) License.   
 Except as expressly granted under the above license, all intellectual property rights and other legal or contractual rights are reserved by the copyright holder, and no trademark, patent, or other proprietary rights are transferred.   
-除另有明示規定外，本課程教材、開放式課程、文章及教學影片，均依 [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權條款提供。   
+除另有明示規定外，本課程教材、開放式課程、文章及教學影片，均依 [Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權條款提供。   
 除本授權條款明確授予之權利外，其餘智慧財產權及其他法律或契約上之權利悉由著作權人保留，並不涉及任何商標權、專利權或其他專屬權利之移轉。    
 
 ### You Are Free To | 您可以
@@ -89,7 +89,7 @@ Examples of prohibited activities include:
 **ShareAlike | 相同方式分享**  
 
 If you modify or build upon this work and publicly distribute it, you must distribute your contributions under the same [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) License.   
-若您公開發布修改版本或衍生作品，應以相同之 [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權釋出。  
+若您公開發布修改版本或衍生作品，應以相同之 [Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權釋出。  
 
 ---
 
@@ -171,10 +171,10 @@ No rights are granted to use these names, brands, or identifiers for commercial 
 
 Educational content and course materials may be shared under
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-課程教材與教學內容可依 [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 使用。  
+課程教材與教學內容可依 [Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 使用。  
 
 Character IP, worldbuilding, and original character settings
-are excluded from the Creative Commons license.  
+are **excluded** from the Creative Commons license.  
 角色 IP、世界觀及角色設定 **不** 包含於Creative Commons 授權範圍內。  
 
 In case of ambiguity, the Character IP and Worldbuilding

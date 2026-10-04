@@ -2,7 +2,7 @@
 
 > [!note]   
 > ![BY NC SA](../../img/Cc-by-nc-sa.png)     
-> 本契約範本 © 2026 作者 潘貞元（Reta Pan），採用 `姓名標示－非商業性－相同方式分享 4.0 國際` 授權。    
+> 本契約範本 © 2026 作者 潘貞元（Reta Pan），採用 `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。    
 > This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
 > 
 > 詳細授權內容、權利義務、使用限制及其他相關條件，請參閱[授權條款](#license--授權條款)一節。您使用本契約範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。    
@@ -1433,7 +1433,7 @@ Each Party agrees that any approval, confirmation, consent, instruction, or othe
 ---
 
 # License | 授權條款  
-本契約範本 © 2026 作者 潘貞元（Reta Pan），採用 `姓名標示－非商業性－相同方式分享 4.0 國際` 授權。   
+本契約範本 © 2026 作者 潘貞元（Reta Pan），採用 `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。   
 This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.
 
 For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [Full License Terms](https://github.com/retamotome/retamotome/blob/main/LICENSE.md). By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
