@@ -2,8 +2,8 @@
 
 > [!note]   
 > ![BY NC SA](../../img/Cc-by-nc-sa.png)     
-> 本契約範本 © 2026 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。    
-> This work © 2026 by Jen Yuan Pan is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
+> 本契約範本 © 2026 作者 潘貞元（Reta Pan），採用 `姓名標示－非商業性－相同方式分享 4.0 國際` 授權。    
+> This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
 > 
 > 詳細授權內容、權利義務、使用限制及其他相關條件，請參閱[授權條款](#license--授權條款)一節。您使用本契約範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。    
 > For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [License](#license--授權條款) section. By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
@@ -1433,8 +1433,8 @@ Each Party agrees that any approval, confirmation, consent, instruction, or othe
 ---
 
 # License | 授權條款  
-本契約範本 © 2026 作者 潘貞元（Reta Pan），採用 [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。   
-This work © 2026 by Jen Yuan Pan is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
+本契約範本 © 2026 作者 潘貞元（Reta Pan），採用 `姓名標示－非商業性－相同方式分享 4.0 國際` 授權。   
+This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.
 
 For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [Full License Terms](https://github.com/retamotome/retamotome/blob/main/LICENSE.md). By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
 詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。您使用本契約範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。  
@@ -1445,15 +1445,15 @@ Except as expressly granted by the above license, all rights are reserved by the
 除本授權條款明確授予之權利外，其餘權利均由著作權人保留。  
 
 This repository provides a document template only and does not transfer any trademark, patent, or other proprietary rights.  
-本專案僅提供契約文件範本，不轉讓任何商標權、專利權或其他專屬權利。   
+本站僅提供契約文件範本，不轉讓任何商標權、專利權或其他專屬權利。   
 
 ## Legal Disclaimer | 法律免責聲明
 
 This repository and all associated materials are provided for informational, educational, and reference purposes only.  
-本專案及相關文件僅供資訊交流、教育及參考用途。  
+本站及相關文件僅供資訊交流、教育及參考用途。  
 
 Nothing contained in this repository constitutes legal advice, legal services, or the creation of an attorney-client relationship.  
-本專案之任何內容均不構成法律意見、法律服務或律師與當事人關係之建立。  
+本站之任何內容均不構成法律意見、法律服務或律師與當事人關係之建立。  
 
 The author makes no warranty or representation regarding:  
 作者不保證：  
@@ -1496,11 +1496,11 @@ USERS ASSUME ALL RISKS ASSOCIATED WITH THE USE OF THIS TEMPLATE.
 
 ## Author | 作者
 
-Consultant / Author: 潘貞元 (Reta Pan)   
-GitHub: https://github.com/retamotome   
+Consultant／顧問：Pan, Jen Yuan（潘貞元）  
+Email／電子郵件：reta.motome@gmail.com
 
 ## Acknowledgement | 致謝  
 
 This project is intended to promote the sharing of practical knowledge regarding international consulting agreements, training agreements, and professional services contracts.   
-本專案旨在促進國際顧問合約、教育訓練合約及專業服務契約等實務知識之交流與分享。  
+本站旨在促進國際顧問合約、教育訓練合約及專業服務契約等實務知識之交流與分享。  
 
