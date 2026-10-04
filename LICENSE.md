@@ -11,9 +11,7 @@ All rights reserved unless otherwise stated.
 
 ## About This Repository | 關於本站所有內容
 
-This repository may contain educational materials, articles, source code,
-character settings, worldbuilding documents, visual assets, and other
-creative works.  
+This repository may contain educational materials, articles, legal document templates, source code, character settings, worldbuilding documents, visual assets, and other creative works.   
 本站內容可能包含教材、文章、法律文件範本、程式碼、角色設定、世界觀文件、圖像素材及其他創作內容。  
 
 Different contents may be distributed under different licenses.  
