@@ -76,12 +76,18 @@ If the Client fails to make payment within the time periods specified above, int
 乙方不得以其內部驗收程序、簽核流程、預算核准程序、或第三人付款安排等事由，作為延後付款之理由。   
 The Client shall not withhold or delay payment on the grounds of its internal approval process, acceptance procedure, budget authorization process, or dependency on payment from any third party.   
 
-### 四、稅務資料提供 | Section 2.4 Tax Information    
+### 四、逾期付款之服務暫停 | Section 2.4 Suspension of Services for Non-Payment  
+如乙方未依本契約約定期限支付任何已到期且無爭議之款項，甲方得以書面通知乙方限期於七（7）日內支付。乙方於前述期限屆滿後仍未完成付款者，甲方得暫停全部或部分顧問服務，至乙方完成付款為止。  
+於暫停期間內，甲方不負提供受暫停影響之顧問服務之義務，亦不對因該等暫停所造成之服務延誤或其他相關後果負責。  
+If the Client fails to pay any undisputed amount when due under this Agreement, the Consultant may give written notice requiring the Client to make payment within seven (7) days. If the Client fails to make such payment within such period, the Consultant may suspend all or part of the Services until payment is received in full.  
+During such suspension, the Consultant shall have no obligation to perform the affected Services and shall not be liable for any delay or other consequences resulting from such suspension.  
+
+### 五、稅務資料提供 | Section 2.5 Tax Information    
 
 甲方應依相關法令及乙方依法辦理扣繳所必要之範圍，提供必要之身分及稅務資料。  
 The Consultant shall provide such identification and tax-related information as may be reasonably required for compliance with applicable tax withholding and reporting obligations.  
 
-### 五、不得任意扣減報酬 | Section 2.5 No Unauthorized Deductions    
+### 六、不得任意扣減報酬 | Section 2.6 No Unauthorized Deductions    
 
 除依法應由乙方代扣繳之稅款外，乙方不得任意扣減應支付予甲方之顧問費。  
 Except for tax withholdings required by applicable law, the Client shall not withhold, offset, reduce, or otherwise deduct any amount from the consulting fees payable to the Consultant without the Consultant's prior written consent.  
@@ -257,8 +263,8 @@ Unless otherwise agreed, the Consultant's deliverables are intended to support t
 
 ### 四、合理修正 | Section 5.4 Reasonable Revisions    
 
-乙方如對特定交付成果有合理修改或補充需求，得於收到成果後合理期間內提出；甲方應於原服務範圍內配合合理之說明或修正。  
-The Client may request reasonable clarifications, corrections, or modifications within a reasonable period following delivery. The Consultant shall cooperate with such requests to the extent they fall within the original scope of Services.  
+乙方如對特定交付成果有合理修改或補充需求，得於收到成果後七（7）日內提出；甲方應於原服務範圍內配合合理之說明或修正。   
+The Client may request reasonable clarifications, corrections, or modifications within seven (7) days following delivery. The Consultant shall cooperate with such requests to the extent they fall within the original scope of Services.   
 
 ### 五、超出服務範圍之需求 | Section 5.5 Additional Services Beyond Scope   
 
@@ -396,8 +402,8 @@ The Client shall provide a reasonable travel advance within five (5) Business Da
 如乙方未於出發日前依約支付預支款，甲方得暫停或順延出差行程及相關履約工作，並得要求雙方協商調整出差時程或其他替代方案；因此所生之履約期限順延、專案延遲或其他影響，均不構成甲方違約，相關責任亦不歸責於甲方。   
 If the Client fails to make the agreed advance payment prior to the departure date, the Consultant may suspend or postpone the business trip and any related performance of the Services, and may request that the Parties discuss and agree upon a revised travel schedule or alternative arrangements. Any resulting extension of performance deadlines, project delays, or similar consequences shall not constitute a breach by the Consultant, and the Consultant shall bear no responsibility or liability in connection therewith.   
 
-甲方應於合理期間內檢附發票、收據、電子憑證、訂單紀錄、信用卡簽單或其他足資證明支出之文件辦理核銷。   
-Within a reasonable period following the trip, the Consultant shall submit invoices, receipts, electronic records, order confirmations, credit card charge slips, or other supporting documentation reasonably sufficient to substantiate the claimed expenses.   
+甲方應於出差完成後七（7）日內檢附發票、收據、電子憑證、訂單紀錄、信用卡簽單或其他足資證明支出之文件辦理核銷。   
+Within seven (7) days following completion of the trip, the Consultant shall submit invoices, receipts, electronic records, order confirmations, credit card charge slips, or other supporting documentation reasonably sufficient to substantiate the claimed expenses.  
 
 因當地法令、商業慣例或客觀環境因素，致無法取得正式憑證者，甲方得提出支出說明及其他足資證明支出事實之資料作為核銷依據。   
 Where official receipts or supporting documents cannot reasonably be obtained due to applicable laws, customary business practices, or objective circumstances, the Consultant may provide a written explanation together with other evidence reasonably demonstrating that the expense was incurred.
@@ -517,8 +523,8 @@ Any reasonable exchange rate differences and cross-border payment charges shall 
 
 ### 九、不可抗力 | Section 6.9 Force Majeure  
 
-因天災、地震、颱風、水災、火災、戰爭、恐怖攻擊、暴動、政府命令、法令變更、疫情、邊境管制、國際制裁、航班停飛、簽證遭拒，或其他非雙方所能合理控制之不可抗力事件（以下稱「不可抗力事件」），致出差計畫無法執行、延遲、中斷或受重大影響者，受該事件影響之一方應於合理期間內通知他方。  
-If any business trip is prevented, delayed, suspended, materially affected, or rendered impracticable due to a natural disaster, earthquake, typhoon, flood, fire, war, terrorist act, civil unrest, governmental action, change in law, epidemic, pandemic, border restriction, international sanction, flight suspension, visa denial, or any other event beyond the reasonable control of the affected Party (each, a "Force Majeure Event"), the affected Party shall notify the other Party within a reasonable time after becoming aware of such event.  
+因天災、地震、颱風、水災、火災、戰爭、恐怖攻擊、暴動、政府命令、法令變更、疫情、邊境管制、國際制裁、航班停飛、簽證遭拒，或其他非雙方所能合理控制之不可抗力事件（以下稱「不可抗力事件」），致出差計畫無法執行、延遲、中斷或受重大影響者，受該事件影響之一方應於知悉該事件後七（7）日內通知他方。   
+If any business trip is prevented, delayed, suspended, materially affected, or rendered impracticable due to a natural disaster, earthquake, typhoon, flood, fire, war, terrorist act, civil unrest, governmental action, change in law, epidemic, pandemic, border restriction, international sanction, flight suspension, visa denial, or any other event beyond the reasonable control of the affected Party (each, a "Force Majeure Event"), the affected Party shall notify the other Party within seven (7) days after becoming aware of such event.
 
 於不可抗力事件持續期間內，雙方得暫停履行受影響之契約義務，就其未能履行或延遲履行之部分，不負違約或遲延責任。但受影響之一方應採取合理措施，以減輕不可抗力事件所造成之影響及損失。  
 During the continuance of a Force Majeure Event, either Party may suspend performance of the obligations affected thereby, and neither Party shall be liable for any failure or delay in performance to the extent resulting from such Force Majeure Event. The affected Party shall, however, use commercially reasonable efforts to mitigate the impact of the Force Majeure Event and to resume performance as soon as reasonably practicable.  
@@ -601,8 +607,9 @@ Confidential Information shall not include information that:
 
 ### 六、法定揭露 | Section 7.6 Required Disclosure    
 
-如甲方因法律、法院或主管機關之要求而必須揭露乙方機密資訊，甲方應於法律允許之範圍內，於合理期間通知乙方。  
-If disclosure is required by applicable law, court order, or governmental authority, the Consultant shall, to the extent legally permissible, provide the Client with reasonable prior notice.  
+如甲方因法律、法院或主管機關之要求而必須揭露乙方機密資訊，甲方應於法律允許之範圍內，於**揭露前及時通知**乙方；如法律不允許事前通知，則應於法律允許通知之時立即通知乙方。   
+If disclosure is required by applicable law, court order, or governmental authority, the Consultant shall, to the extent legally permissible, provide the Client with **prompt notice prior to such disclosure**. If prior notice is not legally permitted, the Consultant shall provide notice as soon as legally permitted.   
+
 
 ### 七、違反保密責任 | Section 7.7 Breach of Confidentiality    
 
@@ -964,11 +971,10 @@ As a condition to recovery, the Client shall provide reasonable evidence demonst
 (b) the method used to calculate such damages; and  
 (c) a direct causal relationship between the alleged damages and the Consultant's conduct.  
 
-### 十二、請求通知義務 | Section 13.12 Notice of Claims  
+### 十二、請求通知義務 | Section 13.12 Notice of Claims
 
-乙方應於知悉可能產生損害後，合理期間內通知甲方。乙方未於知悉後六 (6) 個月內提出書面主張者，甲方得主張其損害賠償請求已逾合理期間。  
-The Client shall notify the Consultant of any claim or alleged loss within a reasonable time after becoming aware of the relevant facts.  
-Failure to provide written notice within six (6) months after the Client becomes aware, or reasonably should have become aware, of the alleged claim may be asserted by the Consultant as evidence that the claim was not brought within a reasonable period.  
+乙方應於知悉可能產生損害後三十（30）日內通知甲方。乙方如未於知悉後六（6）個月內提出書面主張，甲方得主張該損害賠償請求已逾期限；但如乙方能證明有合理事由致未能於前述期限內提出者，雙方應本於誠信原則協商處理。   
+The Client shall notify the Consultant of any claim or alleged loss within thirty (30) days after becoming aware of the relevant facts. If the Client fails to submit a written claim within six (6) months after becoming aware of the alleged claim, the Consultant may assert that such claim is time-barred; provided, however, that if the Client can demonstrate reasonable grounds for the delay, the Parties shall discuss and resolve the matter in good faith.   
 
 ### 十三、專業顧問服務之性質 | Section 13.13 Professional Advisory Nature   
 
@@ -1211,22 +1217,16 @@ With respect to approved deliverables already in progress at the time of termina
 
 ### 七、因違約而終止 | Section 18.7 Termination for Cause   
 
-任一方違反本契約，經他方書面通知並給予合理期間改善而仍未改善者，他方得終止本契約。  
-Either Party may terminate this Agreement for cause if the other Party materially breaches this Agreement and fails to cure such breach within a reasonable period after receiving written notice.  
+任一方重大違反本契約，經他方書面通知並給予十（10）日之改善期間而仍未改善者，他方得終止本契約。  
+Either Party may terminate this Agreement for cause if the other Party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice.   
 
-### 八、因未付款而暫停服務 | Section 18.8 Suspension for Non-Payment   
-
-如乙方未依約支付顧問費，經甲方書面催告後仍未於合理期間內支付，甲方得暫停服務；因此所造成之服務時程延誤，不視為甲方違約。  
-If the Client fails to pay any undisputed amount when due and such failure continues after written notice and a reasonable opportunity to cure, the Consultant may suspend performance of the Services.  
-Any resulting delay shall not constitute a breach by the Consultant.  
-
-### 九、終止後存續條款 | Section 18.9 Surviving Obligations  
+### 八、終止後存續條款 | Section 18.8 Surviving Obligations  
 
 契約終止不影響契約終止前已產生之付款、保密、智慧財產權、責任限制及其他依其性質於終止後仍應存續之權利義務。  
 Termination shall not affect any rights, obligations, liabilities, or remedies accrued prior to termination.  
 The provisions relating to confidentiality, intellectual property, payment obligations, limitation of liability, dispute resolution, and all provisions which by their nature are intended to survive shall remain in effect following termination or expiration.  
 
-### 十、破產、支付不能或無清償能力終止權 | Section 18.10 Insolvency Termination Rights   
+### 九、破產、支付不能或無清償能力終止權 | Section 18.9 Insolvency Termination Rights   
 
 任一方如有下列情形之一，他方得以書面通知立即終止本契約：    
 Either Party may immediately terminate this Agreement upon written notice if the other Party:   
@@ -1251,12 +1251,12 @@ Either Party may immediately terminate this Agreement upon written notice if the
 
 ---
 
-## 第十九條　不可歸責事由 | Article 19 Force Majeure
+## 第十九條　不可歸責事由 | Article 19 Events Beyond the Parties' Reasonable Control  
 
-### 一、不可歸責事由 | Section 19.1 Force Majeure Events   
+### 一、不可歸責事由 | Section 19.1 Events Beyond the Parties' Reasonable Control  
 
-因天災、戰爭、政府命令、重大網路或資訊基礎設施故障、疫情或其他非雙方合理控制之事由，致一方無法履行契約者，於合理範圍內不負違約責任。  
-Neither Party shall be liable for any delay or failure to perform its obligations under this Agreement to the extent caused by circumstances beyond its reasonable control, including:  
+因天災、戰爭、政府命令、重大網路或資訊基礎設施故障、疫情或其他非雙方合理控制之事由，致一方無法履行契約者，於合理範圍內不負違約責任。   
+Neither Party shall be liable for any delay or failure to perform its obligations under this Agreement to the extent caused by circumstances beyond the reasonable control of the affected Party, including:   
 
 * natural disasters;  
 * acts of war;  
@@ -1266,17 +1266,17 @@ Neither Party shall be liable for any delay or failure to perform its obligation
 * epidemics or pandemics;  
 * widespread failures of telecommunications or internet infrastructure;  
 * utility outages; or  
-* other force majeure events.  
+* other circumstances beyond the reasonable control of the affected Party.  
 
 ### 二、通知義務 | Section 19.2 Notice Requirement  
 
-受影響之一方應於合理期間內通知他方。  
-The affected Party shall notify the other Party within a reasonable time after becoming aware of the force majeure event.  
+受影響之一方應於知悉不可歸責事由後七（7）日內通知他方。  
+The affected Party shall notify the other Party within seven (7) days after becoming aware of the circumstances giving rise to such delay or failure to perform.  
 
 ### 三、履約期限順延 | Section 19.3 Extension of Time for Performance   
 
 受不可歸責事由影響之期間內，受影響之一方之履約期限應相應順延。  
-Any performance deadline affected by a force majeure event shall be extended for a period reasonably corresponding to the duration of the disruption.  
+Any performance deadline affected by circumstances beyond the reasonable control of the affected Party shall be extended for a period corresponding to the duration of the resulting delay or disruption.   
 
 ---
 
