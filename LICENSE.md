@@ -25,9 +25,11 @@ Please read the following sections carefully.
 ## Course Materials | 課程教材  
 
 Except as expressly provided otherwise, all course materials, open courseware, articles, and teaching videos are made available under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) License.   
-Except as expressly granted under the above license, all intellectual property rights and other legal or contractual rights are reserved by the copyright holder, and no trademark, patent, or other proprietary rights are transferred.   
 除另有明示規定外，本課程教材、開放式課程、文章及教學影片，均依 [Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權條款提供。   
-除本授權條款明確授予之權利外，其餘智慧財產權及其他法律或契約上之權利悉由著作權人保留，並不涉及任何商標權、專利權或其他專屬權利之移轉。    
+
+> [!IMPORTANT]    
+> Except as expressly granted under the above license, all intellectual property rights and other legal or contractual rights are reserved by the copyright holder, and no trademark, patent, or other proprietary rights are transferred.   
+> 除本授權條款明確授予之權利外，其餘智慧財產權及其他法律或契約上之權利悉由著作權人保留，並不涉及任何商標權、專利權或其他專屬權利之移轉。    
 
 ### You Are Free To | 您可以
 Under the terms of this license, you may:   
