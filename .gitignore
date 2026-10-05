@@ -3,5 +3,5 @@
 ################################################################################
 .vs/
 *.sqlite
-open-courseware/material/
 .gitignore
+reference/ConsultingServices/TrainingAgreement.md

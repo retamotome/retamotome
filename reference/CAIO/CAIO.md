@@ -278,8 +278,9 @@ Asia Edition, concise format. | 亞洲版，篇幅精簡。
 * [Professional Competency Assessment Report | 職能適配性評估報告](SuitabilityGLOBAL.md)  
 Global Edition, comprehensive version. | 全球版，篇幅完整。 
 
-## Agreement | 契約
-* [ RETA 獨立技術策略與系統架構顧問服務契約<br>RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](ConsultingAgreement.md)   
+## Consulting Services | 顧問服務   
+* [顧問服務報價單 | Consulting Service Proposal & Fee Schedule](../ConsultingServices/Quotation.md)   
+* [ RETA 獨立技術策略與系統架構顧問服務契約<br>RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](../ConsultingServices/ConsultingAgreement.md)   
 以上協議以中華民國（臺灣）法律為準據法。  
 The Agreements shall be governed by and construed in accordance with the laws of the Republic of China (Taiwan).     
 
