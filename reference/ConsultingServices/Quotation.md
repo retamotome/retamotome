@@ -1,15 +1,6 @@
 # 顧問服務報價單 | Consulting Service Proposal & Fee Schedule
 
 > [!note]   
-> ![BY NC SA](../../img/Cc-by-nc-sa.png)     
-> 本範本 © 2026 作者 潘貞元（Reta Pan），採用  `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。    
-> This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
-> 
-> 詳細授權內容、權利義務、使用限制及其他相關條件，請參閱[授權條款](#license--授權條款)一節。您使用本範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。  
-> For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [License](#license--授權條款) section. By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
-
-
-> [!note]   
 > 本報價參考台灣資訊科技顧問、數位轉型顧問、AI 顧問及機電自動化顧問市場行情制定。服務費用將依專案範圍、複雜度及交付成果進行調整。   
 > Pricing is benchmarked against the Taiwan market for IT Consulting, Digital Transformation Consulting, AI Advisory, and Industrial Automation Consulting. Fees may be adjusted based on project scope, complexity, and expected deliverables.  
 
@@ -84,8 +75,8 @@ The consulting engagement is conducted on an independent and impartial basis, fo
 
 ## 月度顧問服務方案 | Monthly Advisory Retainer Plans  
 
-本月度顧問服務方案所涵蓋之服務內容、服務範圍、交付方式、雙方權利義務及相關執行規範，均以《[RETA 獨立技術策略與系統架構顧問服務契約](./reference/ConsultingServices/ConsultingAgreement.md)》之約定為準。    
- The scope of services, deliverables, engagement methods, rights and obligations of both parties, and all related consulting activities under the Monthly Advisory Retainer Plan shall be governed by the provisions set forth in the [RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](./reference/ConsultingServices/ConsultingAgreement.md).   
+本月度顧問服務方案所涵蓋之服務內容、服務範圍、交付方式、雙方權利義務及相關執行規範，均以《[RETA 獨立技術策略與系統架構顧問服務契約](ConsultingAgreement.md)》之約定為準。    
+ The scope of services, deliverables, engagement methods, rights and obligations of both parties, and all related consulting activities under the Monthly Advisory Retainer Plan shall be governed by the provisions set forth in the [RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](ConsultingAgreement.md).   
 
 月度顧問額度係作為顧問服務資源分配之依據，顧問將依專案實際需求，彈性安排服務等級與內容，以確保專案目標之有效達成。   
  Monthly advisory allocations are provided as a flexible service capacity framework. Consulting resources and service levels may be allocated according to project requirements to ensure effective achievement of project objectives.  
@@ -142,8 +133,8 @@ This allocation is provided as an example only. Actual consulting points may var
 - 上述價格均未含營業稅。  
  All fees are exclusive of applicable taxes.  
 
-- 月度顧問服務方案僅定義顧問服務額度與費用標準；服務內容、服務範圍、交付成果、責任限制及其他相關事項，均以《[RETA 獨立技術策略與系統架構顧問服務契約](./reference/ConsultingServices/ConsultingAgreement.md)》為準。如本方案內容與前述契約有任何差異，應以該契約之約定為優先。    
-This Monthly Advisory Retainer Plan defines only the service allocation and fee structure. The detailed scope of services, deliverables, limitations of liability, and all other applicable terms shall be governed by the [RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](./reference/ConsultingServices/ConsultingAgreement.md). In the event of any inconsistency, the Consulting Agreement shall prevail.    
+- 月度顧問服務方案僅定義顧問服務額度與費用標準；服務內容、服務範圍、交付成果、責任限制及其他相關事項，均以《[RETA 獨立技術策略與系統架構顧問服務契約](ConsultingAgreement.md)》為準。如本方案內容與前述契約有任何差異，應以該契約之約定為優先。    
+This Monthly Advisory Retainer Plan defines only the service allocation and fee structure. The detailed scope of services, deliverables, limitations of liability, and all other applicable terms shall be governed by the [RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](ConsultingAgreement.md). In the event of any inconsistency, the Consulting Agreement shall prevail.    
 
 - 客製化軟體開發、系統建置及實際導入作業不包含於本報價範圍。  
  Software development, implementation, and system deployment services are not included.  
