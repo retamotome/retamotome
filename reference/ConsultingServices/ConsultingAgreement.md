@@ -183,8 +183,8 @@ Unless expressly agreed otherwise in writing, the Services and Deliverables do n
 
 ### 一、月度顧問服務安排 | Section 4.1 Monthly Retainer Services    
 
-本契約採月度顧問費制，每月包含之服務額度為二十（20）小時。乙方支付之顧問費，係用於保留甲方之專業服務能力、研究投入及回應優先權。甲方原則上於一般工作時間內提供服務。非緊急事項之回應時間以二（2）個工作日內為原則。非經甲方同意，甲方無提供夜間、假日或國定假日服務之義務。  
-The Services shall be provided on a monthly retainer basis and shall include up to twenty (20) consulting hours per calendar month on a non-rollover basis.  
+本契約採月度顧問費制，每月包含之服務額度為_____ 點。乙方支付之顧問費，係用於保留甲方之專業服務能力、研究投入及回應優先權。甲方原則上於一般工作時間內提供服務。非緊急事項之回應時間以二（2）個工作日內為原則。非經甲方同意，甲方無提供夜間、假日或國定假日服務之義務。  
+The Services shall be provided on a monthly retainer basis and shall include up to ____ consulting points per calendar month on a non-rollover basis.  
 The monthly consulting fee is intended to secure the Consultant's availability, consulting capacity, research efforts, and service priority.  
 Unless otherwise agreed, the Consultant shall provide Services during normal business hours. For non-urgent matters, the Consultant will use commercially reasonable efforts to respond within two (2) business days.  
 The Consultant shall have no obligation to provide services during evenings, weekends, or public holidays unless expressly agreed otherwise.  
@@ -1198,7 +1198,7 @@ Upon termination, the Client shall pay all fees and expenses accrued through the
 ### 三、顧問費之性質 | Section 18.3 Nature of Retainer Fees   
 
 本契約之月度顧問費係甲方預留專業服務能力之對價，不以乙方實際使用全部服務額度為付款條件。  
-The monthly consulting fee constitutes consideration for the Consultant's availability, reserved capacity, expertise, and priority access, and is not contingent upon the Client's full utilization of the allocated consulting hours.  
+The monthly consulting fee constitutes consideration for the Consultant's availability, reserved capacity, expertise, and priority access, and is not contingent upon the Client's full utilization of the allocated consulting points.  
 
 ### 四、當月費用之計算 | Section 18.4 Treatment of Current Month Fees   
 

@@ -2,11 +2,12 @@
 
 > [!note]   
 > ![BY NC SA](../../img/Cc-by-nc-sa.png)     
-> This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
 > 本範本 © 2026 作者 潘貞元（Reta Pan），採用  `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。    
+> This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
 > 
-> For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [License](#license--授權條款) section. By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
 > 詳細授權內容、權利義務、使用限制及其他相關條件，請參閱[授權條款](#license--授權條款)一節。您使用本範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。  
+> For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [License](#license--授權條款) section. By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
+
 
 > [!note]   
 > 本報價參考台灣資訊科技顧問、數位轉型顧問、AI 顧問及機電自動化顧問市場行情制定。服務費用將依專案範圍、複雜度及交付成果進行調整。   
@@ -64,6 +65,7 @@ g. Research and Analytical Reports on Specific Technical Topics
 依客戶需求針對特定技術議題進行研究分析，並提出具體評估結果與建議報告。  
 Conduct focused research on specific technical topics and provide analytical reports, findings, and recommendations.  
 
+
 ### 顧問服務特性 | Consulting Approach  
 
 本顧問服務以獨立、客觀及專業分析為原則，提供技術評估、風險分析及決策建議。除雙方另有書面約定外，顧問服務不包含實際軟體開發、系統建置、產品銷售或專案執行工作。   
@@ -72,36 +74,39 @@ The consulting engagement is conducted on an independent and impartial basis, fo
 
 ## 顧問服務費率 | Consulting Service Rates  
 
-| **服務等級<br>Service Level**         | **服務項目<br>Scope**         | **交付成果<br>Deliverables** | **費率<br>Rate**  |  
-| ------------------- |  ---------------- | ------------------- | ------------------- |  
-| Level 1｜顧問諮詢<br>Advisory Service | • 會議及即時技術諮詢<br>• 技術諮詢與問題討論<br>• 導入方向建議<br>• 系統需求訪談<br>• 技術評估會議<br>• 技術問答與經驗分享<br>• Technical consultation<br>• Requirements discovery<br>• Solution discussions <br>• Assessment meetings | • 技術建議摘要<br>• 後續改善建議<br>• Technical recommendations<br>• Improvement actions | NT\$ 5,000／小時<br>NT\$ 5,000／hr | 
-| Level 2｜技術評估<br>Technical Assessment| • 系統架構分析及評估<br>• 技術方案比較<br>• 技術可行性分析<br>• PoC 規劃<br>• 技術風險評估<br>• Architecture assessment<br>• Feasibility analysis<br>• PoC planning<br>• Risk assessment | • 技術分析文件<br>• 技術分析報告<br>• 系統架構建議書<br>• 技術比較報告<br>• PoC 規劃文件<br>• Assessment report<br>• Architecture recommendation<br>• PoC plan | NT\$ 7,000／小時<br>NT\$ 7,000／hr | 
-| Level 3｜專家顧問<br>Strategic Advisory & Expert Assessment | • 新興技術研究與評估<br>• 系統整合及技術風險分析<br>• 技術導入可行性分析<br>• 技術導入策略規劃<br>• 技術投資與風險分析<br>• 管理層決策支援<br>• Emerging technology evaluation<br>• Adoption strategy<br>• Investment assessment<br>• Executive advisory | • 專家評估報告<br>• 技術策略建議書<br>• Roadmap 規劃文件<br>• 導入效益與風險分析<br>• 高階簡報<br>• Strategy paper<br>• Implementation roadmap<br>• ROI analysis<br>• Executive presentation | NT\$ 9,000／小時<br>NT\$ 9,000／hr | 
+| **服務等級<br>Service Level**         | **服務項目<br>Scope**         | **交付成果<br>Deliverables** | **費率<br>Rate**  |  **點數<br>Point**  |  
+| ------------------- |  ---------------- | ------------------- | ------------------- |  ------------------- |
+| Level 1｜顧問諮詢<br>Advisory Service | • 會議及即時技術諮詢<br>• 技術諮詢與問題討論<br>• 導入方向建議<br>• 系統需求訪談<br>• 技術評估會議<br>• 技術問答與經驗分享<br>• Technical consultation<br>• Requirements discovery<br>• Solution discussions <br>• Assessment meetings | • 技術建議摘要<br>• 後續改善建議<br>• Technical recommendations<br>• Improvement actions | NT\$ 5,000／小時<br>NT\$ 5,000／hr | 5 點／小時<br>5 Points／hr      |
+| Level 2｜技術評估<br>Technical Assessment| • 系統架構分析及評估<br>• 技術方案比較<br>• 技術可行性分析<br>• PoC 規劃<br>• 技術風險評估<br>• Architecture assessment<br>• Feasibility analysis<br>• PoC planning<br>• Risk assessment | • 技術分析文件<br>• 技術分析報告<br>• 系統架構建議書<br>• 技術比較報告<br>• PoC 規劃文件<br>• Assessment report<br>• Architecture recommendation<br>• PoC plan | NT\$ 7,000／小時<br>NT\$ 7,000／hr | 7 點／小時<br>7 Points／hr      |
+| Level 3｜專家顧問<br>Strategic Advisory & Expert Assessment | • 新興技術研究與評估<br>• 系統整合及技術風險分析<br>• 技術導入可行性分析<br>• 技術導入策略規劃<br>• 技術投資與風險分析<br>• 管理層決策支援<br>• Emerging technology evaluation<br>• Adoption strategy<br>• Investment assessment<br>• Executive advisory | • 專家評估報告<br>• 技術策略建議書<br>• Roadmap 規劃文件<br>• 導入效益與風險分析<br>• 高階簡報<br>• Strategy paper<br>• Implementation roadmap<br>• ROI analysis<br>• Executive presentation | NT\$ 9,000／小時<br>NT\$ 9,000／hr | 9 點／小時<br>9 Points／hr      |
 
 ---
 
 ## 月度顧問服務方案 | Monthly Advisory Retainer Plans  
 
-提供固定顧問額度，由顧問依專案需求配置對應之服務等級。  
-Monthly consulting retainers with flexible allocation across service levels according to project requirements.  
+本月度顧問服務方案所涵蓋之服務內容、服務範圍、交付方式、雙方權利義務及相關執行規範，均以《[RETA 獨立技術策略與系統架構顧問服務契約](./reference/ConsultingServices/ConsultingAgreement.md)》之約定為準。    
+ The scope of services, deliverables, engagement methods, rights and obligations of both parties, and all related consulting activities under the Monthly Advisory Retainer Plan shall be governed by the provisions set forth in the [RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](./reference/ConsultingServices/ConsultingAgreement.md).   
+
+月度顧問額度係作為顧問服務資源分配之依據，顧問將依專案實際需求，彈性安排服務等級與內容，以確保專案目標之有效達成。   
+ Monthly advisory allocations are provided as a flexible service capacity framework. Consulting resources and service levels may be allocated according to project requirements to ensure effective achievement of project objectives.  
 
 | **方案<br>Plan** | **月度額度<br>Monthly Allocation** | **費用<br>Monthly Fee**    |
 | -------- | ------------ | ----------- |
-| 基礎方案<br>Essential | 20 小時<br>20 Hours      | NT\$120,000 |
-| 進階方案<br>Professional | 40 小時<br>40 Hours      | NT\$220,000 |
-| 企業方案<br>Enterprise | 60 小時<br>60 Hours     | NT\$300,000 |
+| 基礎方案<br>Essential | 120 點<br>120 Points      | NT\$120,000 |
+| 進階方案<br>Professional | 220 點<br>220 Points      | NT\$220,000 |
+| 企業方案<br>Enterprise | 300 點<br>300 Points     | NT\$300,000 |
 
-### 20 小時方案參考工時分配 | Typical Allocation for 20-Hour Retainer  
+### 基礎方案參考額度分配 | Typical Allocation for 120-Point Retainer  
 
 本表僅為參考範例，實際服務內容與工時分配將依專案需求、討論議題及交付成果進行調整。   
-This allocation is provided as an example only. Actual consulting hours may vary depending on project requirements, discussion topics, and agreed deliverables.  
+This allocation is provided as an example only. Actual consulting points may vary depending on project requirements, discussion topics, and agreed deliverables.  
 
-| **服務項目<br>Service Category**     | **參考工時<br>Typical Allocation** |
+| **服務項目<br>Service Category**     | **參考額度<br>Typical Allocation** | 
 | ---------------- | -------- |
-| Level 1 顧問諮詢<br>Advisory Service | 8 小時<br>8 Hours   |
-| Level 2 技術分析<br>Technical Assessment | 8 小時<br>8 Hours   |
-| Level 3 專家評估<br>Strategic Advisory | 4 小時<br>4 Hours   |
-| 合計<br>Total             | 20 小時<br>20 Hours  |
+| Level 1｜顧問諮詢<br>Advisory Service | 8 小時 = 40 點<br>8 Hours = 40 Points<br>(8 x 5 = 40)  | 
+| Level 2｜技術評估<br>Technical Assessment | 5 小時 = 35 點 <br>5 Hours = 35 Points<br>(5 x 7 = 35)   | 
+| Level 3｜專家顧問<br>Strategic Advisory & Expert Assessment | 5 小時 = 45 點<br>5 Hours = 45 Points<br>(5 x 9 = 45)   | 
+| 合計<br>Total             | 120 點<br>120 Points  | 
 
 
 **每月交付成果範例 | Typical Monthly Deliverables**  
@@ -137,11 +142,8 @@ This allocation is provided as an example only. Actual consulting hours may vary
 - 上述價格均未含營業稅。  
  All fees are exclusive of applicable taxes.  
 
-- 客戶現場服務所需交通及差旅費另計。  
- Travel and accommodation expenses for on-site engagements are billed separately.  
-
-- 月度顧問時數以當月使用為原則，未使用額度不得累積。  
- Monthly consulting hours are intended for use within the contracted month and are non-transferable.  
+- 月度顧問服務方案僅定義顧問服務額度與費用標準；服務內容、服務範圍、交付成果、責任限制及其他相關事項，均以《[RETA 獨立技術策略與系統架構顧問服務契約](./reference/ConsultingServices/ConsultingAgreement.md)》為準。如本方案內容與前述契約有任何差異，應以該契約之約定為優先。    
+This Monthly Advisory Retainer Plan defines only the service allocation and fee structure. The detailed scope of services, deliverables, limitations of liability, and all other applicable terms shall be governed by the [RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](./reference/ConsultingServices/ConsultingAgreement.md). In the event of any inconsistency, the Consulting Agreement shall prevail.    
 
 - 客製化軟體開發、系統建置及實際導入作業不包含於本報價範圍。  
  Software development, implementation, and system deployment services are not included.  
@@ -149,8 +151,13 @@ This allocation is provided as an example only. Actual consulting hours may vary
 - 專案型服務將依需求範圍另行報價。  
  Project-based services are quoted separately based on scope and requirements.  
 
-- 六個月以上長期合作可提供客製化優惠方案。  
- Customized pricing may be offered for engagements longer than six months.  
+
+---
+
+> [!note]  
+> **AI 翻譯說明 | AI Translation Notice**  
+> 本文件之英文內容係透過人工智慧（AI）協助翻譯。如中、英文版本之內容有任何歧異、牴觸或解釋不一致之情形，應以中文版本為準。   
+> The English version of this document has been generated with the assistance of artificial intelligence (AI). In the event of any inconsistency, discrepancy, or conflict between the Chinese and English versions, the Chinese version shall prevail.  
 
 ---
 

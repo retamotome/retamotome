@@ -2,7 +2,7 @@
 
 ![吉祥院軟體工程研究中心](./img/ResearchCenter.png)  
 
-# Members | 成員  
+## Members | 成員  
 | 人物 | 職稱 | 關鍵能力 | 核心思維 | 見解風格 |   
 | --- | --- | --- | --- | --- |   
 | Reta | [首席架構洞察官](./reference/CAIO/CAIO.md) | 全局監察 | 系統思維、協調最佳解取捨 | 洞察盲點 (Critical Insight) |   
@@ -22,6 +22,10 @@
 ### Open Courseware | 開放式課程  
 * [以四大關鍵思維看系統設計哲學](./open-courseware/SystemDesign.md)
 
+---
+
+## Consulting Services | 顧問服務   
+* [顧問服務報價單 | Consulting Service Proposal & Fee Schedule](./reference/ConsultingServices/Quotation.md)   
 
 ---
 
