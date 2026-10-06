@@ -1,175 +1,170 @@
 附錄 | Appendix    
-# 交付成果授權及使用條款 | Deliverables License and Usage Terms   
+# 交付成果授權及使用條款 | License and Usage Rights for Deliverables
 
-## 第一條 目的 | 1. Purpose
+## 第1條　適用範圍
 
-本交付成果授權及使用條款（以下稱「本授權條款」）規範客戶就顧問依相關顧問服務協議（Services Agreement）所提供之教材、技術文件、報告、範例程式碼、簡報、模板、方法論及其他交付成果之使用方式。  
+本條款適用於乙方依《顧問服務契約》（以下稱「主契約」）所提供之特定交付成果（Commissioned Deliverables）之使用權及相關事項。
 
-These Deliverables License and Usage Terms ("License Terms") govern the Client's use of training materials, documentation, reports, software examples, presentations, templates, methodologies, and other deliverables provided by the Consultant under the applicable Services Agreement.  
+本條款應與主契約一併解釋。如本條款與主契約之約定有所不一致，關於特定交付成果之智慧財產權歸屬及使用權事項，以主契約之約定為準；本條款未約定事項，依主契約辦理。
 
-## 第二條 著作權 | 2. Copyright   
+---
 
-除雙方另以書面約定者外，交付成果之著作權及其他智慧財產權均歸屬於顧問所有。  
-© 2026 潘貞元（Pan, Jen Yuan）保留一切權利。  
-除本授權條款明確授予之權利外，其餘一切權利均由顧問保留。  
+## 第2條　智慧財產權歸屬
 
-All copyrights, intellectual property rights, and proprietary rights in and to the Materials shall remain vested in the Consultant, unless otherwise expressly agreed in writing.  
-Copyright © 2026 Pan, Jen Yuan. All Rights Reserved.  
-Except for the rights expressly granted under these License Terms, all rights are reserved by the Consultant.   
+特定交付成果之著作財產權及其他依法得移轉之智慧財產權，依主契約第8條之約定辦理。
 
-## 第三條 授權範圍 | 3. Grant of License   
+除主契約明確約定移轉予甲方之特定交付成果權利外，乙方於提供顧問服務前已擁有，或於履行顧問服務過程中發展、產生或持續使用之一般性方法論、架構、框架、模型、模板、工具、演算法、程式元件、技術方法、最佳實務、Know-how、General Knowledge、Residual Knowledge 及其他可重複使用之智慧財產，均仍由乙方保留其相關權利。
 
-於客戶遵守本授權條款及相關顧問服務協議之前提下，顧問授予客戶一項有限、非專屬、不可轉讓及不得再授權之使用權。   
-客戶僅得將交付成果使用於其內部業務營運、教育訓練、技術評估、研究開發及相關營運目的。   
-本授權僅為使用權之授予，不構成任何智慧財產權之移轉。   
+本條款不構成對主契約所約定之智慧財產權歸屬另行變更或限制。
 
-Subject to these License Terms and the applicable Services Agreement, the Consultant grants the Client a limited, non-exclusive, non-transferable, and non-sublicensable license to use the Materials solely for the Client's internal business operations, education, training, evaluation, research and development, and operational purposes.   
-No ownership of any intellectual property rights is transferred to the Client under these License Terms.   
+---
 
-## 第四條 允許使用事項 | 4. Permitted Uses   
+## 第3條　甲方之使用權
 
-客戶得：   
+於甲方依主契約完成相應付款後，甲方得依主契約第8.5條之約定，永久使用、重製、修改及管理相關特定交付成果。
 
-* 於組織內部使用交付成果；  
-* 為內部教育訓練而製作合理數量之重製本；  
-* 修改、整合及調整範例程式碼供內部開發及營運使用；  
-* 將交付成果儲存於內部資訊系統或知識管理平台；  
-* 基於內部業務需要，向員工、承攬人員、顧問及關係企業提供交付成果。  
+前項使用權包括甲方為其自身業務、營運、管理、技術開發、系統建置、維護、改善、決策及其他合法商業目的而使用該等特定交付成果。
 
-客戶應確保前述人員遵守不低於本授權條款之保密義務及使用限制。  
+除主契約另有約定外，甲方不因本條款而取得乙方保留之一般性方法論、框架、模型、工具、Know-how 或其他可重複使用智慧財產之所有權。
 
-The Client may:  
+---
 
-* Use the Materials internally within its organization;
-* Reproduce reasonable copies for internal training purposes;
-* Modify and integrate sample code for internal development and operational use;  
-* Store the Materials in the Client's internal systems and repositories;
-* Provide access to the Materials to its employees, contractors, consultants, and Affiliates for internal business purposes.  
+## 第4條　關係企業之使用
 
-The Client shall ensure that all such persons comply with confidentiality obligations and usage restrictions substantially equivalent to those set forth herein.  
+甲方之關係企業（Affiliates）得依主契約第8.5條之約定使用特定交付成果。
 
-## 第五條 使用限制 | 5. Restrictions     
+甲方應確保其關係企業之使用符合主契約及本條款所約定之使用範圍。
 
-除經顧問事前書面同意外，客戶不得：  
+關係企業之使用不構成乙方保留智慧財產之移轉。
 
-* 出售、出租、轉讓、授權、再授權或以其他方式商業化利用交付成果；  
-* 將交付成果發布於公開網站、公開儲存庫或其他供不特定人存取之平台；  
-* 向客戶組織外之第三人提供交付成果；  
-* 移除或變更任何著作權、商標或權利聲明；  
-* 將交付成果宣稱為客戶自行創作之成果；  
-* 使用顧問之姓名、商標、標誌或品牌進行行銷或宣傳；  
-* 依據交付成果建立與顧問服務具競爭性之商業課程、教育訓練或顧問服務。  
+---
 
-Unless expressly authorized in writing by the Consultant, the Client shall not:  
+## 第5條　員工、顧問、系統整合商及合作廠商之使用
 
-* Sell, lease, assign, license, sublicense, distribute, or commercially exploit the Materials;  
-* Publish the Materials on public websites, repositories, or publicly accessible platforms;  
-* Provide the Materials to any third party outside the Client's organization;  
-* Remove or alter any copyright, trademark, or proprietary notices;  
-* Represent the Materials as the Client's original work;  
-* Use the Consultant's name, trademark, logo, or branding for promotional purposes;  
-* Create competing commercial training programs, educational offerings, or consulting services derived from the Materials.  
+甲方得為執行、維護、改善或支援與特定交付成果相關之專案，向其員工、顧問、系統整合商（SI）、合作廠商及其他專案相關第三人提供必要之特定交付成果，並允許其於必要範圍內使用、重製、修改或管理該等成果。
 
-## 第六條 開源軟體元件 | 6. Open Source Components   
+前項第三人之使用應以執行甲方相關業務或專案為必要限度，甲方應要求該等第三人遵守適當之保密及智慧財產權保護義務。
 
-部分交付成果可能包含、依賴或整合第三方開源軟體。  
-該等開源元件仍應適用其原授權條款，包括但不限於：  
+前項使用不包括將乙方依主契約保留之 Methodology、Framework、Know-how、Reusable IP 或其他保留智慧財產獨立提供予第三人作為顧問服務、商業產品或其他可獨立利用之目的。
 
-* MIT License  
-* Apache License 2.0  
-* BSD License 系列  
-* GNU GPL／LGPL License 系列  
+---
 
-客戶同意遵守所有適用之第三方授權義務。  
-本授權條款不得解釋為排除、限制或變更任何開源授權所要求之義務。  
+## 第6條　使用範圍之限制
 
-Certain deliverables may contain, depend upon, or interact with third-party open-source software.  
-Such components remain subject to their respective license terms, including but not limited to:  
+甲方及依本條款獲准使用特定交付成果之第三人，不得：
 
-* MIT License  
-* Apache License 2.0  
-* BSD Licenses  
-* GNU GPL/LGPL Licenses  
+1. 將乙方保留之智慧財產獨立拆出、重製、授權、出售或提供予第三人；
+2. 將乙方之 Methodology、Framework、Know-how、Reusable IP 或其他保留智慧財產，作為向第三人提供獨立顧問、技術服務或類似商業服務之主要內容；
+3. 以任何方式主張其取得乙方保留智慧財產之所有權；
+4. 於法律允許範圍外，移除或修改依法應保留之著作權、商標或其他權利標示。
 
-The Client agrees to comply with all applicable third-party licensing requirements.  
-Nothing in these License Terms shall supersede or modify any obligation imposed by an applicable open-source license.  
+前項限制不得解釋為限制甲方依主契約第8.5條對特定交付成果所享有之永久使用、重製、修改及管理權利。
 
-## 第七條 智慧財產權歸屬 | 7. Ownership of Intellectual Property    
+---
 
-顧問所有、開發、使用或持有之方法論、框架、工具、模板、課程內容、專業知識、軟體元件及其他智慧財產權，均為顧問專屬所有。  
-顧問所完成之改良、更新、擴充、優化、修訂及衍生成果，除另有書面約定外，亦歸顧問所有。  
+## 第7條　乙方保留之智慧財產
 
-All methodologies, frameworks, tools, templates, course content, know-how, software components, and other intellectual property owned, developed, or used by the Consultant shall remain the sole and exclusive property of the Consultant.  
-Any updates, improvements, enhancements, modifications, derivative works, or extensions created by the Consultant shall likewise remain the property of the Consultant unless otherwise agreed in writing.  
+乙方於顧問服務過程中所使用或產生之下列項目，均屬乙方保留之智慧財產或一般性專業資產：
 
-## 第八條 客戶自行修改成果 | 8. Client-Created Modifications   
+1. 顧問方法論（Methodology）；
+2. 架構及分析框架（Frameworks）；
+3. 分析模型及決策模型；
+4. 通用模板及工具（Templates and Tools）；
+5. 演算法及通用程式元件；
+6. 技術方法及最佳實務；
+7. Know-how；
+8. General Knowledge；
+9. Residual Knowledge；
+10. 不特定於甲方之經驗、觀察、技術概念及專業知識；
+11. 其他可於不同客戶或不同專案中重複使用之智慧財產。
 
-客戶得為其內部目的修改或客製化交付成果。  
-該等修改成果，僅於其係由客戶獨立創作且未包含顧問保留之智慧財產內容之範圍內，始得由客戶享有權利。  
+前項內容不因其於特定交付成果中被引用、整合或呈現，而當然移轉予甲方；但不影響主契約對特定交付成果本身之權利移轉約定。
 
-The Client may create internal modifications or customizations of the Materials.  
-Ownership of such modifications shall vest in the Client only to the extent that such modifications are independently created and do not incorporate intellectual property retained by the Consultant.  
+---
 
-## 第九條 關係企業使用授權 | 9. Affiliate License   
+## 第8條　甲方修改特定交付成果
 
-客戶得於本授權範圍內允許其關係企業使用交付成果。  
-「關係企業」係指直接或間接控制客戶、受客戶控制或與客戶受共同控制之法人或組織。  
-關係企業就交付成果之使用所生之一切行為，均視為客戶之行為，客戶應負相關責任。  
+甲方得依主契約第8.5條修改、調整、整合及管理特定交付成果，以符合其業務或技術需求。
 
-The Client may permit its Affiliates to use the Materials within the scope of these License Terms.  
-"Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with the Client.  
-The Client shall remain responsible for any act or omission of its Affiliates relating to the Materials.  
+甲方對其自行新增且與乙方保留智慧財產無關之內容，依法享有相應權利。
 
-## 第十條 一般知識及殘留知識保留權 | 10. Reservation of General and Residual Knowledge   
+如甲方之修改、調整或延伸內容包含乙方依主契約保留之 Methodology、Framework、Know-how、Reusable IP 或其他保留智慧財產，該等乙方原有權利不因甲方之修改而移轉予甲方。
 
-顧問保留於提供服務過程中所累積、取得或發展之一般知識、技能、經驗、概念、技術、方法論及專業技術之一切權利。  
-於未揭露客戶機密資訊之前提下，顧問得自由使用人員正常記憶中所保留之殘留知識（Residual Knowledge）。  
-本授權條款不得解釋為限制顧問向其他客戶提供類似服務。  
+本條不限制甲方對特定交付成果本身依主契約所享有之權利。
 
-The Consultant retains all rights to use generalized knowledge, experience, concepts, methodologies, techniques, know-how, and skills acquired or developed in the course of providing services.  
-The Consultant may freely use any Residual Knowledge retained in the unaided memory of its personnel, provided that no Confidential Information of the Client is disclosed.  
-Nothing in these License Terms shall restrict the Consultant from providing similar services to other clients.  
+---
 
-## 第十一條 錄音錄影及衍生培訓限制 | 11. Recording and Derivative Training Restrictions    
+## 第9條　重複使用及一般性知識
 
-除經顧問事前書面同意外，客戶不得對顧問提供之課程、研討會、工作坊、簡報或顧問服務內容進行錄音、錄影、直播、轉播、公開傳輸、散布、出版或商業利用。  
-經顧問同意錄製之內容，僅得供客戶內部使用，不得對外提供或商業利用。  
+乙方得持續使用其於提供顧問服務過程中所累積之 General Knowledge、Residual Knowledge、專業經驗、技術概念、一般性解決方案及其他不特定於甲方之知識。
 
-Unless expressly authorized in writing by the Consultant, the Client shall not record, livestream, rebroadcast, publicly transmit, distribute, publish, or commercially exploit any training session, workshop, presentation, or consulting content provided by the Consultant.  
-Any recording permitted by the Consultant shall be limited to the Client's internal use and may not be disclosed or distributed externally.  
+前項使用不得包含甲方之機密資訊、營業秘密或可識別甲方之非公開資訊。
 
-## 第十二條 免責聲明 | 12. Disclaimer of Warranties   
+乙方得將不含甲方機密資訊及不特定於甲方之一般性成果，應用於其他客戶之顧問服務、研究、分析、技術開發或其他合法用途。
 
-交付成果係依「現況（AS IS）」及「可提供狀態（AS AVAILABLE）」提供。  
-於法律允許之最大範圍內，顧問不提供任何明示、默示、法定或其他形式之保證，包括商品適售性、特定目的適用性、不侵權性、正確性、完整性及可靠性等保證。  
+---
 
-THE MATERIALS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS.  
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE CONSULTANT DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, COMPLETENESS, AND RELIABILITY.  
+## 第10條　不得反向主張乙方智慧財產
 
-## 第十三條 責任限制 | 13. Limitation of Liability   
+甲方對特定交付成果所取得之權利，不應被解釋為：
 
-於法律允許之最大範圍內，顧問不對任何間接性、附帶性、特殊性、衍生性或懲罰性損害負責。   
-顧問因交付成果所生或相關之一切累計責任總額，以客戶依相關顧問服務協議實際支付予顧問之服務費用總額為上限。  
+1. 乙方保留之 Methodology、Framework、Template、Tool、Know-how 或其他智慧財產已移轉予甲方；
+2. 甲方取得乙方其他專案之成果或智慧財產；
+3. 甲方取得要求乙方停止使用其一般性專業知識、經驗或能力之權利；
+4. 甲方取得要求乙方不得向其他客戶提供一般性顧問服務之權利。
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE CONSULTANT SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.  
-THE CONSULTANT'S AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THE MATERIALS SHALL NOT EXCEED THE FEES ACTUALLY PAID TO THE CONSULTANT UNDER THE APPLICABLE SERVICES AGREEMENT.  
+---
 
+## 第11條　第三方素材及第三方權利
 
-## 第十四條 權利保留 | 14. Reservation of Rights   
+如特定交付成果中包含第三方所擁有或控制之軟體、資料、素材、技術、開源軟體或其他智慧財產，其權利歸屬及使用方式應受相關第三方授權條款或適用法律規範。
 
-除本授權條款明確授予之有限使用權外，客戶並未取得任何所有權、權利名義或智慧財產權。   
-凡未明確授予之權利，均由顧問保留。  
+乙方應於合理可行範圍內告知甲方該等第三方授權之重大限制。
 
-Except for the limited license expressly granted under these License Terms, no ownership, title, or intellectual property rights are transferred to the Client.  
-All rights not expressly granted are reserved by the Consultant.  
+本條不影響主契約所約定之甲乙雙方智慧財產權歸屬。
 
-## 第十五條 聯絡資訊 | 15. Contact Information 
+---
 
-如有授權、商業使用、轉授權或智慧財產權相關需求，請聯繫：  
-For licensing inquiries, permission requests, or commercial use discussions, please contact:  
+## 第12條　保密資訊
 
-Consultant／顧問：Pan, Jen Yuan（潘貞元）  
-Email／電子郵件：reta.motome@gmail.com  
+甲方對特定交付成果之使用，不得使其取得乙方之機密資訊、營業秘密或其他依法受保護之非公開資訊之額外權利。
+
+乙方亦不得因取得或保留其一般性 Methodology、Know-how、Residual Knowledge 或其他專業資產，而使用、揭露或重製甲方之機密資訊或營業秘密。
+
+雙方之保密義務仍依主契約及雙方另行簽署之保密協議辦理。
+
+---
+
+## 第13條　不得限制其他客戶及其他專案
+
+除主契約另有明文約定外，甲方不得因取得特定交付成果之權利，而限制乙方：
+
+1. 為其他客戶提供顧問服務；
+2. 使用其一般性專業知識、技能、經驗及 Know-how；
+3. 發展、改良或使用一般性 Methodology、Framework、Template、Tool 或其他 Reusable IP；
+4. 提供與甲方之業務或技術領域相同或相近之一般性顧問服務。
+
+前項權利不包括使用或揭露甲方之機密資訊、營業秘密或其他受法律保護之非公開資訊。
+
+---
+
+## 第14條　權利不因契約終止而當然消滅
+
+除主契約另有約定外，甲方就已完成付款之特定交付成果所取得之永久使用、重製、修改及管理權利，不因主契約終止、屆期或乙方停止提供顧問服務而消滅。
+
+乙方依主契約保留之智慧財產、Methodology、Framework、Know-how、Reusable IP、General Knowledge 及 Residual Knowledge 等權利，亦不因主契約終止、屆期或特定交付成果交付予甲方而移轉或消滅。
+
+---
+
+## 第15條　完整性及與主契約之關係
+
+本條款為主契約之一部分，應與主契約一併解釋。
+
+本條款之目的在於明確規範特定交付成果之使用方式及相關智慧財產權邊界，不應解釋為變更、限制或取代主契約已明確約定之智慧財產權歸屬。
+
+如本條款與主契約發生衝突，關於特定交付成果之智慧財產權歸屬、移轉、永久使用權及其他明確權利，以主契約之約定為準；本條款則就主契約未具體規範之使用方式及權利邊界提供補充規範。
+
+除上述事項外，本條款與主契約應共同構成雙方就特定交付成果之完整約定。
 
 ---
 
