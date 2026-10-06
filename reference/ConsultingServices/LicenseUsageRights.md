@@ -1,14 +1,6 @@
 # Appendix A   
 # 交付成果授權及使用條款 | Deliverables License and Usage Terms   
 
-> [!note]   
-> ![BY NC SA](../../img/Cc-by-nc-sa.png)     
-> 本範本 © 2026 作者 潘貞元（Reta Pan），採用  `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。    
-> This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
-> 
-> 詳細授權內容、權利義務、使用限制及其他相關條件，請參閱[授權條款](#license--授權條款)一節。您使用本範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。  
-> For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [License](#license--授權條款) section. By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
-
 ## 第一條 目的 | 1. Purpose
 
 本交付成果授權及使用條款（以下稱「本授權條款」）規範客戶就顧問依相關顧問服務協議（Services Agreement）所提供之教材、技術文件、報告、範例程式碼、簡報、模板、方法論及其他交付成果之使用方式。  

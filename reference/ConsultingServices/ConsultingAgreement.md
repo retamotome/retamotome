@@ -1,14 +1,5 @@
 # RETA 獨立技術策略與系統架構顧問服務契約 | RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT  
 
-> [!note]   
-> ![BY NC SA](../../img/Cc-by-nc-sa.png)     
-> 本範本 © 2026 作者 潘貞元（Reta Pan），採用 `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。    
-> This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
-> 
-> 詳細授權內容、權利義務、使用限制及其他相關條件，請參閱[授權條款](#license--授權條款)一節。您使用本範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。    
-> For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [License](#license--授權條款) section. By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
-
-
 **立約人 Parties**
 
 甲方：潘貞元（以下稱「甲方」）  
