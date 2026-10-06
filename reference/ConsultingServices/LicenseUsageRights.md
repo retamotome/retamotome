@@ -1,4 +1,4 @@
-# Appendix A   
+# 附錄 | Appendix    
 # 交付成果授權及使用條款 | Deliverables License and Usage Terms   
 
 ## 第一條 目的 | 1. Purpose

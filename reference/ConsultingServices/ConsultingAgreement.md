@@ -1415,7 +1415,7 @@ Each Party agrees that any approval, confirmation, consent, instruction, or othe
 
 ---
 
-## Appendix A | 附錄 A   
+## 附錄 | Appendix   
 
 * [顧問服務報價單 | Consulting Service Proposal & Fee Schedule](Quotation.md)   
 * [交付成果授權及使用條款 | Deliverables License and Usage Terms](./LicenseUsageRights.md)   
