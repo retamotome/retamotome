@@ -1,170 +1,158 @@
 附錄 | Appendix    
-# 交付成果授權及使用條款 | License and Usage Rights for Deliverables
+# 交付成果授權及使用條款 | Deliverables License and Usage Terms   
 
-## 第1條　適用範圍
+## 第一條　適用範圍 | Article 1 Scope and Applicability  
 
-本條款適用於乙方依《顧問服務契約》（以下稱「主契約」）所提供之特定交付成果（Commissioned Deliverables）之使用權及相關事項。
+本交付成果授權及使用條款（以下稱「本條款」）係就顧問依雙方簽署之[顧問服務契約](ConsultingAgreement.md)（以下稱「主契約」）所完成並交付之成果，其使用、管理、維護及相關權利義務事項所為之約定。  
+These Deliverables License and Usage Terms (the "Terms") govern the use, administration, maintenance, and related rights and obligations concerning the deliverables provided by Consultant pursuant to the [Consulting Services Agreement](ConsultingAgreement.md) (the "Master Agreement") entered into between the Parties.  
 
-本條款應與主契約一併解釋。如本條款與主契約之約定有所不一致，關於特定交付成果之智慧財產權歸屬及使用權事項，以主契約之約定為準；本條款未約定事項，依主契約辦理。
+本條款應與[主契約](ConsultingAgreement.md)併同解釋及適用；本條款未規定之事項，悉依[主契約](ConsultingAgreement.md)及中華民國相關法令辦理。  
+These Terms shall be construed together with and form an integral part of the [Master Agreement](ConsultingAgreement.md). Any matter not expressly provided herein shall be governed by the [Master Agreement](ConsultingAgreement.md) and applicable laws.  
 
----
+如本條款與[主契約](ConsultingAgreement.md)之約定有所牴觸，應以[主契約](ConsultingAgreement.md)之約定為準。  
+In the event of any conflict between these Terms and the [Master Agreement](ConsultingAgreement.md), the provisions of the [Master Agreement](ConsultingAgreement.md) shall prevail.  
 
-## 第2條　智慧財產權歸屬
+## 第二條　交付成果之定義 | Article 2 Definition of Deliverables  
 
-特定交付成果之著作財產權及其他依法得移轉之智慧財產權，依主契約第8條之約定辦理。
+本條款所稱「交付成果」，係指顧問依[主契約](ConsultingAgreement.md)所交付之一切文件、報告、研究成果、分析成果、設計成果、技術文件、教育訓練資料、程式碼、模型、圖表、規格文件及其他契約約定之成果。  
+For purposes of these Terms, "Deliverables" shall mean all reports, analyses, studies, technical documents, specifications, training materials, software code, models, diagrams, presentations, designs, and any other work products delivered by Consultant pursuant to the [Master Agreement](ConsultingAgreement.md).  
 
-除主契約明確約定移轉予甲方之特定交付成果權利外，乙方於提供顧問服務前已擁有，或於履行顧問服務過程中發展、產生或持續使用之一般性方法論、架構、框架、模型、模板、工具、演算法、程式元件、技術方法、最佳實務、Know-how、General Knowledge、Residual Knowledge 及其他可重複使用之智慧財產，均仍由乙方保留其相關權利。
+## 第三條　授權生效 | Article 3 Effectiveness of License  
 
-本條款不構成對主契約所約定之智慧財產權歸屬另行變更或限制。
+客戶完成[主契約](ConsultingAgreement.md)所約定之付款義務後，即取得依本條款使用交付成果之權利。  
+Customer's right to use the Deliverables shall become effective upon full payment of all fees due under the [Master Agreement](ConsultingAgreement.md).  
 
----
+除[主契約](ConsultingAgreement.md)另有約定外，客戶依法取得之使用權，不因[主契約](ConsultingAgreement.md)之終止、解除、失效或履行完畢而當然消滅。  
+Unless otherwise provided in the [Master Agreement](ConsultingAgreement.md), the license granted hereunder shall survive termination, expiration, rescission, or completion of the [Master Agreement](ConsultingAgreement.md).  
 
-## 第3條　甲方之使用權
+## 第四條　授權使用範圍 | Article 4 Permitted Use   
 
-於甲方依主契約完成相應付款後，甲方得依主契約第8.5條之約定，永久使用、重製、修改及管理相關特定交付成果。
+客戶得於其自身及其關係企業之合法業務範圍內使用交付成果。  
+Customer and its Affiliates may use the Deliverables solely for lawful internal business purposes.  
 
-前項使用權包括甲方為其自身業務、營運、管理、技術開發、系統建置、維護、改善、決策及其他合法商業目的而使用該等特定交付成果。
+前述用途包括但不限於：  
 
-除主契約另有約定外，甲方不因本條款而取得乙方保留之一般性方法論、框架、模型、工具、Know-how 或其他可重複使用智慧財產之所有權。
+一、經營管理；  
+二、研究發展；  
+三、教育訓練；  
+四、技術開發；  
+五、資訊系統建置及維運；  
+六、流程優化及營運改善。  
 
----
+Such purposes may include, without limitation:  
 
-## 第4條　關係企業之使用
+(a) business operations and management;  
+(b) research and development;  
+(c) internal training;  
+(d) technology development;  
+(e) implementation, operation, and maintenance of information systems; and  
+(f) process optimization and operational improvement.  
 
-甲方之關係企業（Affiliates）得依主契約第8.5條之約定使用特定交付成果。
+客戶得於前述範圍內就交付成果進行合理之重製、儲存、編修、整合、調整及內部流通。  
+Customer may reproduce, store, adapt, integrate, modify, and internally distribute the Deliverables to the extent reasonably necessary for the foregoing purposes.  
 
-甲方應確保其關係企業之使用符合主契約及本條款所約定之使用範圍。
+## 第五條　第三人使用 | Article 5 Use by Affiliates and Authorized Third Parties  
 
-關係企業之使用不構成乙方保留智慧財產之移轉。
+客戶因業務需要，得於必要範圍內提供交付成果予其受僱人、關係企業、委任顧問、系統整合商、外包服務供應商及其他依法受託執行相關業務之第三人。  
+Customer may disclose the Deliverables, on a need-to-know basis, to its employees, Affiliates, contractors, consultants, system integrators, outsourcing service providers, and other authorized third parties engaged in supporting Customer's business operations.  
 
----
+客戶應確保前述第三人遵守不低於[主契約](ConsultingAgreement.md)及本條款所要求之保密義務及使用限制。  
+Customer shall ensure that such parties are bound by confidentiality and use restrictions no less protective than those set forth in the [Master Agreement](ConsultingAgreement.md) and these Terms.  
 
-## 第5條　員工、顧問、系統整合商及合作廠商之使用
+## 第六條　使用限制 | Article 6 Restrictions  
 
-甲方得為執行、維護、改善或支援與特定交付成果相關之專案，向其員工、顧問、系統整合商（SI）、合作廠商及其他專案相關第三人提供必要之特定交付成果，並允許其於必要範圍內使用、重製、修改或管理該等成果。
+除[主契約](ConsultingAgreement.md)或雙方另有書面約定外，客戶不得有下列行為：  
+Except as otherwise expressly permitted in writing by Consultant, Customer shall not:  
 
-前項第三人之使用應以執行甲方相關業務或專案為必要限度，甲方應要求該等第三人遵守適當之保密及智慧財產權保護義務。
+（一）公開散布  
+ (a) Public Disclosure  
 
-前項使用不包括將乙方依主契約保留之 Methodology、Framework、Know-how、Reusable IP 或其他保留智慧財產獨立提供予第三人作為顧問服務、商業產品或其他可獨立利用之目的。
+將交付成果公開刊登、發布、揭露或提供予不特定人或特定多數人。  
+Publish, post, disclose, or otherwise make the Deliverables available to the public or to a broad audience.  
 
----
+（二）獨立商品化  
+ (b) Commercial Redistribution  
 
-## 第6條　使用範圍之限制
+將交付成果作為獨立商品、顧問報告、教材、資料庫、課程或其他可單獨交易之標的提供、授權或販售。  
+Commercialize, distribute, sublicense, sell, or otherwise exploit the Deliverables as a standalone product, service, report, course, template, or database.  
 
-甲方及依本條款獲准使用特定交付成果之第三人，不得：
+（三）不實表示  
+ (c) Misrepresentation  
 
-1. 將乙方保留之智慧財產獨立拆出、重製、授權、出售或提供予第三人；
-2. 將乙方之 Methodology、Framework、Know-how、Reusable IP 或其他保留智慧財產，作為向第三人提供獨立顧問、技術服務或類似商業服務之主要內容；
-3. 以任何方式主張其取得乙方保留智慧財產之所有權；
-4. 於法律允許範圍外，移除或修改依法應保留之著作權、商標或其他權利標示。
+使第三人誤認顧問參與、認可、驗證、維護、保證或背書經修改後之成果。  
+Represent that Consultant has approved, verified, certified, maintained, supported, or endorsed any modified version of the Deliverables.  
 
-前項限制不得解釋為限制甲方依主契約第8.5條對特定交付成果所享有之永久使用、重製、修改及管理權利。
+## 第七條　驗收及風險移轉 | Article 7 Acceptance and Risk Allocation  
 
----
+交付成果經驗收完成或依[主契約](ConsultingAgreement.md)視為驗收完成時，顧問即完成交付義務。  
+Upon acceptance, or deemed acceptance under the [Master Agreement](ConsultingAgreement.md), Consultant's delivery obligations shall be deemed fully satisfied.  
 
-## 第7條　乙方保留之智慧財產
+自驗收完成之日起，交付成果之保管、備份、資訊安全管理及使用風險均由客戶自行承擔。  
+Thereafter, Customer shall bear sole responsibility for storage, backup, security, administration, and use of the Deliverables.  
 
-乙方於顧問服務過程中所使用或產生之下列項目，均屬乙方保留之智慧財產或一般性專業資產：
+## 第八條　修改及衍生使用 | Article 8 Modifications and Derivative Use  
 
-1. 顧問方法論（Methodology）；
-2. 架構及分析框架（Frameworks）；
-3. 分析模型及決策模型；
-4. 通用模板及工具（Templates and Tools）；
-5. 演算法及通用程式元件；
-6. 技術方法及最佳實務；
-7. Know-how；
-8. General Knowledge；
-9. Residual Knowledge；
-10. 不特定於甲方之經驗、觀察、技術概念及專業知識；
-11. 其他可於不同客戶或不同專案中重複使用之智慧財產。
+客戶得依其業務需求就交付成果進行修改、調整、整合、擴充、改寫或其他衍生利用。  
+Customer may modify, adapt, integrate, enhance, or otherwise create derivative works from the Deliverables for its internal business purposes.  
 
-前項內容不因其於特定交付成果中被引用、整合或呈現，而當然移轉予甲方；但不影響主契約對特定交付成果本身之權利移轉約定。
+因此所生之風險、損害、第三人請求或法律責任，均由客戶自行負擔。  
+Customer shall assume all risks and liabilities arising from such modifications or derivative use.  
 
----
+## 第九條　後續服務 | Article 9 No Ongoing Support Obligation  
 
-## 第8條　甲方修改特定交付成果
+除雙方另有書面約定外，顧問就交付成果不負持續維護、更新、監控、教育訓練、技術支援或功能擴充之義務。  
+Unless otherwise agreed in writing, Consultant shall have no obligation to provide maintenance, updates, monitoring, training, technical support, enhancements, or additional development services with respect to the Deliverables.  
 
-甲方得依主契約第8.5條修改、調整、整合及管理特定交付成果，以符合其業務或技術需求。
+## 第十條　環境變更風險 | Article 10 Environmental and Technological Changes  
 
-甲方對其自行新增且與乙方保留智慧財產無關之內容，依法享有相應權利。
+因系統環境、軟體版本、第三方服務、API、法規或資訊安全政策變更所致之不相容、功能異常或效能變化，不構成交付成果之瑕疵或顧問違約。  
+Consultant shall not be responsible for incompatibilities, performance degradation, functional issues, or service interruptions arising from changes to operating environments, software versions, APIs, third-party services, infrastructure, security requirements, or applicable laws and regulations. Such circumstances shall not constitute a defect in the Deliverables or a breach by Consultant.  
 
-如甲方之修改、調整或延伸內容包含乙方依主契約保留之 Methodology、Framework、Know-how、Reusable IP 或其他保留智慧財產，該等乙方原有權利不因甲方之修改而移轉予甲方。
+## 第十一條　第三方產品及服務 | Article 11 Third-Party Products and Services  
 
-本條不限制甲方對特定交付成果本身依主契約所享有之權利。
+客戶應遵守第三方產品或服務之授權條款及使用規範。  
+Customer shall comply with all applicable license terms and usage requirements imposed by third-party providers.  
 
----
+第三方產品或服務之停止提供、功能變更、授權調整或服務中斷，顧問不負任何責任。  
+Consultant shall not be liable for any discontinuation, suspension, modification, pricing changes, licensing changes, or interruption of third-party products or services.  
 
-## 第9條　重複使用及一般性知識
+## 第十二條　人工智慧技術聲明 | Article 12 Artificial Intelligence Disclaimer  
 
-乙方得持續使用其於提供顧問服務過程中所累積之 General Knowledge、Residual Knowledge、專業經驗、技術概念、一般性解決方案及其他不特定於甲方之知識。
+客戶瞭解人工智慧技術可能因模型、資料、設定或第三方平台因素而產生差異。  
+Customer acknowledges that outputs generated through artificial intelligence technologies may vary based on model versions, training data, system configurations, user inputs, and third-party platform policies.   
 
-前項使用不得包含甲方之機密資訊、營業秘密或可識別甲方之非公開資訊。
+除法律另有強制規定外，顧問不保證任何 AI 輸出結果之正確性、完整性、一致性或持續可用性。  
+To the maximum extent permitted by applicable law, Consultant makes no representation or warranty regarding the accuracy, completeness, reliability, consistency, or continued availability of AI-generated outputs.  
 
-乙方得將不含甲方機密資訊及不特定於甲方之一般性成果，應用於其他客戶之顧問服務、研究、分析、技術開發或其他合法用途。
+## 第十三條　版本管理 | Article 13 Version Control  
 
----
+經驗收完成之交付成果版本，為雙方確認之正式交付版本。  
+The version of the Deliverables accepted by Customer shall constitute the official delivered version.  
 
-## 第10條　不得反向主張乙方智慧財產
+客戶、其關係企業、受託廠商或其他第三人所進行之任何修改、整合、擴充、改寫、移轉、重新編製或衍生開發成果，均應視為獨立版本。   
+Any modification, enhancement, adaptation, integration, customization, revision, derivative development, or other alteration of the Deliverables by Customer, its Affiliates, contractors, service providers, or any third party shall constitute a separate and independent version.   
 
-甲方對特定交付成果所取得之權利，不應被解釋為：
+除雙方另有書面約定外，顧問就前項獨立版本，不負任何保固、驗證、維護、更新、錯誤修正、相容性確認、技術支援或其他後續服務義務。  
+Unless otherwise expressly agreed in writing by the Parties, Consultant shall have no obligation to provide any warranty, validation, maintenance, updates, upgrades, error correction, compatibility verification, technical support, or other post-delivery services with respect to such separate version.   
 
-1. 乙方保留之 Methodology、Framework、Template、Tool、Know-how 或其他智慧財產已移轉予甲方；
-2. 甲方取得乙方其他專案之成果或智慧財產；
-3. 甲方取得要求乙方停止使用其一般性專業知識、經驗或能力之權利；
-4. 甲方取得要求乙方不得向其他客戶提供一般性顧問服務之權利。
+前項獨立版本所衍生之一切風險、損害、第三人請求或法律責任，均由客戶自行承擔。  
+Customer shall be solely responsible for all risks, liabilities, losses, damages, claims, and expenses arising out of or relating to such separate version.  
 
----
+## 第十四條　責任限制 | Article 14 Limitation of Liability  
 
-## 第11條　第三方素材及第三方權利
+除因顧問故意或重大過失所致者外，顧問對任何間接損害、特別損害、衍生性損害、營業中斷損失、預期利益損失、商譽損失、資料遺失或第三人請求，不負賠償責任。  
+Except for damages arising from Consultant's gross negligence or willful misconduct, Consultant shall not be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages, including loss of profits, loss of business opportunity, loss of goodwill, data loss, business interruption, or third-party claims.  
 
-如特定交付成果中包含第三方所擁有或控制之軟體、資料、素材、技術、開源軟體或其他智慧財產，其權利歸屬及使用方式應受相關第三方授權條款或適用法律規範。
+顧問依本條款所生之一切責任，包括但不限於契約責任、侵權責任、法定責任或其他任何責任，其責任範圍、責任限制及賠償上限，均應依[主契約](ConsultingAgreement.md)第十三條之約定辦理。  
+Notwithstanding anything to the contrary contained herein, any and all liability of Consultant arising out of or relating to these Terms, whether in contract, tort (including negligence), statute, or otherwise, shall be subject to the limitations, exclusions, and liability cap set forth in Article 13 (Limitation of Liability) of the [Master Agreement](ConsultingAgreement.md).  
 
-乙方應於合理可行範圍內告知甲方該等第三方授權之重大限制。
 
-本條不影響主契約所約定之甲乙雙方智慧財產權歸屬。
+## 第十五條　條款存續 | Article 15 Survival
 
----
+本條款自交付成果交付之日起生效。  
 
-## 第12條　保密資訊
-
-甲方對特定交付成果之使用，不得使其取得乙方之機密資訊、營業秘密或其他依法受保護之非公開資訊之額外權利。
-
-乙方亦不得因取得或保留其一般性 Methodology、Know-how、Residual Knowledge 或其他專業資產，而使用、揭露或重製甲方之機密資訊或營業秘密。
-
-雙方之保密義務仍依主契約及雙方另行簽署之保密協議辦理。
-
----
-
-## 第13條　不得限制其他客戶及其他專案
-
-除主契約另有明文約定外，甲方不得因取得特定交付成果之權利，而限制乙方：
-
-1. 為其他客戶提供顧問服務；
-2. 使用其一般性專業知識、技能、經驗及 Know-how；
-3. 發展、改良或使用一般性 Methodology、Framework、Template、Tool 或其他 Reusable IP；
-4. 提供與甲方之業務或技術領域相同或相近之一般性顧問服務。
-
-前項權利不包括使用或揭露甲方之機密資訊、營業秘密或其他受法律保護之非公開資訊。
-
----
-
-## 第14條　權利不因契約終止而當然消滅
-
-除主契約另有約定外，甲方就已完成付款之特定交付成果所取得之永久使用、重製、修改及管理權利，不因主契約終止、屆期或乙方停止提供顧問服務而消滅。
-
-乙方依主契約保留之智慧財產、Methodology、Framework、Know-how、Reusable IP、General Knowledge 及 Residual Knowledge 等權利，亦不因主契約終止、屆期或特定交付成果交付予甲方而移轉或消滅。
-
----
-
-## 第15條　完整性及與主契約之關係
-
-本條款為主契約之一部分，應與主契約一併解釋。
-
-本條款之目的在於明確規範特定交付成果之使用方式及相關智慧財產權邊界，不應解釋為變更、限制或取代主契約已明確約定之智慧財產權歸屬。
-
-如本條款與主契約發生衝突，關於特定交付成果之智慧財產權歸屬、移轉、永久使用權及其他明確權利，以主契約之約定為準；本條款則就主契約未具體規範之使用方式及權利邊界提供補充規範。
-
-除上述事項外，本條款與主契約應共同構成雙方就特定交付成果之完整約定。
+本條款中有關使用限制、保密義務、責任限制、風險承擔、版本管理及其他依其性質應於契約終止後繼續有效之約定，於[主契約](ConsultingAgreement.md)終止、解除、失效或履行完畢後，仍繼續有效。    
+Any provision which by its nature is intended to survive termination or expiration of the [Master Agreement](ConsultingAgreement.md) shall remain in full force and effect following such termination or expiration, including without limitation restrictions on use, confidentiality obligations, liability limitations, risk allocation provisions, and version control requirements.  
 
 ---
 
@@ -175,12 +163,14 @@
 
 ---
 
+---
+
 # License | 授權條款  
 This work © 2026 by Jen Yuan Pan is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.   
-本範本 © 2026 作者 潘貞元（Reta Pan），採用 `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。   
+本條款 © 2026 作者 潘貞元（Reta Pan），採用 `Creative Commons 姓名標示－非商業性－相同方式分享 4.0 國際` 授權。   
 
 For the complete license terms, rights and obligations, restrictions on use, and other applicable conditions, please refer to the [Full License Terms](https://github.com/retamotome/retamotome/blob/main/LICENSE.md). By using this work, you acknowledge that you have read, understood, and agree to comply with such terms.  
-詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。您使用本範本，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。  
+詳細授權內容、權利義務、使用限制及其他相關條件，請參閱《[完整授權條款](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)》。您使用本條款，即表示已充分閱讀、確已知悉並同意遵守該等條款與規定，並承認其具有法律約束力。  
 
 ## Intellectual Property Notice | 智慧財產權聲明   
 
@@ -239,12 +229,13 @@ USERS ASSUME ALL RISKS ASSOCIATED WITH THE USE OF THIS TEMPLATE.
 
 ## Author | 作者
 
-Consultant / Author: 潘貞元 (Reta Pan)   
-GitHub: https://github.com/retamotome   
-email: reta.motome@gmail.com   
+Consultant／顧問：Pan, Jen Yuan（潘貞元）  
+Email／電子郵件：reta.motome@gmail.com
 
 ## Acknowledgement | 致謝  
 
 This project is intended to promote the sharing of practical knowledge regarding international consulting agreements, training agreements, and professional services contracts.   
 本站旨在促進國際顧問合約、教育訓練合約及專業服務契約等實務知識之交流與分享。  
+
+
 

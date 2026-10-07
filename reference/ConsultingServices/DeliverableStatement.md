@@ -1,0 +1,4 @@
+文件權利聲明  
+
+本文件係依《[顧問服務契約](ConsultingAgreement.md)》所交付之成果。除契約另有約定外，本文件經驗收後之保存、管理、維護、修改、整合、擴充及衍生應用所生之責任與風險，概由客戶自行承擔。其餘權利義務悉依《[顧問服務契約](ConsultingAgreement.md)》及《交付成果授權及使用條款》辦理。  
+This document constitutes a Deliverable provided pursuant to the [Consulting Services Agreement](ConsultingAgreement.md). Unless otherwise expressly agreed, Customer assumes full responsibility for the storage, administration, maintenance, modification, integration, enhancement, and derivative use of this document after acceptance. All rights and obligations relating to this document shall be governed by the [Consulting Services Agreement](ConsultingAgreement.md) and the Deliverables License and Usage Terms.  
