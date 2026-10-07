@@ -126,7 +126,6 @@ This allocation is provided as an example only. Actual consulting points may var
 | **項目<br>Service**                   | **內容<br>Scope**             | **參考費用<br>Fee**         |
 | -------------------------- | -------------------- | -------------------- |
 | 技術工作坊<br>Technical Workshop                   | 3 小時技術交流與規劃<br>3-hour workshop     | NT\$30,000       |
-| 技術成熟度診斷<br>Technology Maturity Assessment             | 現況盤點與改善建議<br>Current-state assessment and recommendations   | NT\$80,000～150,000  |
 | 技術導入評估<br>Solution Feasibility Assessment               | 可行性分析與技術選型建議<br>Feasibility analysis and technology selection | NT\$100,000～200,000 |
 
 ## 報價說明 | Commercial Terms  
