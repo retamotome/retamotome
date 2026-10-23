@@ -4,4 +4,4 @@
 .vs/
 *.sqlite
 .gitignore
-reference/TrainingService/TrainingAgreement.md
+reference/TrainingService
