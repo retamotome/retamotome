@@ -26,7 +26,7 @@
 
 | Book 書籍 | Description 說明 | 
 |:-----|:-------|
-| <a href="https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ" target="_blank"><image src="https://books.google.com.tw/books/publisher/content?id=Xfi2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73PvxU1eGilUl_T75QX7X-Dv6xNGikUgOPQTzpnsD9PXxizzgzPhj2z2zO-aJvs13VERxv8m_x6kSJpeD1IrUtSwjrxJNi2t8x-vkq-3ihdpShfzHt-_CaCkzi39R_d96F98F1Z" width="100"></a> | [貞元年間 卷(一) 廿卅隨筆](https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ) <br>本書主要是集結敝人人生至此的些許見聞、體會與淺見，也在某些觀念給予不同的詮釋 。<br>在本書【寓】的部分，以淺近文言譬喻生活情境，呈現先賢之言。在【論】的部分，引用各種入世生活主題分享處理與應對之道。此 外，本書也包含與朋友間的交流心得、以及【論．淺談宇宙 】、【 史． 上杉 謙信 】、【 史．織田信長之敦盛 】等等有趣的文章，使本書的內容更豐富。<br> ☑️ Chinese  |
+| <a href="https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ" target="_blank"><image src="https://books.google.com.tw/books/publisher/content?id=Xfi2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73PvxU1eGilUl_T75QX7X-Dv6xNGikUgOPQTzpnsD9PXxizzgzPhj2z2zO-aJvs13VERxv8m_x6kSJpeD1IrUtSwjrxJNi2t8x-vkq-3ihdpShfzHt-_CaCkzi39R_d96F98F1Z" width="200"></a> | [貞元年間 卷(一) 廿卅隨筆](https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ) <br>本書主要是集結敝人人生至此的些許見聞、體會與淺見，也在某些觀念給予不同的詮釋 。<br>在本書【寓】的部分，以淺近文言譬喻生活情境，呈現先賢之言。在【論】的部分，引用各種入世生活主題分享處理與應對之道。此 外，本書也包含與朋友間的交流心得、以及【論．淺談宇宙 】、【 史． 上杉 謙信 】、【 史．織田信長之敦盛 】等等有趣的文章，使本書的內容更豐富。<br> ☑️ Chinese  |
 
 ## Open Courseware | 開放式課程  
 
