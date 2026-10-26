@@ -2,7 +2,7 @@
 
 ![吉祥院軟體工程研究中心](./img/SystemDesignPhilosophy.png)  
 
-## 課程簡介
+# 課程簡介
 
 本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，培養學習者洞察問題根源、化繁為簡，並尋找能夠優化整體系統的有效解決方案之能力。   
 This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole.   
