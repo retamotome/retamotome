@@ -37,7 +37,7 @@ Customer and its Affiliates may use the Deliverables solely for lawful internal 
 三、教育訓練；  
 四、技術開發；  
 五、資訊系統建置及維運；  
-六、流程優化及營運改善。  
+六、流程最佳化及營運改善。  
 
 Such purposes may include, without limitation:  
 

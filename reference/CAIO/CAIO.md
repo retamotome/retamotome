@@ -256,7 +256,7 @@ A simpler version:
 更容易記憶的版本：  
 
 > Others optimize answers. The Chief Architecture Insight Officer validates the question.  
-> 別人在優化答案；首席架構洞察官在驗證問題。
+> 別人在最佳化答案；首席架構洞察官在驗證問題。
 
 The ultimate objective is:  
 最終目標是：  
