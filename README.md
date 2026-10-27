@@ -1,4 +1,4 @@
-# 吉祥院軟體工程研究中心
+# 吉祥院軟體工程研究中心<br>Auspicious Software Engineering Research Center
 
 ![吉祥院軟體工程研究中心](./img/ResearchCenter.png)  
 
@@ -26,7 +26,7 @@
 
 | Book 書籍 | Description 說明 | 
 |:-----|:-------|
-| <a href="https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ" target="_blank"><image src="https://books.google.com.tw/books/publisher/content?id=Xfi2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73PvxU1eGilUl_T75QX7X-Dv6xNGikUgOPQTzpnsD9PXxizzgzPhj2z2zO-aJvs13VERxv8m_x6kSJpeD1IrUtSwjrxJNi2t8x-vkq-3ihdpShfzHt-_CaCkzi39R_d96F98F1Z" width="200"></a> | [貞元年間 卷(一) 廿卅隨筆](https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ) <br>本書主要是集結敝人人生至此的些許見聞、體會與淺見，也在某些觀念給予不同的詮釋 。<br>在本書【寓】的部分，以淺近文言譬喻生活情境，呈現先賢之言。在【論】的部分，引用各種入世生活主題分享處理與應對之道。此 外，本書也包含與朋友間的交流心得、以及【論．淺談宇宙 】、【 史． 上杉 謙信 】、【 史．織田信長之敦盛 】等等有趣的文章，使本書的內容更豐富。<br> ☑️ Chinese  |
+| <a href="https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ" target="_blank"><image src="https://books.google.com.tw/books/publisher/content?id=Xfi2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73PvxU1eGilUl_T75QX7X-Dv6xNGikUgOPQTzpnsD9PXxizzgzPhj2z2zO-aJvs13VERxv8m_x6kSJpeD1IrUtSwjrxJNi2t8x-vkq-3ihdpShfzHt-_CaCkzi39R_d96F98F1Z" width="200"></a> | [貞元年間 卷(一) 廿卅隨筆](https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ) <br>本書主要是集結敝人人生至此的些許見聞、體會與淺見，也在某些觀念給予不同的詮釋 。<br>在本書【寓】的部分，以淺近文言譬喻生活情境，呈現先賢之言。在【論】的部分，引用各種入世生活主題分享處理與應對之道。此 外，本書也包含與朋友間的交流心得、以及【論．淺談宇宙 】、【 史． 上杉 謙信 】、【 史．織田信長之敦盛 】等等有趣的文章，使本書的內容更豐富。<br> ☑️ Chinese Only |
 
 ## Open Courseware | 開放式課程  
 
@@ -38,12 +38,12 @@
 
 | Video 影片 | Description 說明 | 
 |:-----|:-------|
-| <a href="./open-courseware/SystemDesign.md" target="_blank"><image src="./open-courseware/img/SystemDesignPhilosophy.png" width="200"></a> | [以四大關鍵思維看系統設計哲學](./open-courseware/SystemDesign.md)<br>This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole.<br>本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，培養學習者洞察問題根源、化繁為簡，並尋找能夠最佳化整體系統的有效解決方案之能力。<br> ☑️ Chinese  |  
+| <a href="./open-courseware/SystemDesignPhilosophy/SystemDesign.md" target="_blank"><image src="./open-courseware/SystemDesignPhilosophy/img/SystemDesignPhilosophy.png" width="200"></a> | [以四大關鍵思維看系統設計哲學](./open-courseware/SystemDesignPhilosophy/SystemDesign.md)<br>This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole.<br>本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，培養學習者洞察問題根源、化繁為簡，並尋找能夠最佳化整體系統的有效解決方案之能力。<br> ☑️ Chinese Only |  
 
 ---
 
 ## Consulting Services | 顧問服務   
-* [顧問服務報價單 | Consulting Service Proposal & Fee Schedule](./reference/ConsultingServices/Quotation.md)   
+* [Consulting Service Proposal & Fee Schedule | 顧問服務報價單](./reference/ConsultingServices/Quotation.md)   
 
 ---
 
