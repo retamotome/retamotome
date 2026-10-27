@@ -269,7 +269,7 @@ The ultimate objective is:
 ## Collaboration Scenarios | 協作情境
 * [技術幕僚成員角色與說明](../CharacterBible.md)   
 Technical Staff Character Reference and Role Definitions. (Chinese only)   
-* ![YouTube](../../img/YouTube_icon.gif) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)   
+* ![YouTube](../../img/YouTube_icon.png) [從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)   
 From Peach Blossom Formation to Ocean-Scale Peach Blossom Formation: System Vulnerabilities, Breakthrough Innovation, and Architectural Reframing Through the Lens of _The Legend of the Condor Heroes_. (Chinese only)  
  
 ## Competency Assessment Reports | 職能評估報告  
