@@ -114,11 +114,11 @@ Then discuss solutions | 再討論解法
    現實檢驗           風險檢驗            矛盾檢驗
 
  Is it real?        Will it fail?      Is it consistent?
-   真的嗎？           會爆嗎？            矛盾嗎？
+   真的嗎？           會爆嗎？            一致嗎？
  Does it exist?     Can it survive?    Is it conflicting?
-   存在嗎？           撐得住嗎？          一致嗎？
+   存在嗎？           撐得住嗎？          衝突嗎？
  Verified?          Failure modes?     Any contradictions?
-   驗證了嗎？         失效模式？          衝突嗎？
+   驗證了嗎？         失效模式？          矛盾嗎？
       │                  │                  │
       └──────────────────┼──────────────────┘
                          │
