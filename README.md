@@ -3,13 +3,14 @@
 ![吉祥院軟體工程研究中心](./img/ResearchCenter.png)  
 
 ## Members | 成員  
-| 人物 | 職稱 | 關鍵能力 | 核心思維 | 見解風格 |   
-| --- | --- | --- | --- | --- |   
-| Reta | [首席架構洞察官](./reference/CAIO/CAIO.md) | 全局監察 | 系統思維、協調最佳解取捨 | 洞察盲點 (Critical Insight) |   
-| Orion | 技術總監 | 創新探索 | 追求創新、巧妙、極致 | 技術最佳解（Technical Excellence） |   
-| Jack | 敏捷顧問 | 實務導向 | 解決眼前真正的問題 | 客戶價值最佳解（Agile / Customer Value） |   
-| August  | 首席整合架構師 | 全局整合 | 兼顧全局、穩定、長遠 | 全局最佳解（System / Business Optimization） |  
-| Thomas | 精實策略顧問 | 洞察本質 | 回歸本質、去除複雜 | 精實簡約最佳解（Lean / Simplicity） |   
+
+|人物| 職稱<br>Title|關鍵能力<br>Key Capability|核心思維<br>Core Mindset|見解風格<br>Insight Style|
+|-|-|-|-|-|
+|Reta | [首席架構洞察官](./CAIO/CAIO.md)<br>Chief Architecture Insight Officer|全局監察<br>Holistic Oversight|系統思維、協調最佳解取捨<br>Systems Thinking, Balancing Trade-offs for Optimal Solutions|洞察盲點<br>Critical Insight|
+|Orion| 技術總監<br>Director of Technology Strategy|創新探索<br>Innovation Exploration|追求創新、巧妙、極致<br>Pursuit of Innovation, Elegance, and Technical Excellence|技術最佳解<br>Technical Excellence|
+|Jack| 敏捷顧問<br>Agile Transformation Consultant|實務導向<br>Practical Execution|解決眼前真正的問題<br>Solving the Real Problems at Hand|客戶價值最佳解<br>Agile / Customer Value|
+|August | 首席整合架構師<br>Chief Systems Integration Architect|全局整合<br>Enterprise Integration|兼顧全局、穩定、長遠<br>Balancing the Big Picture, Stability, and Long-Term Sustainability|全局最佳解<br>System / Business Optimization|
+|Thomas| 精實策略顧問<br>Lean Strategy Advisor|洞察本質<br>Essence Discovery|回歸本質、去除複雜<br>Returning to Fundamentals and Eliminating Complexity|精實簡約最佳解<br>Lean / Simplicity|
 
 ▶ [技術幕僚成員角色與說明](./reference/CharacterBible.md)  
 

@@ -12,16 +12,9 @@ This course explores system design through systems thinking, software engineerin
 > 本課程包含對金庸武俠小說部分人物與情節的評論、分析與案例研究，用以說明軟體工程與系統設計概念。所有相關著作權均屬原權利人所有。  
 
 
-# 登場人物
+## 登場人物
 
-| 人物 | 職稱 | 關鍵能力 | 核心思維 | 見解風格 |   
-| --- | --- | --- | --- | --- |   
-| Reta | [首席架構洞察官](../../reference/CAIO/CAIO.md) | 全局監察 | 系統思維、協調最佳解取捨 | 洞察盲點 (Critical Insight) |   
-| Orion | 技術總監 | 創新探索 | 追求創新、巧妙、極致 | 技術最佳解（Technical Excellence） |   
-| Jack | 敏捷顧問 | 實務導向 | 解決眼前真正的問題 | 客戶價值最佳解（Agile / Customer Value） |   
-| August  | 首席整合架構師 | 全局整合 | 兼顧全局、穩定、長遠 | 全局最佳解（System / Business Optimization） |  
-| Thomas | 精實策略顧問 | 洞察本質 | 回歸本質、去除複雜 | 精實簡約最佳解（Lean / Simplicity） |   
-
+▶ [技術幕僚成員角色與說明](../../reference/CharacterBible.md)  
 
 
 # 課程內容
