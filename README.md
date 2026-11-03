@@ -20,14 +20,11 @@
 | Guidance 指南 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/AgileSoftwareProjectGuide" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/img/AgileSoftwareProjectGuide.png" width="200"></a> | [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)<br>A concise, phase-based guide for planning and executing Agile software projects. This repository documents each project phase, recommended practices, and links to supporting videos and artifacts.<br>本指南提供以「階段」為主軸的精簡指南，說明如何規劃與執行敏捷軟體專案。本儲存庫涵蓋各專案階段、以及建議實務，以及相關教學影片與產出文件連結。<br> ☑️ English ☑️ Chinese  |  
+| <a href="https://github.com/retamotome/SelfDirectedTraining/blob/main/Management/README.md" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/Management/img/mgt_cover.png" width="200"></a> | [Auspicious Academy of Management｜吉祥院管理學院](https://github.com/retamotome/SelfDirectedTraining/blob/main/Management/README.md)<br>分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。<br>Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.<br> ☑️ English ☑️ Chinese  |  
 
 | Video 影片 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/SelfDirectedTraining" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/img/SelfDirectedTraining.png" width="200"></a> | [Reta's Self-Directed Learning Guide｜Reta 的自主學習指南](https://github.com/retamotome/SelfDirectedTraining) <br>This repository contains resources and guidance for self-directed learning, focusing on practical applications and real-world scenarios.<br>本儲存庫包含自主學習的資源與指南，專注於實務應用與現實情境。<br> ☑️ English ☑️ Chinese  |
-
-| Book 書籍 | Description 說明 | 
-|:-----|:-------|
-| <a href="https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ" target="_blank"><image src="https://books.google.com.tw/books/publisher/content?id=Xfi2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73PvxU1eGilUl_T75QX7X-Dv6xNGikUgOPQTzpnsD9PXxizzgzPhj2z2zO-aJvs13VERxv8m_x6kSJpeD1IrUtSwjrxJNi2t8x-vkq-3ihdpShfzHt-_CaCkzi39R_d96F98F1Z" width="200"></a> | [貞元年間 卷(一) 廿卅隨筆](https://books.google.com.tw/books/about/貞元年間_卷一_廿卅隨筆.html?id=Xfi2DwAAQBAJ) <br>本書主要是集結敝人人生至此的些許見聞、體會與淺見，也在某些觀念給予不同的詮釋 。<br>在本書【寓】的部分，以淺近文言譬喻生活情境，呈現先賢之言。在【論】的部分，引用各種入世生活主題分享處理與應對之道。此 外，本書也包含與朋友間的交流心得、以及【論．淺談宇宙 】、【 史． 上杉 謙信 】、【 史．織田信長之敦盛 】等等有趣的文章，使本書的內容更豐富。<br> ☑️ Chinese Only |
 
 ## Open Courseware | 開放式課程  
 
