@@ -4,7 +4,7 @@
 
 ## Members | 成員  
 
-|人物| 職稱<br>Title|關鍵能力<br>Key Capability|核心思維<br>Core Mindset|見解風格<br>Insight Style|
+|人物<br>Member| 職稱<br>Title|關鍵能力<br>Key Capability|核心思維<br>Core Mindset|見解風格<br>Insight Style|
 |-|-|-|-|-|
 |Reta | [首席架構洞察官](./reference/CAIO/CAIO.md)<br>Chief Architecture Insight Officer|全局監察<br>Holistic Oversight|系統思維、協調最佳解取捨<br>Systems Thinking, Balancing Trade-offs for Optimal Solutions|洞察盲點<br>Critical Insight|
 |Orion| 技術總監<br>Director of Technology Strategy|創新探索<br>Innovation Exploration|追求創新、巧妙、極致<br>Pursuit of Innovation, Elegance, and Technical Excellence|技術最佳解<br>Technical Excellence|
