@@ -25,6 +25,7 @@
 | Video 影片 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/SelfDirectedTraining" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/img/SelfDirectedTraining.png" width="200"></a> | [Reta's Self-Directed Learning Guide｜Reta 的自主學習指南](https://github.com/retamotome/SelfDirectedTraining) <br>This repository contains resources and guidance for self-directed learning, focusing on practical applications and real-world scenarios.<br>本儲存庫包含自主學習的資源與指南，專注於實務應用與現實情境。<br> ☑️ English ☑️ Chinese  |
+| <a href="https://github.com/retamotome/SelfDirectedTraining/blob/main/PersonalReflections/README.md" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/PersonalReflections/img/life_cover.png" width="200"></a> | [吉祥院　日日好日　實踐所](https://github.com/retamotome/SelfDirectedTraining/blob/main/PersonalReflections/README.md) <br>分享生活哲學與人生心得，探索超越宗教束縛的觀點與思路，帶你開拓更自由的思維視野。<br>Sharing life philosophy and personal reflections, exploring perspectives and ideas that transcend religious constraints—inviting you to broaden your mind with greater freedom. <br> ☑️ Chinese  |
 
 ## Open Courseware | 開放式課程  
 
