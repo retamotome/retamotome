@@ -1,6 +1,6 @@
 # 以四大關鍵思維看系統設計哲學
 
-![吉祥院軟體工程研究中心](./img/SystemDesignPhilosophy.png)  
+![系統設計哲學](./img/SystemDesignPhilosophy.png)  
 
 # 課程簡介
 
