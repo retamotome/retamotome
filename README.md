@@ -1,18 +1,18 @@
-# 吉祥院軟體工程研究中心<br>Auspicious Software Engineering Research Center
+# Auspicious Interdisciplinary Research Center  <br>吉祥院跨領域研究中心  
 
-![吉祥院軟體工程研究中心](./img/ResearchCenter.png)  
+[![吉祥院跨領域研究中心](./img/ResearchCenter.png)](README.md)  
 
 ## Members | 成員  
 
-|人物<br>Member| 職稱<br>Title|關鍵能力<br>Key Capability|核心思維<br>Core Mindset|見解風格<br>Insight Style|
+|Member<br>人物|Title<br>職稱|Key Capability<br>關鍵能力|Core Mindset<br>核心思維|Insight Style<br>見解風格|
 |-|-|-|-|-|
-|Reta | [首席架構洞察官](./reference/CAIO/CAIO.md)<br>Chief Architecture Insight Officer|全局監察<br>Holistic Oversight|系統思維、協調最佳解取捨<br>Systems Thinking, Balancing Trade-offs for Optimal Solutions|洞察盲點<br>Critical Insight|
-|Orion| 技術總監<br>Director of Technology Strategy|創新探索<br>Innovation Exploration|追求創新、巧妙、極致<br>Pursuit of Innovation, Elegance, and Technical Excellence|技術最佳解<br>Technical Excellence|
-|Jack| 敏捷顧問<br>Agile Transformation Consultant|實務導向<br>Practical Execution|解決眼前真正的問題<br>Solving the Real Problems at Hand|客戶價值最佳解<br>Agile / Customer Value|
-|August | 首席整合架構師<br>Chief Systems Integration Architect|全局整合<br>Enterprise Integration|兼顧全局、穩定、長遠<br>Balancing the Big Picture, Stability, and Long-Term Sustainability|全局最佳解<br>System / Business Optimization|
-|Thomas| 精實策略顧問<br>Lean Strategy Advisor|洞察本質<br>Essence Discovery|回歸本質、去除複雜<br>Returning to Fundamentals and Eliminating Complexity|精實簡約最佳解<br>Lean / Simplicity|
+|Reta|[Chief Architecture Insight Officer<br>首席架構洞察官](./CAIO/CAIO.md)|Holistic Oversight<br>全局監察|Systems Thinking, Balancing Trade-offs for Optimal Solutions<br>系統思維、協調最佳解取捨|Critical Insight<br>洞察盲點|
+|Orion|Director of Technology Strategy<br>技術總監|Innovation Exploration<br>創新探索|Pursuit of Innovation, Elegance, and Technical Excellence<br>追求創新、巧妙、極致|Technical Excellence<br>技術最佳解|
+|Jack|Agile Transformation Consultant<br>敏捷顧問|Practical Execution<br>實務導向|Solving the Real Problems at Hand<br>解決眼前真正的問題|Agile / Customer Value<br>客戶價值最佳解|
+|August|Chief Systems Integration Architect<br>首席整合架構師|Enterprise Integration<br>全局整合|Balancing the Big Picture, Stability, and Long-Term Sustainability<br>兼顧全局、穩定、長遠|System / Business Optimization<br>全局最佳解|
+|Thomas|Lean Strategy Advisor<br>精實策略顧問|Essence Discovery<br>洞察本質|Returning to Fundamentals and Eliminating Complexity<br>回歸本質、去除複雜|Lean / Simplicity<br>精實簡約最佳解|
 
-▶ [技術幕僚成員角色與說明](./reference/CharacterBible.md)  
+▶ [Technical Fellow | 技術幕僚成員角色與說明](./reference/CharacterBible.md)  
 
 ## Open Resources | 開放資源  
 
@@ -20,18 +20,16 @@
 | Guidance 指南 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/AgileSoftwareProjectGuide" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/img/AgileSoftwareProjectGuide.png" width="200"></a> | [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)<br>A concise, phase-based guide for planning and executing Agile software projects. This repository documents each project phase, recommended practices, and links to supporting videos and artifacts.<br>本指南提供以「階段」為主軸的精簡指南，說明如何規劃與執行敏捷軟體專案。本儲存庫涵蓋各專案階段、以及建議實務，以及相關教學影片與產出文件連結。<br> ☑️ English ☑️ Chinese  |  
-| <a href="https://github.com/retamotome/SelfDirectedTraining/blob/main/Management/README.md" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/Management/img/mgt_cover.png" width="200"></a> | [Auspicious Academy of Management｜吉祥院管理學院](https://github.com/retamotome/SelfDirectedTraining/blob/main/Management/README.md)<br>Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.<br>分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。<br> ☑️ English ☑️ Chinese  |  
 | <a href="https://github.com/retamotome/SelfDirectedTraining" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/img/SelfDirectedTraining.png" width="200"></a> | [Reta's Self-Directed Learning Guide｜Reta 的自主學習指南](https://github.com/retamotome/SelfDirectedTraining) <br>This repository contains resources and guidance for self-directed learning, focusing on practical applications and real-world scenarios.<br>本儲存庫包含自主學習的資源與指南，專注於實務應用與現實情境。<br> ☑️ English ☑️ Chinese  |
-| <a href="https://github.com/retamotome/SelfDirectedTraining/blob/main/PersonalReflections/README.md" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/PersonalReflections/img/life_cover.png" width="200"></a> | [吉祥院　日日好日　實踐所](https://github.com/retamotome/SelfDirectedTraining/blob/main/PersonalReflections/README.md) <br>分享生活哲學與人生心得，探索超越宗教束縛的觀點與思路，帶你開拓更自由的思維視野。<br>Sharing life philosophy and personal reflections, exploring perspectives and ideas that transcend religious constraints—inviting you to broaden your mind with greater freedom. <br> ☑️ Chinese  |
+| <a href="https://github.com/retamotome/SecurityGovernance" target="_blank"><image src="https://github.com/retamotome/SecurityGovernance/raw/main/img/cover01.png" width="200"></a> | [AUSPICIOUS SECURITY LAB](https://github.com/retamotome/SecurityGovernance) <br>This lab provides comprehensive coverage of cybersecurity, system security, information security, functional safety, and their governance frameworks. It introduces risk analysis methodologies, risk assessment techniques, and security management strategies to help participants understand and address security and safety challenges in modern systems and organizations.<br>本實驗室涵蓋網路安全（Cybersecurity）、系統安全（System Security）、資訊安全（Information Security）、功能安全（Functional Safety）及其治理架構（Governance Frameworks）等領域，並介紹風險分析方法、風險評估技術與安全管理策略，協助學員理解並有效因應現代系統與組織所面臨的安全與風險挑戰。<br> ☑️ English ☑️ Chinese  |
 
 ## Open Courseware | 開放式課程  
 
 ### System Design | 系統設計
 
-| Guidance 指南 | Description 說明 | 
+| Course 課程 | Description 說明 | 
 |:-----|:-------|
-| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/SoftwareDevelopmentPhase/System-Design-Considerations/README.md" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/SoftwareDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/SoftwareDevelopmentPhase/System-Design-Considerations/README.md) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
-| <a href="./open-courseware/SystemDesignPhilosophy/SystemDesign.md" target="_blank"><image src="./open-courseware/SystemDesignPhilosophy/img/SystemDesignPhilosophy.png" width="200"></a> | [以四大關鍵思維看系統設計哲學](./open-courseware/SystemDesignPhilosophy/SystemDesign.md)<br>This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole.<br>本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，培養學習者洞察問題根源、化繁為簡，並尋找能夠最佳化整體系統的有效解決方案之能力。<br> ☑️ Chinese Only |  
+| <a href="https://github.com/retamotome/SelfDirectedTraining/blob/main/OpenCourseware/SystemDesignPhilosophy/README.md" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/OpenCourseware/SystemDesignPhilosophy/img/SystemDesignPhilosophy.png" width="200"></a> | [以四大關鍵思維看系統設計哲學](https://github.com/retamotome/SelfDirectedTraining/blob/main/OpenCourseware/SystemDesignPhilosophy/README.md)<br>This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole.<br>本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，培養學習者洞察問題根源、化繁為簡，並尋找能夠最佳化整體系統的有效解決方案之能力。<br> ☑️ Chinese Only |  
 
 ---
 

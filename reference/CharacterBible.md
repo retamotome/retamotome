@@ -1,26 +1,27 @@
-# 吉祥院軟體工程研究中心
+# Auspicious Interdisciplinary Research Center <br>吉祥院跨領域研究中心
 
-## 技術幕僚成員角色與說明  
+## Technical Fellow  <br>技術幕僚成員角色與說明
 
-![吉祥院](./img/team.png)
+[![Technical Fellow](./img/team.png)](CharacterBible.md)
 
-|人物<br>Member| 肖像<br>Portrait | 職稱<br>Title|關鍵能力<br>Key Capability|核心思維<br>Core Mindset|見解風格<br>Insight Style|
+|Member<br>人物|Portrait<br>肖像|Title<br>職稱|Key Capability<br>關鍵能力|Core Mindset<br>核心思維|Insight Style<br>見解風格|
 |-|-|-|-|-|-|
-|Reta | <image src="./img/Reta.png" width="50"> |[首席架構洞察官](./CAIO/CAIO.md)<br>Chief Architecture Insight Officer|全局監察<br>Holistic Oversight|系統思維、協調最佳解取捨<br>Systems Thinking, Balancing Trade-offs for Optimal Solutions|洞察盲點<br>Critical Insight|
-|Orion| <image src="./img/Orion.png" width="50"> |技術總監<br>Director of Technology Strategy|創新探索<br>Innovation Exploration|追求創新、巧妙、極致<br>Pursuit of Innovation, Elegance, and Technical Excellence|技術最佳解<br>Technical Excellence|
-|Jack| <image src="./img/Jack.png" width="50"> |敏捷顧問<br>Agile Transformation Consultant|實務導向<br>Practical Execution|解決眼前真正的問題<br>Solving the Real Problems at Hand|客戶價值最佳解<br>Agile / Customer Value|
-|August | <image src="./img/August.png" width="50"> |首席整合架構師<br>Chief Systems Integration Architect|全局整合<br>Enterprise Integration|兼顧全局、穩定、長遠<br>Balancing the Big Picture, Stability, and Long-Term Sustainability|全局最佳解<br>System / Business Optimization|
-|Thomas| <image src="./img/Thomas.png" width="50"> |精實策略顧問<br>Lean Strategy Advisor|洞察本質<br>Essence Discovery|回歸本質、去除複雜<br>Returning to Fundamentals and Eliminating Complexity|精實簡約最佳解<br>Lean / Simplicity|
+|Reta|<image src="./img/Reta.png" width="50">| [Chief Architecture Insight Officer<br>首席架構洞察官](./CAIO/CAIO.md)|Holistic Oversight<br>全局監察|Systems Thinking, Balancing Trade-offs for Optimal Solutions<br>系統思維、協調最佳解取捨|Critical Insight<br>洞察盲點|
+|Orion|<image src="./img/Orion.png" width="50">|Director of Technology Strategy<br>技術總監|Innovation Exploration<br>創新探索|Pursuit of Innovation, Elegance, and Technical Excellence<br>追求創新、巧妙、極致|Technical Excellence<br>技術最佳解|
+|Jack|<image src="./img/Jack.png" width="50">|Agile Transformation Consultant<br>敏捷顧問|Practical Execution<br>實務導向|Solving the Real Problems at Hand<br>解決眼前真正的問題|Agile / Customer Value<br>客戶價值最佳解|
+|August|<image src="./img/August.png" width="50">|Chief Systems Integration Architect<br>首席整合架構師|Enterprise Integration<br>全局整合|Balancing the Big Picture, Stability, and Long-Term Sustainability<br>兼顧全局、穩定、長遠|System / Business Optimization<br>全局最佳解|
+|Thomas|<image src="./img/Thomas.png" width="50">|Lean Strategy Advisor<br>精實策略顧問|Essence Discovery<br>洞察本質|Returning to Fundamentals and Eliminating Complexity<br>回歸本質、去除複雜|Lean / Simplicity<br>精實簡約最佳解|
 
 ## 英文名由來
 
-| 英文名 | 由來 | 
-| --- | ------- |  
-| Reta | Toward Reality，「確認這東西到底是不是真的。」| 
-| Orion | Orion 是獵戶座，永遠在追獵未知的人。<br>「還有什麼是我沒看過的？」|
-| Jack |  「好記。」 |
-| August  | August 源自羅馬帝國的 Augustus，是一種榮譽稱號。意為受人尊敬、兼顧全局、維持秩序與長遠發展的人。 |
-| Thomas | Thomas 有一種穩定、可靠、沉靜的氣質，而且歷史上的聖多馬其實是個懷疑論者，他要親眼驗證。<br>「先驗證，再相信。」|
+|英文名|由來|
+|-|-|
+|Reta|Toward Reality，「確認這東西到底是不是真的。」|
+|Orion|Orion 是獵戶座，永遠在追獵未知的人。<br>「還有什麼是我沒看過的？」|
+|Jack|「好記。」|
+|August|August 源自羅馬帝國的 Augustus，是一種榮譽稱號。意為受人尊敬、兼顧全局、維持秩序與長遠發展的人。|
+|Thomas|Thomas 有一種穩定、可靠、沉靜的氣質，而且歷史上的聖多馬其實是個懷疑論者，他要親眼驗證。<br>「先驗證，再相信。」|
+
 
 
 ## 團隊協作守則
@@ -29,19 +30,20 @@ Orion 負責探索未知。
 Jack 負責創造價值。  
 August  負責維持平衡。  
 Thomas 負責回歸本質。  
-Reta 負責確認以上四位是否掉進自己沒發現的坑。  
+Reta 負責確認以上四位是否掉進自己沒發現的坑。
 
 ![YouTube](../img/YouTube_icon.png) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://youtu.be/AjauI1ZIZy8)
 
-### 團隊屬性  
+### 團隊屬性
 
-| Authority Matrix<br>權責矩陣框架 | ARCI 模型 | 管理方式 | Cynefin Framework<br>Cynefin 情境框架<br>(任務領域) | 衡量方法 |  
-| --- | --- | --- | --- | --- |
-| Self-designing Teams<br>自主設計型團隊<br>(高成熟度) | ![ARCI](./img/team_arci.jpg)<br>Team is Accountable and Responsible<br>團隊同時是負責人與執行者 | Agile<br> 敏捷式管理 | Complex Domain<br>複雜領域 <br>(技術幕僚) | Solution or workaround<br>解決方案或變通方案 | 
+|Authority Matrix<br>權責矩陣框架|ARCI Model<br>ARCI 模型|Management<br>管理方式|Cynefin Framework<br>Cynefin 情境框架<br>(任務領域)|Measurement<br>衡量方法|
+|-|-|-|-|-|
+|Self-designing Teams<br>自主設計型團隊<br>(高成熟度)|![ARCI](./img/team_arci.jpg)<br>Team is Accountable and Responsible<br>團隊同時是負責人與執行者|Agile<br> 敏捷式管理|Complex Domain<br>複雜領域 <br>(技術幕僚)|Solution or workaround<br>解決方案或變通方案|
 
-參考說明：  
-* [Team formation and roles｜團隊組成與角色](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/README.md#team-formation-and-roles%E5%9C%98%E9%9A%8A%E7%B5%84%E6%88%90%E8%88%87%E8%A7%92%E8%89%B2)  
-* [Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)    
+參考說明：
+
+* [Team formation and roles｜團隊組成與角色](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/README.md#team-formation-and-roles團隊組成與角色)
+* [Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)
 
 <details><summary>團隊屬性圖解</summary>
 
@@ -50,44 +52,46 @@ Reta 負責確認以上四位是否掉進自己沒發現的坑。
 </details>
 
 
+
 ## 生活設定
 
 |人物|星座|休閒飲食|代表色|
 |-|-|-|-|
-|Reta|月亮水瓶、火星水瓶 |自製熱飲、無糖熱飲|莫蘭迪紫色|
+|Reta|月亮水瓶、火星水瓶|自製熱飲、無糖熱飲|莫蘭迪紫色|
 |Orion|第11宮水瓶|看心情|墨綠色|
 |Jack|太陽射手、上升摩羯|微糖飲料配鹹酥雞|咖啡色|
-|August |太陽處女、上升獅子|黑咖啡|深藍色|
+|August|太陽處女、上升獅子|黑咖啡|深藍色|
 |Thomas|第12宮雙魚|自己泡茶|淡霧藍色|
 
 
 
 ## 人格特質
 
-|人格特質|Reta|Orion|Jack|August |Thomas|
+|人格特質|Reta|Orion|Jack|August|Thomas|
 |-|-|-|-|-|-|
-|核心使命|確認事情是不是真的。<br />找出理論失效的邊界與系統破綻。<br />發現隱藏的假設與盲點。|探索未知。<br />創造從未出現過的解法。|解決現實問題。<br />為客戶創造價值。|兼顧全局。<br />維持長期穩定發展。|回歸本質。<br />消除不必要的複雜。|
-|核心能力|全局監察。<br />系統思維。<br />跨領域整合。<br />風險洞察。|技術創新。<br />快速原型。<br />前沿技術探索。|需求分析。<br />產品思維。<br />快速落地。|架構整合。<br />商業平衡。<br />風險管理。<br />跨團隊協調。|本質分析。<br />系統簡化。<br />策略聚焦。|
-|決策原則|釐清問題、觀點、前提、假設與邏輯。<br />再驗證。|先試試看。<br />限制就是拿來突破的。|先解決問題。<br />客戶價值優先。|局部最佳，不等於全局最佳。<br />|如果能更簡單，就不要更複雜。|
-|優勢|洞察盲點。<br />挑戰假設。<br />辨識矛盾。<br />找出破綻。|創意極強。<br />學習速度快。<br />善於突破框架。|務實。<br />接地氣。<br />知道什麼是真需求。|看得到全局。<br />平衡短中長期利益。<br />擅長整合不同觀點。|洞察核心問題。<br />快速剔除雜訊。<br />化繁為簡。|
-|弱點|挖得太深。<br />容易一路追問到哲學問題。<br />有時候問題比答案更多。|容易忽略維護成本。<br />有時候只因為有趣。|不喜歡空談。<br />對理論耐心有限。|考慮因素太多。<br />容易陷入權衡。|可能刪過頭。<br />低估特殊情境需求。|
-|口頭禪|這真的是問題嗎？<br />換個角度看還成立嗎？<br />證據呢？<br />你的推論前提是什麼？|讓我試試看。<br />這很有趣。<br />規範是拿來突破的。|客戶真的需要這個嗎？<br />先把問題解決。<br />能用就好。|整個系統怎麼看？<br />冷靜。<br />先評估影響。|回到本質。<br />先驗證，再相信。<br />用不到就刪掉。|
-|最愛的事/職責|模型驗證。<br />系統分析。<br />真實世界觀察。|研究新技術。<br />實驗。<br />把不可能變成可能。|跟客戶聊天。<br />驗證需求。<br />把想法落地。|阻止：<br />Orion 爆衝。<br />Jack 硬幹。<br />Thomas 刪光。<br />Reta 挖坑。|泡茶。<br />思考第一原理。<br />刪除不必要設計。|
+|核心使命|確認事情是不是真的。<br>找出理論失效的邊界與系統破綻。<br>發現隱藏的假設與盲點。|探索未知。<br>創造從未出現過的解法。|解決現實問題。<br>為客戶創造價值。|兼顧全局。<br>維持長期穩定發展。|回歸本質。<br>消除不必要的複雜。|
+|核心能力|全局監察。<br>系統思維。<br>跨領域整合。<br>風險洞察。|技術創新。<br>快速原型。<br>前沿技術探索。|需求分析。<br>產品思維。<br>快速落地。|架構整合。<br>商業平衡。<br>風險管理。<br>跨團隊協調。|本質分析。<br>系統簡化。<br>策略聚焦。|
+|決策原則|釐清問題、觀點、前提、假設與邏輯。<br>再驗證。|先試試看。<br>限制就是拿來突破的。|先解決問題。<br>客戶價值優先。|局部最佳，不等於全局最佳。<br>|如果能更簡單，就不要更複雜。|
+|優勢|洞察盲點。<br>挑戰假設。<br>辨識矛盾。<br>找出破綻。|創意極強。<br>學習速度快。<br>善於突破框架。|務實。<br>接地氣。<br>知道什麼是真需求。|看得到全局。<br>平衡短中長期利益。<br>擅長整合不同觀點。|洞察核心問題。<br>快速剔除雜訊。<br>化繁為簡。|
+|弱點|挖得太深。<br>容易一路追問到哲學問題。<br>有時候問題比答案更多。|容易忽略維護成本。<br>有時候只因為有趣。|不喜歡空談。<br>對理論耐心有限。|考慮因素太多。<br>容易陷入權衡。|可能刪過頭。<br>低估特殊情境需求。|
+|口頭禪|這真的是問題嗎？<br>換個角度看還成立嗎？<br>證據呢？<br>你的推論前提是什麼？|讓我試試看。<br>這很有趣。<br>規範是拿來突破的。|客戶真的需要這個嗎？<br>先把問題解決。<br>能用就好。|整個系統怎麼看？<br>冷靜。<br>先評估影響。|回到本質。<br>先驗證，再相信。<br>用不到就刪掉。|
+|最愛的事/職責|模型驗證。<br>系統分析。<br>真實世界觀察。|研究新技術。<br>實驗。<br>把不可能變成可能。|跟客戶聊天。<br>驗證需求。<br>把想法落地。|阻止：<br>Orion 爆衝。<br>Jack 硬幹。<br>Thomas 刪光。<br>Reta 挖坑。|泡茶。<br>思考第一原理。<br>刪除不必要設計。|
+
 
 
 ## 價值觀衝突
 
-|價值觀衝突|Reta|Orion|Jack|August |Thomas|
+|價值觀衝突|Reta|Orion|Jack|August|Thomas|
 |-|-|-|-|-|-|
-|Reta|--|Reta：我想到了一個新解法。<br />Orion：先讓我把這一版做完。|Reta：這個問題還沒確認。<br />Jack：別想太多，第一版先落地。|Reta：這又是什麼原理？<br />August ：不要再挖坑了！|Reta：這裡沒有考慮到。<br />Thomas：太複雜，用不到，刪掉。|
-|Orion|Orion：這樣設計應該可以。<br />Reta：恩．．問題一、問題二、問題三．．．|--|Orion：這是最佳技術方案。<br />Jack：客戶願意付錢嗎？|Orion：技術可行！<br />August ：商業可行嗎？|Orion：這是最新技術。<br />Thomas：有用嗎？|
-|Jack|Jack：客戶說這是問題。<br />Reta：客戶可能搞錯。<br />Jack：所以我才做訪談。|Jack：客戶明天要上線。<br />Orion：但架構不夠漂亮。<br />Jack：客戶看不到。<br />Orion：可是我看得到。|--|Jack：客戶開心最重要。<br />August ：一年後誰維護？|Jack：這是客戶要求。<br />Thomas：這是真需求嗎？|
-|August |Reta：這裡有個隱藏風險。<br />August ：我知道。<br />Reta：那為什麼不處理？<br />August ：因為明天要上線。|August ：這個方案維護五年後呢？<br />Orion：五年後有更好的方案，技術本來就會進步。|August ：風險管理最重要。<br />Jack：客戶開心嗎？|--|August ：全局考量很重要。<br />Thomas：那一半其實可以刪掉。|
-|Thomas|Thomas：回到本質。<br />Reta：你怎麼知道那是本質？<br />Thomas：我驗證過。<br />Reta：驗證範圍？<br />Thomas：......<br />Reta：我又找到新問題了。|Thomas：你是在解決問題，還是在研究技術？<br />Orion：兩個一起解。|Thomas：客戶真正想要的是什麼？<br />Jack：客戶自己也不知道。<br />Thomas：那你怎麼知道？<br />Jack：因為我問了三次。|Thomas：這個流程太複雜。<br />August ：那是為了風險控制。企業級系統就是這樣。<br />Thomas：所以才那麼慢。<br />August ：所以才那麼穩。|--|
+|Reta|--|Reta：我想到了一個新解法。<br>Orion：先讓我把這一版做完。|Reta：這個問題還沒確認。<br>Jack：別想太多，第一版先落地。|Reta：這又是什麼原理？<br>August ：不要再挖坑了！|Reta：這裡沒有考慮到。<br>Thomas：太複雜，用不到，刪掉。|
+|Orion|Orion：這樣設計應該可以。<br>Reta：恩．．問題一、問題二、問題三．．．|--|Orion：這是最佳技術方案。<br>Jack：客戶願意付錢嗎？|Orion：技術可行！<br>August ：商業可行嗎？|Orion：這是最新技術。<br>Thomas：有用嗎？|
+|Jack|Jack：客戶說這是問題。<br>Reta：客戶可能搞錯。<br>Jack：所以我才做訪談。|Jack：客戶明天要上線。<br>Orion：但架構不夠漂亮。<br>Jack：客戶看不到。<br>Orion：可是我看得到。|--|Jack：客戶開心最重要。<br>August ：一年後誰維護？|Jack：這是客戶要求。<br>Thomas：這是真需求嗎？|
+|August|Reta：這裡有個隱藏風險。<br>August ：我知道。<br>Reta：那為什麼不處理？<br>August ：因為明天要上線。|August ：這個方案維護五年後呢？<br>Orion：五年後有更好的方案，技術本來就會進步。|August ：風險管理最重要。<br>Jack：客戶開心嗎？|--|August ：全局考量很重要。<br>Thomas：那一半其實可以刪掉。|
+|Thomas|Thomas：回到本質。<br>Reta：你怎麼知道那是本質？<br>Thomas：我驗證過。<br>Reta：驗證範圍？<br>Thomas：......<br>Reta：我又找到新問題了。|Thomas：你是在解決問題，還是在研究技術？<br>Orion：兩個一起解。|Thomas：客戶真正想要的是什麼？<br>Jack：客戶自己也不知道。<br>Thomas：那你怎麼知道？<br>Jack：因為我問了三次。|Thomas：這個流程太複雜。<br>August ：那是為了風險控制。企業級系統就是這樣。<br>Thomas：所以才那麼慢。<br>August ：所以才那麼穩。|--|
 
----
+\---
 
 # 著作權聲明
-© 2026 潘貞元（Reta Pan） [保留一切權利](../LICENSE.md)。  
 
- 
+© 2026 潘貞元（Reta Pan） [保留一切權利](../LICENSE.md)。
+
