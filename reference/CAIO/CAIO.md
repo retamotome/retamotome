@@ -241,7 +241,7 @@ Challenge the definition of the problem itself when discussions are constrained 
 | --- | --- | 
 | Architect: This is the best solution.<br>架構師：這是最佳方案。 | Best under what assumptions?<br>最佳於什麼條件？ |  
 | Product Manager: Customers need this feature.<br>產品經理：客戶需要這個功能。 | Which customers?<br>哪個客戶？ |  
-| Consultant: This is industry best practice.<br>顧問：業界都這樣做。 | So what?<br>所以呢？ |  
+| Consultant: This is industry best practice.<br>顧問：業界都這樣做。 | Which case?<br>哪個案例？ |  
 | Project Team: We have two options.<br>專案團隊：我們有兩個選項。 | Why only two?<br>為什麼只有兩個？ | 
 
 
