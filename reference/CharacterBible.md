@@ -2,7 +2,7 @@
 
 ## Technical Fellow  <br>技術幕僚成員角色與說明
 
-[!\[Technical Fellow](./img/team.png)](CharacterBible.md)
+[![Technical Fellow](./img/team.png)](CharacterBible.md)
 
 |Member<br>人物|Portrait<br>肖像|Title<br>職稱|Key Capability<br>關鍵能力|Core Mindset<br>核心思維|Insight Style<br>見解風格|
 |-|-|-|-|-|-|
@@ -32,13 +32,13 @@ August  負責維持平衡。
 Thomas 負責回歸本質。  
 Reta 負責確認以上四位是否掉進自己沒發現的坑。
 
-!\[YouTube](../img/YouTube\_icon.png) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://github.com/retamotome/SelfDirectedTraining/blob/main/OpenCourseware/SystemDesignPhilosophy/2026-08-26.md)
+![YouTube](../img/YouTube_icon.png) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://github.com/retamotome/SelfDirectedTraining/blob/main/OpenCourseware/SystemDesignPhilosophy/2026-08-26.md)
 
 ### 團隊屬性
 
 |Authority Matrix<br>權責矩陣框架|ARCI Model<br>ARCI 模型|Management<br>管理方式|Cynefin Framework<br>Cynefin 情境框架<br>(任務領域)|Measurement<br>衡量方法|
 |-|-|-|-|-|
-|Self-designing Teams<br>自主設計型團隊<br>(高成熟度)|!\[ARCI](./img/team\_arci.jpg)<br>Team is Accountable and Responsible<br>團隊同時是負責人與執行者|Agile<br> 敏捷式管理|Complex Domain<br>複雜領域 <br>(技術幕僚)|Solution or workaround<br>解決方案或變通方案|
+|Self-designing Teams<br>自主設計型團隊<br>(高成熟度)|![ARCI](./img/team_arci.jpg)<br>Team is Accountable and Responsible<br>團隊同時是負責人與執行者|Agile<br> 敏捷式管理|Complex Domain<br>複雜領域 <br>(技術幕僚)|Solution or workaround<br>解決方案或變通方案|
 
 參考說明：
 
@@ -47,7 +47,7 @@ Reta 負責確認以上四位是否掉進自己沒發現的坑。
 
 <details><summary>團隊屬性圖解</summary>
 
-!\[團隊屬性圖解](./img/team\_level.jpg)
+![團隊屬性圖解](./img/team_level.jpg)
 
 </details>
 
@@ -57,11 +57,11 @@ Reta 負責確認以上四位是否掉進自己沒發現的坑。
 
 |人物|星座|血型|休閒飲食|代表色|
 |-|-|-|-|-|
-|Reta|月亮水瓶、火星水瓶|O|自製熱飲、無糖熱飲|莫蘭迪紫色|
-|Orion|第11宮水瓶|AB|看心情|墨綠色|
-|Jack|太陽射手、上升摩羯|B|微糖飲料配鹹酥雞|咖啡色|
-|August|太陽處女、上升獅子|O|黑咖啡|深藍色|
-|Thomas|第12宮雙魚|A|自己泡茶|淡霧藍色|
+|Reta|月亮水瓶、火星水瓶|O（AB亞型）|自製熱飲、無糖熱飲|莫蘭迪紫色|
+|Orion|第11宮水瓶|AB+|看心情|墨綠色|
+|Jack|太陽射手、上升摩羯|B+|微糖飲料配鹹酥雞|咖啡色|
+|August|太陽處女、上升獅子|O-|黑咖啡|深藍色|
+|Thomas|第12宮雙魚|A1 亞型|自己泡茶|淡霧藍色|
 
 
 
@@ -89,7 +89,7 @@ Reta 負責確認以上四位是否掉進自己沒發現的坑。
 |August|Reta：這裡有個隱藏風險。<br>August ：我知道。<br>Reta：那為什麼不處理？<br>August ：因為明天要上線。|August ：這個方案維護五年後呢？<br>Orion：五年後有更好的方案，技術本來就會進步。|August ：風險管理最重要。<br>Jack：客戶開心嗎？|--|August ：全局考量很重要。<br>Thomas：那一半其實可以刪掉。|
 |Thomas|Thomas：回到本質。<br>Reta：你怎麼知道那是本質？<br>Thomas：我驗證過。<br>Reta：驗證範圍？<br>Thomas：......<br>Reta：我又找到新問題了。|Thomas：你是在解決問題，還是在研究技術？<br>Orion：兩個一起解。|Thomas：客戶真正想要的是什麼？<br>Jack：客戶自己也不知道。<br>Thomas：那你怎麼知道？<br>Jack：因為我問了三次。|Thomas：這個流程太複雜。<br>August ：那是為了風險控制。企業級系統就是這樣。<br>Thomas：所以才那麼慢。<br>August ：所以才那麼穩。|--|
 
-\---
+---
 
 # 著作權聲明
 
