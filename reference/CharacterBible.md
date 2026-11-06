@@ -43,7 +43,7 @@ Reta 負責確認以上四位是否掉進自己沒發現的坑。
 參考說明：
 
 * [Team formation and roles｜團隊組成與角色](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/README.md#team-formation-and-roles團隊組成與角色)
-* [Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)
+* [Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/Management/2026-02-22_AgileTeam/README.md)
 
 <details><summary>團隊屬性圖解</summary>
 
