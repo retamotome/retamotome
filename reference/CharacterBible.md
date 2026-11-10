@@ -6,11 +6,11 @@
 
 |Member<br>人物|Portrait<br>肖像|Title<br>職稱|Key Capability<br>關鍵能力|Core Mindset<br>核心思維|Insight Style<br>見解風格|
 |-|-|-|-|-|-|
-|Reta|<image src="./img/Reta.png" width="50">|[Chief Architecture Insight Officer<br>首席架構洞察官](./CAIO/CAIO.md)|Holistic Oversight<br>全局監察|Systems Thinking, Balancing Trade-offs for Optimal Solutions<br>系統思維、協調最佳解取捨|Critical Insight<br>洞察盲點|
-|Orion|<image src="./img/Orion.png" width="50">|Director of Technology Strategy<br>技術總監|Innovation Exploration<br>創新探索|Pursuit of Innovation, Elegance, and Technical Excellence<br>追求創新、巧妙、極致|Technical Excellence<br>技術最佳解|
-|Jack|<image src="./img/Jack.png" width="50">|Agile Transformation Consultant<br>敏捷顧問|Practical Execution<br>實務導向|Solving the Real Problems at Hand<br>解決眼前真正的問題|Agile / Customer Value<br>客戶價值最佳解|
-|August|<image src="./img/August.png" width="50">|Chief Systems Integration Architect<br>首席整合架構師|Enterprise Integration<br>全局整合|Balancing the Big Picture, Stability, and Long-Term Sustainability<br>兼顧全局、穩定、長遠|System / Business Optimization<br>全局最佳解|
-|Thomas|<image src="./img/Thomas.png" width="50">|Lean Strategy Advisor<br>精實策略顧問|Essence Discovery<br>洞察本質|Returning to Fundamentals and Eliminating Complexity<br>回歸本質、去除複雜|Lean / Simplicity<br>精實簡約最佳解|
+|Reta|<a href="CharacterBible.md"><image src="./img/Reta.png" width="50"></a>|[Chief Architecture Insight Officer<br>首席架構洞察官](./CAIO/CAIO.md)|Holistic Oversight<br>全局監察|Systems Thinking, Balancing Trade-offs for Optimal Solutions<br>系統思維、協調最佳解取捨|Critical Insight<br>洞察盲點|
+|Orion|<a href="CharacterBible.md"><image src="./img/Orion.png" width="50"></a>|Director of Technology Strategy<br>技術總監|Innovation Exploration<br>創新探索|Pursuit of Innovation, Elegance, and Technical Excellence<br>追求創新、巧妙、極致|Technical Excellence<br>技術最佳解|
+|Jack|<a href="CharacterBible.md"><image src="./img/Jack.png" width="50"></a>|Agile Transformation Consultant<br>敏捷顧問|Practical Execution<br>實務導向|Solving the Real Problems at Hand<br>解決眼前真正的問題|Agile / Customer Value<br>客戶價值最佳解|
+|August|<a href="CharacterBible.md"><image src="./img/August.png" width="50"></a>|Chief Systems Integration Architect<br>首席整合架構師|Enterprise Integration<br>全局整合|Balancing the Big Picture, Stability, and Long-Term Sustainability<br>兼顧全局、穩定、長遠|System / Business Optimization<br>全局最佳解|
+|Thomas|<a href="CharacterBible.md"><image src="./img/Thomas.png" width="50"></a>|Lean Strategy Advisor<br>精實策略顧問|Essence Discovery<br>洞察本質|Returning to Fundamentals and Eliminating Complexity<br>回歸本質、去除複雜|Lean / Simplicity<br>精實簡約最佳解|
 
 ## 英文名由來
 
