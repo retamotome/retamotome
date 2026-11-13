@@ -1,4 +1,4 @@
-# Auspicious Interdisciplinary Research Center <br>吉祥院跨領域研究中心
+# Auspiciousness Interdisciplinary Research Center <br>吉祥院跨領域研究中心
 
 ## Technical Fellow  <br>技術幕僚成員角色與說明
 
