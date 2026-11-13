@@ -2,7 +2,7 @@
 
 ## Technical Fellow  <br>技術幕僚成員角色與說明
 
-[![Technical Fellow](./img/team.png)](CharacterBible.md)
+[![Technical Fellow](./img/team.png)](CharacterBible.md)  
 
 |Member<br>人物|Portrait<br>肖像|Title<br>職稱|Key Capability<br>關鍵能力|Core Mindset<br>核心思維|Insight Style<br>見解風格|
 |-|-|-|-|-|-|
