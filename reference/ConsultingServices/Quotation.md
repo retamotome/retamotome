@@ -128,6 +128,8 @@ This allocation is provided as an example only. Actual consulting points may var
 | 技術工作坊<br>Technical Workshop                   | 3 小時技術交流與規劃<br>3-hour workshop     | NT\$30,000 ~ NT\$50,000       |
 | 技術導入評估<br>Solution Feasibility Assessment               | 可行性分析與技術選型建議<br>Feasibility analysis and technology selection | NT\$100,000 ～ NT\$200,000 |
 
+案例：[NVIDIA Physical AI 技術策略評估](./PhysicalAI/ProjectQuotation.md)  
+
 ## 報價說明 | Commercial Terms  
 
 - 上述價格均未含營業稅。  
