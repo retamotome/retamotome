@@ -32,6 +32,8 @@ August  負責維持平衡。
 Thomas 負責回歸本質。  
 Reta 負責確認以上四位是否掉進自己沒發現的坑。
 
+▶ [Agile Code of Conduct｜敏捷準則](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/Policy/Agile-Code-of-Conduct.md)  
+
 ![YouTube](../img/YouTube_icon.png) 團隊協作情境請參考：[從桃花陣到桃花海陣 -- 從《射鵰英雄傳》看系統破綻、破框創新與架構重塑](https://github.com/retamotome/SelfDirectedTraining/blob/main/OpenCourseware/SystemDesignPhilosophy/2026-08-26.md)
 
 ### 團隊屬性
