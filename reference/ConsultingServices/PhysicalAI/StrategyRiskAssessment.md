@@ -1,6 +1,5 @@
 # NVIDIA Physical AI 技術策略評估報告  
-# 第一部分：技術導入風險分析  
-## NVIDIA Physical AI Technology Strategy & Risk Assessment  
+# 第一部分：技術導入風險分析  <br>NVIDIA Physical AI Technology Strategy & Risk Assessment    
 
 **報告定位：技術顧問評估（Technology Consulting Assessment）**
 
@@ -761,35 +760,39 @@ NVIDIA Physical AI 的真正價值，不在於讓 AI 能夠產生更多模擬結
 
 # 諮詢服務報價  
 
-**顧問服務等級：Level 2｜Technical Assessment**   
-**顧問費率：NT$7,000／小時**   
+| 等級      | 服務定位         | 費率          |
+| ------- | ------------ | ----------- |
+| Level 1 | 顧問諮詢         | NT$5,000/hr |
+| Level 2 | 技術評估         | NT$7,000/hr |
+| Level 3 | 專家顧問、策略與專家評估 | NT$9,000/hr |
+
 
 ## 專案報價
 
-| 工作項目                             | 預估工時      |
-| -------------------------------- | --------- |
-| 原始架構圖閱讀與技術議題整理                   | 2 小時      |
-| NVIDIA Physical AI 技術研究與確認       | 4 小時      |
-| Simulation、RL、World Model 技術風險分析 | 3 小時      |
-| Sim-to-Real、Physics Fidelity 評估  | 2 小時      |
-| GPU 硬體及導入成本分析                    | 2 小時      |
-| 技術導入建議及風險改善方案                    | 2 小時      |
-| 報告撰寫與品質檢查                        | 1 小時      |
-| **合計**                           | **16 小時** |
-
-顧問費用 **NT$112,000**  
-16 小時 × NT$7,000  
+| 工作項目                      | 等級 | 時數     | 費用          |
+| ------------------------- | -- | ------ | ----------- |
+| 技術範圍與問題定義                 | L2 | 2      | 14,000      |
+| NVIDIA 技術研究               | L2 | 6      | 42,000      |
+| 技術風險、成本及成熟度分析             | L2 | 4      | 28,000      |
+| 風險分類與架構分析模型設計             | L3 | 4      | 36,000      |
+| 原創 Risk Analysis 架構圖設計與繪製 | L3 | 4      | 36,000      |
+| 報告撰寫與品質檢查                 | L2 | 4      | 28,000      |
+| **合計**                    |    | **24** | **184,000** |
 
 
 ## 交付成果
 
-- NVIDIA Physical AI 技術架構分析。
-- 技術成熟度及適用性評估。
-- 技術風險及限制分析。
-- Sim-to-Real 可行性評估。
-- 硬體資源與導入成本分析。
-- 技術導入建議。
+- Physical AI 技術架構及關係整理。
+- 技術風險分類。
+- Simulation、RL、World Model 的技術關聯。
+- Sim-to-Real 風險分析。
+- 硬體成本與技術導入風險關聯。
 
+---
+
+### ChatGPT 整合圖  
+
+![ChatGPT figure](./img/RefCh01.jpg)  
 
 ---
 

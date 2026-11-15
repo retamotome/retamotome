@@ -1,10 +1,5 @@
 # NVIDIA Physical AI 技術策略評估  
-# 第二部分：Solution with NVIDIA  
-## NVIDIA-Based Industrial AI Robotics & Simulation Architecture  
-
-**文件定位：技術解決方案架構評估（Solution Architecture Assessment）**
-
----
+# 第二部分：方案分析－使用 NVIDIA  <br>NVIDIA-Based Industrial AI Robotics & Simulation Architecture  
 
 # 一、Solution Overview｜解決方案總覽
 
@@ -890,25 +885,25 @@ Visual Components 與 Siemens Tecnomatix 可以作為既有工業模擬環境的
 
 # 諮詢服務報價  
 
-**顧問服務等級：Level 2｜Technical Assessment**  
-**顧問費率：NT$7,000／小時**  
+| 等級      | 服務定位         | 費率          |
+| ------- | ------------ | ----------- |
+| Level 1 | 顧問諮詢         | NT$5,000/hr |
+| Level 2 | 技術評估         | NT$7,000/hr |
+| Level 3 | 專家顧問、策略與專家評估 | NT$9,000/hr |
+
 
 ## 專案報價
 
-| 工作項目                               | 預估工時      |
-| ---------------------------------- | --------- |
-| 原始架構圖閱讀與系統分層分析                     | 3 小時      |
-| NVIDIA Isaac Sim、Omniverse 技術整合分析  | 3 小時      |
-| Workflow、Rule Engine、RL Agent 架構評估 | 3 小時      |
-| Self-designed Layer 架構與技術自主性分析     | 3 小時      |
-| CAD-to-Simulation Pipeline 評估      | 2 小時      |
-| Isaac Sim、MuJoCo、Gazebo 技術比較       | 2 小時      |
-| 導入階段及架構改善建議                        | 1 小時      |
-| 報告撰寫與品質檢查                          | 1 小時      |
-| **合計**                             | **18 小時** |
-
-顧問費用 **NT$126,000**  
-18 小時 × NT$7,000  
+| 工作項目                                 | 等級 | 時數     | 費用          |
+| ------------------------------------ | -- | ------ | ----------- |
+| 技術需求與應用情境分析                          | L2 | 2      | 14,000      |
+| NVIDIA 技術整合研究                        | L2 | 4      | 28,000      |
+| Isaac Sim、MuJoCo、Gazebo 比較           | L2 | 3      | 21,000      |
+| 系統分層及模組架構設計                          | L3 | 6      | 54,000      |
+| Workflow、Rule Engine、RL Agent 整合架構設計 | L3 | 4      | 36,000      |
+| 原創 Solution Architecture 圖設計與繪製      | L3 | 3      | 27,000      |
+| 報告撰寫與品質檢查                            | L2 | 4      | 28,000      |
+| **合計**                               |    | **26** | **208,000** |
 
 ## 交付成果  
 
@@ -921,6 +916,11 @@ Visual Components 與 Siemens Tecnomatix 可以作為既有工業模擬環境的
 - NVIDIA 與企業自主開發層的整合建議。
 - 企業自主開發架構及導入 Roadmap 建議。
 
+---
+
+### ChatGPT 整合圖  
+
+![ChatGPT figure](./img/RefCh02.jpg)  
 
 ---
 

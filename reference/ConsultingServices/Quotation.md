@@ -71,6 +71,7 @@ The consulting engagement is conducted on an independent and impartial basis, fo
 | Level 1｜顧問諮詢<br>Advisory Service | • 會議及即時技術諮詢<br>• 技術諮詢與問題討論<br>• 導入方向建議<br>• 系統需求訪談<br>• 技術評估會議<br>• 技術問答與經驗分享<br>• Technical consultation<br>• Requirements discovery<br>• Solution discussions <br>• Assessment meetings | • 技術建議摘要<br>• 後續改善建議<br>• Technical recommendations<br>• Improvement actions | NT\$ 5,000／小時<br>NT\$ 5,000／hr | 5 點／小時<br>5 Points／hr      |
 | Level 2｜技術評估<br>Technical Assessment| • 系統架構分析及評估<br>• 技術方案比較<br>• 技術可行性分析<br>• PoC 規劃<br>• 技術風險評估<br>• Architecture assessment<br>• Feasibility analysis<br>• PoC planning<br>• Risk assessment | • 技術分析文件<br>• 技術分析報告<br>• 系統架構建議書<br>• 技術比較報告<br>• PoC 規劃文件<br>• Assessment report<br>• Architecture recommendation<br>• PoC plan | NT\$ 7,000／小時<br>NT\$ 7,000／hr | 7 點／小時<br>7 Points／hr      |
 | Level 3｜專家顧問<br>Strategic Advisory & Expert Assessment | • 新興技術研究與評估<br>• 系統整合及技術風險分析<br>• 技術導入可行性分析<br>• 技術導入策略規劃<br>• 技術投資與風險分析<br>• 管理層決策支援<br>• Emerging technology evaluation<br>• Adoption strategy<br>• Investment assessment<br>• Executive advisory | • 專家評估報告<br>• 技術策略建議書<br>• Roadmap 規劃文件<br>• 導入效益與風險分析<br>• 高階簡報<br>• Strategy paper<br>• Implementation roadmap<br>• ROI analysis<br>• Executive presentation | NT\$ 9,000／小時<br>NT\$ 9,000／hr | 9 點／小時<br>9 Points／hr      |
+| Level 3｜解決方案架構設計<br>Solution Architecture Design | • 系統架構設計<br>• 技術架構<br>• 解決方案整合架構<br>• 架構圖設計<br>• 技術決策分析<br>• 架構路線圖<br>• System Architecture Design<br>• Technology Architecture<br>• Solution Integration Architecture<br>• Architecture Diagram Design<br>• Technical Decision Analysis<br>• Architecture Roadmap | • 原始架構圖<br>• 架構描述<br>• 模組和介面定義<br>• 技術選用建議<br>• 架構決策記錄<br>• Original Architecture Diagram<br>• Architecture Description<br>• Module & Interface Definition<br>• Technology Selection Recommendation<br>• Architecture Decision Records| NT\$ 9,000／小時<br>NT\$ 9,000／hr | 9 點／小時<br>9 Points／hr      |
 
 ---
 
@@ -126,9 +127,12 @@ This allocation is provided as an example only. Actual consulting points may var
 | **項目<br>Service**                   | **內容<br>Scope**             | **參考費用<br>Fee**         |
 | -------------------------- | -------------------- | -------------------- |
 | 技術工作坊<br>Technical Workshop                   | 3 小時技術交流與規劃<br>3-hour workshop     | NT\$30,000 ~ NT\$50,000       |
-| 技術導入評估<br>Solution Feasibility Assessment               | 可行性分析與技術選型建議<br>Feasibility analysis and technology selection | NT\$100,000 ～ NT\$200,000 |
+| 技術導入評估<br>Solution Feasibility Assessment               | 可行性分析與技術選型建議<br>Feasibility analysis and technology selection | 依實際工時報價<br>Depends on effort. |
+| Level 1-3 顧問服務<br>Level 1-3 Consulting Service | 詳見 [顧問服務](#顧問服務報價單--consulting-service-proposal--fee-schedule)<br>Refer to [Consulting Service](#顧問服務報價單--consulting-service-proposal--fee-schedule) | 依實際工時報價<br>Depends on effort. |
 
-案例：[NVIDIA Physical AI 技術策略評估](./PhysicalAI/ProjectQuotation.md)  
+### 案例分享 | Case Study  
+
+[NVIDIA Physical AI 技術策略評估](./PhysicalAI/ProjectQuotation.md)  
 
 ## 報價說明 | Commercial Terms  
 

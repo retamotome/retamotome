@@ -9,8 +9,9 @@
 
 | 項目                                  | 服務內容                                                                                | 預估工時      | 費用             |
 | ----------------------------------- | ----------------------------------------------------------------------------------- | --------- | -------------- |
-| A. [Technology Risk Analysis](StrategyRiskAssessment.md)           | NVIDIA Physical AI 技術風險、技術成熟度、Sim-to-Real、硬體成本及導入風險評估                                 | 16 小時     | NT$112,000     |
-| B. [Solution Architecture Assessment](Solution-with-NVIDIA.md) | NVIDIA 技術整合架構、Workflow Engine、AI Robotics、Simulation Framework、CAD Pipeline 及技術選型評估 | 18 小時     | NT$126,000     |
+| [技術導入風險分析](StrategyRiskAssessment.md)           | NVIDIA Physical AI 技術風險、技術成熟度、Sim-to-Real、硬體成本及導入風險評估。                                 | 24 小時     | NT$184,000     |
+| [方案分析－使用 NVIDIA](Solution-with-NVIDIA.md) | NVIDIA 技術整合架構、Workflow Engine、AI Robotics、Simulation Framework、CAD Pipeline 及技術選型評估。<br>分析 NVIDIA 平台整合方式及企業自主開發層。 | 26 小時     | NT$208,000     |
+| [非 NVIDIA 依賴型 Physical AI 架構評估](Solution-without-NVIDIA.md) | 評估非 NVIDIA 技術組合、自主 Simulation Core、技術替代方案及平台自主性。| |
 
 ## 服務範圍及限制
 
