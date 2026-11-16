@@ -75,6 +75,29 @@ The consulting engagement is conducted on an independent and impartial basis, fo
 
 ---
 
+## 專案型服務 | Project-Based Services  
+
+| **項目<br>Service**                   | **內容<br>Scope**             | **參考費用<br>Fee**         |
+| -------------------------- | -------------------- | -------------------- |
+| 技術工作坊<br>Technical Workshop                   | 3 小時技術交流與規劃<br>3-hour workshop     | NT\$30,000 ~ NT\$50,000       |
+| 技術導入評估<br>Solution Feasibility Assessment               | 可行性分析與技術選型建議<br>Feasibility analysis and technology selection | 依實際工時報價<br>Depends on effort. |
+| Level 1-3 顧問服務<br>Level 1-3 Consulting Service | 詳見 [顧問服務](#顧問服務報價單--consulting-service-proposal--fee-schedule)<br>Refer to [Consulting Service](#顧問服務報價單--consulting-service-proposal--fee-schedule) | 依實際工時報價<br>Depends on effort. |
+
+### 案例分享 | Case Study  
+
+Level 2-3：**NVIDIA Physical AI 技術策略評估**  
+預覽版。 ☑️ Chinese Only.  
+
+| 項目                                  | 服務內容                                                                                | 預估工時      | 費用             |
+| ----------------------------------- | ----------------------------------------------------------------------------------- | --------- | -------------- |
+| [技術導入風險分析](./PhysicalAI/StrategyRiskAssessment.md)           | NVIDIA Physical AI 技術風險、技術成熟度、Sim-to-Real、硬體成本及導入風險評估。                                 | 24 小時     | NT$184,000     |
+| [NVIDIA 平台整合方式及企業自主開發分析](./PhysicalAI/Solution-with-NVIDIA.md) | NVIDIA 技術整合架構、Workflow Engine、AI Robotics、Simulation Framework、CAD Pipeline 及技術選型評估。 | 26 小時     | NT$208,000     |
+| [非 NVIDIA 依賴型 Physical AI 替代架構設計與技術自主性評估](./PhysicalAI/Solution-without-NVIDIA.md) | 評估非 NVIDIA 技術組合、自主 Simulation Core、技術替代方案及平台自主性。| 45 小時     | NT$359,000     |
+
+
+
+---
+
 ## 月度顧問服務方案 | Monthly Advisory Retainer Plans  
 
 本月度顧問服務方案所涵蓋之服務內容、服務範圍、交付方式、雙方權利義務及相關執行規範，均以《[RETA 獨立技術策略與系統架構顧問服務契約](ConsultingAgreement.md)》之約定為準。    
@@ -121,18 +144,6 @@ This allocation is provided as an example only. Actual consulting points may var
 
 - 主管層簡報與決策建議  
  Executive Presentation and Decision Support  
-
-## 專案型服務 | Project-Based Services  
-
-| **項目<br>Service**                   | **內容<br>Scope**             | **參考費用<br>Fee**         |
-| -------------------------- | -------------------- | -------------------- |
-| 技術工作坊<br>Technical Workshop                   | 3 小時技術交流與規劃<br>3-hour workshop     | NT\$30,000 ~ NT\$50,000       |
-| 技術導入評估<br>Solution Feasibility Assessment               | 可行性分析與技術選型建議<br>Feasibility analysis and technology selection | 依實際工時報價<br>Depends on effort. |
-| Level 1-3 顧問服務<br>Level 1-3 Consulting Service | 詳見 [顧問服務](#顧問服務報價單--consulting-service-proposal--fee-schedule)<br>Refer to [Consulting Service](#顧問服務報價單--consulting-service-proposal--fee-schedule) | 依實際工時報價<br>Depends on effort. |
-
-### 案例分享 | Case Study  
-
-[NVIDIA Physical AI 技術策略評估](./PhysicalAI/ProjectQuotation.md)  
 
 ## 報價說明 | Commercial Terms  
 

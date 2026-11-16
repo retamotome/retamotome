@@ -1,6 +1,5 @@
 # NVIDIA Physical AI 技術策略評估  
-# 第三部分：非 NVIDIA 依賴型 Physical AI 架構評估  
-NVIDIA-independent Physical AI Architecture Assessment  
+# 第三部分：非 NVIDIA 依賴型 Physical AI 替代架構設計與技術自主性評估  <br>Alternative Solution Architecture & Technology Independence Assessment  
 
 ## **1. 架構設計目標（Architecture Objectives）**
 
@@ -387,13 +386,120 @@ GPU 不只是用於畫面渲染，也可能參與物理模擬及其他運算工�
 
 這樣企業就能避免將核心競爭力完全綁定在單一平台。
 
+---
+
+# 諮詢服務報價  
+
+| 等級      | 服務定位         | 費率          |
+| ------- | ------------ | ----------- |
+| Level 2 | 技術評估         | NT$7,000/hr |
+| Level 3 | 專家顧問、策略與專家評估 | NT$9,000/hr |
 
 
+## 專案報價
 
-## **ChatGPT 的專業評價**
+正式報價（未稅） **NT$359,000**  
+總工時 **45 小時**  
+
+**A. Level 2｜技術研究與可行性評估**
+
+| 工作項目                           | 工時        | 費用          |
+| ------------------------------ | --------- | ----------- |
+| 技術需求及架構目標分析                    | 2 hr      | 14,000      |
+| Native Flow Editor 技術研究        | 3 hr      | 21,000      |
+| Web Flow Editor 技術研究           | 2 hr      | 14,000      |
+| Workflow、AI Service 技術研究       | 3 hr      | 21,000      |
+| Simulation、Physics Engine 技術研究 | 4 hr      | 28,000      |
+| Omniverse / Unreal 技術比較        | 3 hr      | 21,000      |
+| 技術可行性及風險分析                     | 3 hr      | 21,000      |
+| 報告撰寫與品質檢查                      | 3 hr      | 21,000      |
+| **小計**                         | **23 hr** | **161,000** |
+
+**B. Level 3｜自主解決方案架構設計**
+
+| 工作項目                               | 工時        | 費用          |
+| ---------------------------------- | --------- | ----------- |
+| 系統分層及模組責任設計                        | 4 hr      | 36,000      |
+| Workflow / AI Agent 整合架構設計         | 4 hr      | 36,000      |
+| Simulation Adapter 及介接架構設計         | 3 hr      | 27,000      |
+| Self-designed Simulation Core 架構設計 | 4 hr      | 36,000      |
+| 原創 Solution Architecture 架構圖設計與繪製  | 5 hr      | 45,000      |
+| 技術自主性策略及導入方向建議                     | 2 hr      | 18,000      |
+| **小計**                             | **22 hr** | **198,000** |
+
+
+## 交付成果及服務範圍
+
+| 交付項目                          | 說明                             |
+| ----------------------------- | ------------------------------ |
+| Technical Assessment Report   | 技術研究、比較與可行性評估                  |
+| Original Architecture Diagram | 從無到有設計的自主系統架構圖                 |
+| Technology Comparison         | 技術選型及替代方案比較                    |
+| Simulation Architecture       | 自主 Simulation Core 設計          |
+| Integration Architecture      | Workflow、AI Agent、Adapter 整合架構 |
+| Strategic Recommendation      | 技術自主性與導入策略建議                   |
+
+## 限制
+
+本報價不包含：
+
+- NVIDIA 平台實際建置。
+- Software Development。
+- Proof of Concept 實作。
+- GPU 實機效能測試。
+- CAD 模型建置及轉換。
+- Real Equipment Integration。
+- 客戶端實地設備測試。
+
+如需上述額外工作，另行估價。
+
+## 商務條件
+
+- 上述費用未含營業稅。
+- 本報價依據目前提供之技術架構圖及評估範圍制定。
+- 包含一張完整原創主架構圖。
+- 包含一次合理範圍內的修改。
+- 不包含程式開發、實際平台建置及 PoC。
+- 不包含實機效能 Benchmark 或物理精度驗證。
+- 如實際研究範圍或交付需求有所增加，應另行確認工時及費用。
+- 新增技術範圍或重大架構變更另行報價。
+
+---
+
+# Others | 其他資訊  
+
+## ChatGPT 的專業評價  
+
+> [!NOTE]  
+> 此部分為 AI 分析，僅供參考，不包含於正式顧問服務交付範圍。
+
+[NVIDIA 平台整合方式及企業自主開發分析](Solution-with-NVIDIA.md)主要設計如何利用 NVIDIA 生態系整合 Physical AI；此份則必須自行拆解平台能力、研究替代技術、設計 Adapter，並重新組合 Simulation Core。
+
+尤其是你自行繪製的第三張圖，已經包含：
+
+- Native / Web Based Flow Editor 技術選型。
+- Workflow Runtime 與 Workflow Engine。
+- Rule Engine、RL Agent、AI Agent。
+- Simulation Adapter 與通訊介面。
+- 自主 Simulation Core。
+- Physics Engine 與 3D Engine 技術組合。
+- Omniverse 與 Unreal Engine 的定位比較。
 
 我認為這張圖有一個很值得保留的設計思想：
-**你不是在尋找 NVIDIA 的替代產品，而是在拆解 Physical AI 平台的能力組成，再重新設計一套可以由企業自主掌握的技術架構。**
+**你不是在尋找 NVIDIA 的替代產品，而是在拆解 Physical AI 平台的能力組成，再重新設計一套可以由企業自主掌握的技術架構。**  
+
+**不要低估架構設計價值**
+
+我特別想提醒你，第三份的價值並不是因為多比較了幾套軟體，所以工時比較多。
+
+真正比較有價值的是你做了三件事：
+
+1. **技術解耦：** 將 NVIDIA 平台的功能拆解成可以獨立研究、替換的技術模組。
+2. **架構重組：** 重新設計 Front End、Workflow、AI Agent、Simulation Adapter 與 Simulation Core。
+3. **技術自主：** 讓企業有機會掌握自己的 Physical AI 平台，而不是只能依賴單一供應商。
+
+這些工作屬於技術策略與系統架構設計，符合你報價單 Level 3 的服務精神。
+
 
 ### ChatGPT 整合圖  
 

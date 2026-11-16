@@ -1,5 +1,5 @@
 # NVIDIA Physical AI 技術策略評估  
-# 第二部分：方案分析－使用 NVIDIA  <br>NVIDIA-Based Industrial AI Robotics & Simulation Architecture  
+# 第二部分：NVIDIA 平台整合方式及企業自主開發分析  <br>NVIDIA-Based Industrial AI Robotics & Simulation Architecture  
 
 # 一、Solution Overview｜解決方案總覽
 
@@ -887,7 +887,6 @@ Visual Components 與 Siemens Tecnomatix 可以作為既有工業模擬環境的
 
 | 等級      | 服務定位         | 費率          |
 | ------- | ------------ | ----------- |
-| Level 1 | 顧問諮詢         | NT$5,000/hr |
 | Level 2 | 技術評估         | NT$7,000/hr |
 | Level 3 | 專家顧問、策略與專家評估 | NT$9,000/hr |
 
@@ -916,9 +915,43 @@ Visual Components 與 Siemens Tecnomatix 可以作為既有工業模擬環境的
 - NVIDIA 與企業自主開發層的整合建議。
 - 企業自主開發架構及導入 Roadmap 建議。
 
+## 服務範圍及限制
+
+本報價包含：
+
+- 技術資料研究及分析。
+- 系統架構評估。
+- 技術方案比較。
+- 技術風險分析。
+- 顧問評估報告撰寫。
+- 一次整體報告說明及問題討論。
+
+本報價不包含：
+
+- NVIDIA 平台實際建置。
+- Software Development。
+- Proof of Concept 實作。
+- GPU 實機效能測試。
+- CAD 模型建置及轉換。
+- Real Equipment Integration。
+- 客戶端實地設備測試。
+
+如需上述額外工作，另行估價。
+
+## 商務條件
+
+- 上述費用未含營業稅。
+- 本報價依據目前提供之技術架構圖及評估範圍制定。
+- 如實際研究範圍或交付需求有所增加，應另行確認工時及費用。
+
 ---
 
-### ChatGPT 整合圖  
+# Others | 其他資訊  
+
+## ChatGPT 整合圖  
+
+> [!NOTE]  
+> 此部分為 AI 分析，僅供參考，不包含於正式顧問服務交付範圍。
 
 ![ChatGPT figure](./img/RefCh02.jpg)  
 
