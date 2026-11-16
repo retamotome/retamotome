@@ -80,19 +80,21 @@ The consulting engagement is conducted on an independent and impartial basis, fo
 | **項目<br>Service**                   | **內容<br>Scope**             | **參考費用<br>Fee**         |
 | -------------------------- | -------------------- | -------------------- |
 | 技術工作坊<br>Technical Workshop                   | 3 小時技術交流與規劃<br>3-hour workshop     | NT\$30,000 ~ NT\$50,000       |
-| 技術導入評估<br>Solution Feasibility Assessment               | 可行性分析與技術選型建議<br>Feasibility analysis and technology selection | 依實際工時報價<br>Depends on effort. |
-| Level 1-3 顧問服務<br>Level 1-3 Consulting Service | 詳見 [顧問服務](#顧問服務報價單--consulting-service-proposal--fee-schedule)<br>Refer to [Consulting Service](#顧問服務報價單--consulting-service-proposal--fee-schedule) | 依實際工時報價<br>Depends on effort. |
+| Level 1-3 顧問服務<br>Level 1-3 Consulting Service | 詳見 [顧問服務](#顧問服務費率--consulting-service-rates)<br>Refer to [Consulting Service](#顧問服務費率--consulting-service-rates) | 依實際工時報價<br>Depends on effort. |
 
 ### 案例分享 | Case Study  
 
-Level 2-3：**NVIDIA Physical AI 技術策略評估**  
-預覽版。 ☑️ Chinese Only.  
+項目：Level 3｜解決方案架構設計 Solution Architecture Design  
+專案：**NVIDIA Physical AI 技術策略評估**  
+Preview Version 預覽版。 ☑️ Chinese Only.  
 
-| 項目                                  | 服務內容                                                                                | 預估工時      | 費用             |
+| 項目                                  | 服務內容                                                                                | 工時      | 費用             |
 | ----------------------------------- | ----------------------------------------------------------------------------------- | --------- | -------------- |
-| [技術導入風險分析](./PhysicalAI/StrategyRiskAssessment.md)           | NVIDIA Physical AI 技術風險、技術成熟度、Sim-to-Real、硬體成本及導入風險評估。                                 | 24 小時     | NT$184,000     |
-| [NVIDIA 平台整合方式及企業自主開發分析](./PhysicalAI/Solution-with-NVIDIA.md) | NVIDIA 技術整合架構、Workflow Engine、AI Robotics、Simulation Framework、CAD Pipeline 及技術選型評估。 | 26 小時     | NT$208,000     |
-| [非 NVIDIA 依賴型 Physical AI 替代架構設計與技術自主性評估](./PhysicalAI/Solution-without-NVIDIA.md) | 評估非 NVIDIA 技術組合、自主 Simulation Core、技術替代方案及平台自主性。| 45 小時     | NT$359,000     |
+| [技術導入風險分析](./PhysicalAI/StrategyRiskAssessment.md)           | NVIDIA Physical AI 技術風險、技術成熟度、Sim-to-Real、硬體成本及導入風險評估。<br>:bulb: 核心問題：有哪些技術風險？ | 24 小時     | NT$184,000     |
+| [NVIDIA 平台整合方式及企業自主開發分析](./PhysicalAI/Solution-with-NVIDIA.md) | NVIDIA 技術整合架構、Workflow Engine、AI Robotics、Simulation Framework、CAD Pipeline 及技術選型評估。<br>:bulb: 核心問題：如何利用 NVIDIA 建構？ | 26 小時     | NT$208,000     |
+| [非 NVIDIA 依賴型 Physical AI 替代架構設計與技術自主性評估](./PhysicalAI/Solution-without-NVIDIA.md) | 評估非 NVIDIA 技術組合、自主 Simulation Core、技術替代方案及平台自主性。<br>:bulb: 核心問題：如何降低平台依賴？<br>:bookmark: [ChatGPT 的專業評價](./PhysicalAI/Solution-without-NVIDIA.md#chatgpt-的專業評價)  | 45 小時     | NT$359,000     |
+| [企業自主工業認知平台](./PhysicalAI/IndustrialCognitivePlatform.md) | **NVIDIA-independent Core with Pluggable Simulation Ecosystem**，也就是核心自主、模擬生態可替換的混合架構。<br>:bulb: 核心問題：如何形成企業自主的核心能力？<br>:bookmark: [ChatGPT 的專業評價](./PhysicalAI/IndustrialCognitivePlatform.md#chatgpt-的專業評價) | 56 小時 | NT$456,000 |
+| **合計**  | | **151 小時** | **NT$1,207,000** |
 
 
 
