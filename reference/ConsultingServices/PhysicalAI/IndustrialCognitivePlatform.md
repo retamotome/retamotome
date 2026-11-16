@@ -550,8 +550,13 @@ CAD、Point Cloud、Mesh 及 Simulation Asset 的資料量可能快速成長。
 > 本文件為案例分享版，部分核心方法論、分析內容及實務經驗基於顧問服務成果，未納入免費公開範圍。  
 > 如需完整內容，請參閱 [顧問服務報價單](../Quotation.md)。  
 
+目標是讓系統具備多來源候選方案生成及決策能力。  
 
-目標是讓系統具備多來源候選方案生成及決策能力。
+關於決策框架的說明，請參考：  
+
+| 參考影片 | 說明 |
+|:----|:----------|
+| <a href="https://github.com/retamotome/SelfDirectedTraining/blob/main/OpenCourseware/SystemDesignPhilosophy/2026-10-23.md" target="_blank"><image src="https://github.com/retamotome/SelfDirectedTraining/raw/main/OpenCourseware/SystemDesignPhilosophy/img/2026-10-23.png" width="200"></a> | 從奇門遁甲到決策工程學（一）<br>[將古代謀略模型轉化為可驗證的 Adaptive Decision Framework](https://github.com/retamotome/SelfDirectedTraining/blob/main/OpenCourseware/SystemDesignPhilosophy/2026-10-23.md) |
 
 ## Phase 4：Industrial Cognitive Platform
 
