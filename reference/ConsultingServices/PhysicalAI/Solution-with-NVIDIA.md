@@ -936,7 +936,6 @@ Visual Components 與 Siemens Tecnomatix 可以作為既有工業模擬環境的
 - Real Equipment Integration。
 - 客戶端實地設備測試。
 
-如需上述額外工作，另行估價。
 
 ## 商務條件
 

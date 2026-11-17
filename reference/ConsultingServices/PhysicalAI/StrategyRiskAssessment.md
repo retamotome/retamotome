@@ -806,9 +806,7 @@ NVIDIA Physical AI 的真正價值，不在於讓 AI 能夠產生更多模擬結
 - GPU 實機效能測試。
 - CAD 模型建置及轉換。
 - Real Equipment Integration。
-- 客戶端實地設備測試。
-
-如需上述額外工作，另行估價。
+- 客戶端實地設備測試。  
 
 ## 商務條件
 

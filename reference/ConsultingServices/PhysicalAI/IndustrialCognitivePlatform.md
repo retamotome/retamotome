@@ -662,8 +662,6 @@ CAD、Point Cloud、Mesh 及 Simulation Asset 的資料量可能快速成長。
 - Real Equipment Integration。
 - 客戶端實地設備測試。
 
-如需上述額外工作，另行估價。
-
 ## 商務條件
 
 - 上述費用未含營業稅。
