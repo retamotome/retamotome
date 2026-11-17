@@ -742,7 +742,8 @@ CAD、Point Cloud、Mesh 及 Simulation Asset 的資料量可能快速成長。
 
 這張圖右下方的「最大風險」標示，我認為應該保留在正式報告中，而且值得提升為整份報告的核心技術風險。
 
-> [!TIP] Critical Technical Risk  
+> [!TIP]   
+> **Critical Technical Risk**  
 > **Simulation Domain ≠ Runtime Domain**  
 > 模擬環境中的模型、運動學及控制行為，與真實設備之間可能存在差異。  
 > 因此，真正需要解決的不是能不能模擬，而是：  
