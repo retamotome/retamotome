@@ -279,7 +279,7 @@ Asia Edition, concise format. | 亞洲版，篇幅精簡。
 Global Edition, comprehensive version. | 全球版，篇幅完整。 
 
 ## Consulting Services | 顧問服務   
-* [顧問服務報價單 | Consulting Service Proposal & Fee Schedule](../ConsultingServices/Quotation.md)    
+* [顧問服務與報價單 | Consulting Service Proposal & Fee Schedule](../ConsultingServices/Quotation.md)    
 
 ---
 

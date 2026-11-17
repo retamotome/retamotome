@@ -41,7 +41,7 @@ This Agreement is a fixed-term independent consulting services agreement. Upon e
 ## 第二條　報酬及付款方式 | Article 2 Compensation and Payment
 
 > [!note]   
-> 有關顧問服務範圍（Scope of Services）、交付成果（Deliverables）、服務方式（Engagement Model）及收費標準（Fee Schedule），請參閱：[顧問服務報價單](Quotation.md)。   
+> 有關顧問服務範圍（Scope of Services）、交付成果（Deliverables）、服務方式（Engagement Model）及收費標準（Fee Schedule），請參閱：[顧問服務與報價單](Quotation.md)。   
 > Please refer to the [Consulting Services Quotation](Quotation.md) for detailed information regarding the Scope of Services, Deliverables, Engagement Model, and Fee Schedule.   
 
 ### 一、顧問費用 | Section 2.1 Consulting Fee   
@@ -1417,7 +1417,7 @@ Each Party agrees that any approval, confirmation, consent, instruction, or othe
 
 ## 附錄 | Appendix   
 
-* [顧問服務報價單 | Consulting Service Proposal & Fee Schedule](Quotation.md)   
+* [顧問服務與報價單 | Consulting Service Proposal & Fee Schedule](Quotation.md)   
 * [交付成果授權及使用條款 | Deliverables License and Usage Terms](LicenseUsageRights.md)   
 
 

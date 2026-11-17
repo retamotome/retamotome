@@ -1,5 +1,5 @@
 附錄 | Appendix    
-# 顧問服務報價單 | Consulting Service Proposal & Fee Schedule
+# 顧問服務與報價單 | Consulting Service Proposal & Fee Schedule
 
 > [!note]   
 > 本報價參考台灣資訊科技顧問、數位轉型顧問、AI 顧問及機電自動化顧問市場行情制定。服務費用將依專案範圍、複雜度及交付成果進行調整。   
