@@ -1,6 +1,8 @@
 附錄 | Appendix  
 # 專案工作說明書 | STATEMENT OF WORK (SOW)  
 
+[![Consulting Service](../img/ConsultingTeamBanner.png)](Quotation.md)  
+
 本附件為 [RETA Project-Based Independent Technology Strategy and System Architecture Consulting Master Services Agreement](ProjectBasedConsultingAgreement.md) 之一部分。
 
 This Statement of Work ("SOW") forms an integral part of the [RETA Project-Based Independent Technology Strategy and System Architecture Consulting Master Services Agreement](ProjectBasedConsultingAgreement.md).

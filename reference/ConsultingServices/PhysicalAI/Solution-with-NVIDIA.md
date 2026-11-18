@@ -1,6 +1,8 @@
 # NVIDIA Physical AI 技術策略評估  
 # 第二部分：NVIDIA 平台整合方式及企業自主開發分析  <br>NVIDIA-Based Industrial AI Robotics & Simulation Architecture  
 
+[![Consulting Service](../../img/ConsultingTeamBanner.png)](../Quotation.md)  
+
 # 一、Solution Overview｜解決方案總覽
 
 ![Solution with NVIDIA](./img/NVIDIA-Study_copyright-Solution-with-NVIDIA.jpg)  

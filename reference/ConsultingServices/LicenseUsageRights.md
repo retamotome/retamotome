@@ -1,6 +1,8 @@
 附錄 | Appendix    
 # 交付成果授權及使用條款 | Deliverables License and Usage Terms   
 
+[![Consulting Service](../img/ConsultingTeamBanner.png)](Quotation.md)  
+
 ## 第一條　適用範圍 | Article 1 Scope and Applicability  
 
 本交付成果授權及使用條款（以下稱「本條款」）係就顧問依雙方簽署之[顧問服務契約](ConsultingAgreement.md)（以下稱「主契約」）所完成並交付之成果，其使用、管理、維護及相關權利義務事項所為之約定。  

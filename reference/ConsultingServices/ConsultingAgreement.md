@@ -1,5 +1,7 @@
 # RETA 獨立技術策略與系統架構顧問服務契約  <br>RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT  
 
+[![Consulting Service](../img/ConsultingTeamBanner.png)](Quotation.md)  
+
 **立約人 Parties**
 
 甲方：潘貞元（以下稱「甲方」）  

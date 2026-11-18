@@ -8,6 +8,8 @@
 架構定位：企業自主工業認知平台  
 核心技術：AI Agent、Workflow、Simulation、World Model、Engineering Knowledge、Robotics
 
+[![Consulting Service](../../img/ConsultingTeamBanner.png)](../Quotation.md)  
+
 ---
 
 # 1. Executive Summary（執行摘要）

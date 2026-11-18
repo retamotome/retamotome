@@ -1,9 +1,10 @@
 # NVIDIA Physical AI 技術策略評估報告  
 # 第一部分：技術導入風險分析  <br>NVIDIA Physical AI Technology Strategy & Risk Assessment    
 
-**報告定位：技術顧問評估（Technology Consulting Assessment）**
+**報告定位：技術顧問評估（Technology Consulting Assessment）**  
+**評估範圍：** NVIDIA Physical AI 技術架構、Simulation、Digital Twin、Reinforcement Learning、World Model、Sim-to-Real，以及企業導入風險。  
 
-**評估範圍：** NVIDIA Physical AI 技術架構、Simulation、Digital Twin、Reinforcement Learning、World Model、Sim-to-Real，以及企業導入風險。
+[![Consulting Service](../../img/ConsultingTeamBanner.png)](../Quotation.md)  
 
 ---
 

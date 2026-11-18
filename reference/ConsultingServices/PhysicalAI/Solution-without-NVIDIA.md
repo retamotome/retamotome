@@ -1,6 +1,8 @@
 # NVIDIA Physical AI 技術策略評估  
 # 第三部分：非 NVIDIA 依賴型 Physical AI 替代架構設計與技術自主性評估  <br>Alternative Solution Architecture & Technology Independence Assessment  
 
+[![Consulting Service](../../img/ConsultingTeamBanner.png)](../Quotation.md)  
+
 ## **1. 架構設計目標（Architecture Objectives）**
 
 ![Solution without NVIDIA](./img/NVIDIA-Study_copyright-Solution-without-NVIDIA.jpg)  
