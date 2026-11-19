@@ -7,7 +7,7 @@
 
 ---
 
-# 立約人 | PARTIES
+## 立約人 | PARTIES
 
 甲方：潘貞元（以下稱「甲方」或「顧問」）  
 Consultant: Pan, Jen-Yuan （the "Consultant"）  
@@ -15,7 +15,7 @@ Consultant: Pan, Jen-Yuan （the "Consultant"）
 乙方：______________________（以下稱「乙方」或「客戶」）  
 Client: ______________________ （the "Client"）  
 
-# 前言 | RECITALS
+## 前言 | RECITALS
 
 乙方因系統開發、軟體架構、技術策略、數位轉型及相關專業需求，委託甲方提供獨立技術策略與系統架構顧問服務。
 
@@ -29,7 +29,7 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements set fort
 
 ---
 
-# 第一條　契約性質及期間  <br>Article 1 – Nature and Term of Agreement
+## 第一條　契約性質及期間  <br>Article 1 – Nature and Term of Agreement
 
 ### 1.1 主合約性質 | Master Agreement
 
@@ -63,7 +63,7 @@ This Agreement shall not require periodic renewal. The Parties may enter into ad
 
 ---
 
-# 第二條　專案報酬及付款方式  <br>Article 2 – Project Fees and Payment Terms
+## 第二條　專案報酬及付款方式  <br>Article 2 – Project Fees and Payment Terms
 
 ### 2.1 專案費用 | Project Fees
 
@@ -81,15 +81,15 @@ The Project Fees constitute consideration for the Consultant's professional serv
 
 除個別[工作說明書](SOW.md)另有約定外，專案費用依下列方式支付：
 
-1. 專案啟動款：總專案費用之 40%，於[工作說明書](SOW.md)簽署後支付。
-2. 中期款：總專案費用之 40%，於約定之中期成果交付後支付。
-3. 結案款：總專案費用之 20%，於最終成果完成驗收後支付。
+（一）專案啟動款：總專案費用之 40%，於[工作說明書](SOW.md)簽署後支付。
+（二）中期款：總專案費用之 40%，於約定之中期成果交付後支付。
+（三）結案款：總專案費用之 20%，於最終成果完成驗收後支付。
 
 Unless otherwise specified in the applicable [SOW](SOW.md), the Project Fees shall be payable as follows:
 
-1. Initial Payment: Forty percent (40%) of the total Project Fee upon execution of the [SOW](SOW.md).
-2. Milestone Payment: Forty percent (40%) upon delivery of the agreed interim Deliverables.
-3. Final Payment: Twenty percent (20%) upon acceptance of the final Deliverables.
+(a) Initial Payment: Forty percent (40%) of the total Project Fee upon execution of the [SOW](SOW.md).
+(b) Milestone Payment: Forty percent (40%) upon delivery of the agreed interim Deliverables.
+(c) Final Payment: Twenty percent (20%) upon acceptance of the final Deliverables.
 
 ### 2.4 付款期限 | Payment Due Date
 
@@ -133,38 +133,31 @@ Except for deductions or withholding required by applicable law, the Client shal
 
 ---
 
-# 第三條　顧問服務範圍  <br>Article 3 – Scope of Consulting Services
+## 第三條　顧問服務範圍  <br>Article 3 – Scope of Consulting Services
 
 ### 3.1 服務項目 | Consulting Services
 
 甲方得依個別[工作說明書](SOW.md)約定提供下列一項或數項服務：
 
-1. 系統架構分析及評估。
-2. 技術方案研究、比較及可行性分析。
-3. 系統整合及技術風險分析。
-4. 技術策略及長期系統演進方向建議。
-5. 新興技術、產品、平台及解決方案研究。
-6. 技術決策支援及專業諮詢。
-7. 特定技術議題研究及分析報告。
-8. 其他雙方書面同意之專業顧問服務。
+（一）系統架構分析及評估。  
+（二）技術方案研究、比較及可行性分析。  
+（三）系統整合及技術風險分析。  
+（四）技術策略及長期系統演進方向建議。  
+（五）新興技術、產品、平台及解決方案研究。  
+（六）技術決策支援及專業諮詢。  
+（七）特定技術議題研究及分析報告。  
+（八）其他雙方書面同意之專業顧問服務。  
 
-The Consultant may provide one or more of the following Services, as specified in the applicable [SOW](SOW.md):
+The Consultant may provide one or more of the following Services, as specified in the applicable [SOW](SOW.md):  
 
-(a) System architecture analysis and assessment;
-
-(b) Technical solution research, comparison, and feasibility assessment;
-
-(c) System integration review and technical risk assessment;
-
-(d) Technology strategy and long-term system evolution recommendations;
-
-(e) Research and evaluation of emerging technologies, products, platforms, and solutions;
-
-(f) Technical decision support and professional advisory services;
-
-(g) Research reports and analytical assessments addressing specific technical matters; and
-
-(h) Other professional consulting services mutually agreed upon in writing.
+(a) System architecture analysis and assessment;   
+(b) Technical solution research, comparison, and feasibility assessment;    
+(c) System integration review and technical risk assessment;   
+(d) Technology strategy and long-term system evolution recommendations;   
+(e) Research and evaluation of emerging technologies, products, platforms, and solutions;   
+(f) Technical decision support and professional advisory services;   
+(g) Research reports and analytical assessments addressing specific technical matters; and   
+(h) Other professional consulting services mutually agreed upon in writing.   
 
 ### 3.2 服務範圍限制 | Scope Limitations
 
@@ -214,7 +207,7 @@ Unless expressly agreed otherwise in writing, the Services shall not constitute 
 
 ---
 
-# 第四條　服務方式及執行模式  <br>Article 4 – Service Delivery Model
+## 第四條　服務方式及執行模式  <br>Article 4 – Service Delivery Model
 
 ### 4.1 專案執行方式 | Project-Based Engagement
 
@@ -248,7 +241,7 @@ Unless otherwise expressly agreed, the Consultant shall not be required to discl
 
 ---
 
-# 第五條　交付成果及驗收  <br>Article 5 – Deliverables and Acceptance
+## 第五條　交付成果及驗收  <br>Article 5 – Deliverables and Acceptance
 
 ### 5.1 交付成果 | Deliverables
 
@@ -298,7 +291,7 @@ Requests for additional research, new functionality, expanded Services, or modif
 
 ---
 
-# 第六條　遠端服務及出差限制  <br>Article 6 – Remote-Only Services and No Travel
+## 第六條　遠端服務及出差限制  <br>Article 6 – Remote-Only Services and No Travel
 
 ### 6.1 遠端服務原則 | Remote-Only Engagement
 
@@ -326,7 +319,7 @@ The Project Fees are based exclusively on a remote service delivery model and do
 
 ---
 
-# 第七條　專案變更管理  <br>Article 7 – Project Change Control
+## 第七條　專案變更管理  <br>Article 7 – Project Change Control
 
 ### 7.1 變更需求 | Change Requests
 
@@ -360,7 +353,7 @@ If project progress is affected by the Client's delay in providing information, 
 
 ---
 
-# 第八條　保密責任  <br>Article 8 – Confidentiality
+## 第八條　保密責任  <br>Article 8 – Confidentiality
 
 ### 8.1 機密資訊定義 | Definition of Confidential Information
 
@@ -388,33 +381,23 @@ Nothing in this Agreement shall restrict the Consultant's use of pre-existing kn
 
 ### 8.5 機密資訊排除 | Exclusions
 
-下列資訊不屬機密資訊：
+下列資訊不屬機密資訊：   
 
-(a) 甲方於揭露前已合法知悉之資訊；
+（一）甲方於揭露前已合法知悉之資訊；   
+（二）於揭露時已公開之資訊；   
+（三）非因甲方違約而成為公開之資訊；   
+（四）甲方未使用乙方機密資訊而獨立開發之資訊；   
+（五）甲方既有之專業知識、方法論及一般性 Know-how；或   
+（六）依法令、法院或主管機關要求必須揭露之資訊。   
 
-(b) 於揭露時已公開之資訊；
+Confidential Information shall not include information that:   
 
-(c) 非因甲方違約而成為公開之資訊；
-
-(d) 甲方未使用乙方機密資訊而獨立開發之資訊；
-
-(e) 甲方既有之專業知識、方法論及一般性 Know-how；或
-
-(f) 依法令、法院或主管機關要求必須揭露之資訊。
-
-Confidential Information shall not include information that:
-
-(a) was lawfully known to the Consultant prior to disclosure;
-
-(b) was publicly available at the time of disclosure;
-
-(c) becomes publicly available without breach of this Agreement;
-
-(d) is independently developed without use of the Client's Confidential Information;
-
-(e) constitutes the Consultant's pre-existing professional knowledge, methodologies, or generalized know-how; or
-
-(f) is required to be disclosed by applicable law, regulation, court order, or governmental authority.
+(a) was lawfully known to the Consultant prior to disclosure;    
+(b) was publicly available at the time of disclosure;   
+(c) becomes publicly available without breach of this Agreement;   
+(d) is independently developed without use of the Client's Confidential Information;   
+(e) constitutes the Consultant's pre-existing professional knowledge, methodologies, or generalized know-how; or   
+(f) is required to be disclosed by applicable law, regulation, court order, or governmental authority.   
 
 ### 8.6 法定揭露 | Required Disclosure
 
@@ -436,7 +419,7 @@ Upon termination or the Client's reasonable request, the Consultant shall return
 
 ---
 
-# 第九條　智慧財產權  <br>Article 9 – Intellectual Property Rights
+## 第九條　智慧財產權  <br>Article 9 – Intellectual Property Rights
 
 ### 9.1 既有智慧財產權之保留 | Background Intellectual Property
 
@@ -520,41 +503,27 @@ Any assignment, exclusive license, transfer of ownership, or transfer of source 
 
 ### 9.9 非交付項目 | Excluded Materials
 
-除[工作說明書](SOW.md)明確列為交付成果外，甲方無提供下列項目之義務：
+除[工作說明書](SOW.md)明確列為交付成果外，甲方無提供下列項目之義務：   
 
-(a) 原始碼；
+（一）原始碼；   
+（二）模型訓練資料；   
+（三）模型建置檔；   
+（四）開發環境；   
+（五）內部工具；   
+（六）研究筆記；   
+（七）內部分析過程文件；或   
+（八）其他未明確列為交付成果之內部技術資料。   
 
-(b) 模型訓練資料；
+Unless expressly identified as Deliverables in the applicable [SOW](SOW.md), the Consultant shall have no obligation to provide:   
 
-(c) 模型建置檔；
-
-(d) 開發環境；
-
-(e) 內部工具；
-
-(f) 研究筆記；
-
-(g) 內部分析過程文件；或
-
-(h) 其他未明確列為交付成果之內部技術資料。
-
-Unless expressly identified as Deliverables in the applicable [SOW](SOW.md), the Consultant shall have no obligation to provide:
-
-(a) source code;
-
-(b) model training datasets;
-
-(c) model construction files;
-
-(d) development environments;
-
-(e) internal tools;
-
-(f) research notes;
-
-(g) internal analytical working papers; or
-
-(h) other internal technical materials.
+(a) source code;   
+(b) model training datasets;   
+(c) model construction files;   
+(d) development environments;   
+(e) internal tools;   
+(f) research notes;   
+(g) internal analytical working papers; or   
+(h) other internal technical materials.   
 
 ### 9.10 軟體開發專案 | Software Development Engagements
 
@@ -564,7 +533,7 @@ Where an engagement primarily involves software, system, tool, or module develop
 
 ---
 
-# 第十條　法律關係及獨立顧問身分  <br>Article 10 – Independent Contractor Relationship
+## 第十條　法律關係及獨立顧問身分  <br>Article 10 – Independent Contractor Relationship
 
 ### 10.1 獨立顧問 | Independent Contractor
 
@@ -598,7 +567,7 @@ The Parties acknowledge their mutual intention to establish an independent consu
 
 ---
 
-# 第十一條　資料及資訊安全  <br>Article 11 – Data Protection and Information Security
+## 第十一條　資料及資訊安全  <br>Article 11 – Data Protection and Information Security
 
 ### 11.1 資料使用限制 | Permitted Use of Client Information
 
@@ -608,25 +577,19 @@ The Consultant shall use the Client's information, data, records, documents, and
 
 ### 11.2 合理資訊安全措施 | Reasonable Security Measures
 
-甲方應採取一般商業上合理之資訊安全措施，包括：
+甲方應採取一般商業上合理之資訊安全措施，包括：   
 
-(a) 帳號及密碼保護；
+（一）帳號及密碼保護；   
+（二）作業系統及安全軟體合理更新；   
+（三）機密資料權限控管；及   
+（四）合理資料備份措施。   
 
-(b) 作業系統及安全軟體合理更新；
+The Consultant shall implement commercially reasonable administrative, technical, and organizational safeguards, including:   
 
-(c) 機密資料權限控管；及
-
-(d) 合理資料備份措施。
-
-The Consultant shall implement commercially reasonable administrative, technical, and organizational safeguards, including:
-
-(a) account and password protection;
-
-(b) reasonable system and security software updates;
-
-(c) appropriate access controls; and
-
-(d) reasonable data backup measures.
+(a) account and password protection;   
+(b) reasonable system and security software updates;   
+(c) appropriate access controls; and   
+(d) reasonable data backup measures.   
 
 ### 11.3 安全義務限制 | Limitation of Security Obligations
 
@@ -654,7 +617,7 @@ Upon termination, the Consultant shall return or securely destroy the Client's i
 
 ---
 
-# 第十二條　個人資料  <br>Article 12 – Personal Data Protection
+## 第十二條　個人資料  <br>Article 12 – Personal Data Protection
 
 ### 12.1 法令遵循 | Compliance with Data Protection Laws
 
@@ -686,7 +649,7 @@ If the Client requires the Consultant to access sensitive healthcare, financial,
 
 ---
 
-# 第十三條　顧問責任及責任限制  <br>Article 13 – Professional Responsibility and Limitation of Liability
+## 第十三條　顧問責任及責任限制  <br>Article 13 – Professional Responsibility and Limitation of Liability
 
 ### 13.1 專業注意義務 | Standard of Professional Care
 
@@ -722,41 +685,27 @@ The Consultant shall not be liable for business outcomes or losses arising from 
 
 ### 13.5 排除間接及衍生性損害 | Exclusion of Indirect and Consequential Damages
 
-除甲方故意、重大過失或依法不得限制責任之情形外，甲方不對下列損害負責：
+除甲方故意、重大過失或依法不得限制責任之情形外，甲方不對下列損害負責：   
 
-(a) 間接損害；
+（一）間接損害；   
+（二）衍生性損害；   
+（三）逸失利益；   
+（四）營業損失；   
+（五）商機損失；   
+（六）商譽損失；   
+（七）營業中斷；或   
+（八）資料損失。   
 
-(b) 衍生性損害；
+Except for liability arising from the Consultant's willful misconduct, gross negligence, or circumstances where liability cannot legally be excluded, the Consultant shall not be liable for any:   
 
-(c) 逸失利益；
-
-(d) 營業損失；
-
-(e) 商機損失；
-
-(f) 商譽損失；
-
-(g) 營業中斷；或
-
-(h) 資料損失。
-
-Except for liability arising from the Consultant's willful misconduct, gross negligence, or circumstances where liability cannot legally be excluded, the Consultant shall not be liable for any:
-
-(a) indirect damages;
-
-(b) consequential damages;
-
-(c) loss of profits;
-
-(d) loss of revenue;
-
-(e) loss of business opportunities;
-
-(f) loss of goodwill;
-
-(g) business interruption; or
-
-(h) loss of data.
+(a) indirect damages;   
+(b) consequential damages;   
+(c) loss of profits;   
+(d) loss of revenue;   
+(e) loss of business opportunities;   
+(f) loss of goodwill;   
+(g) business interruption; or   
+(h) loss of data.   
 
 ### 13.6 責任上限 | Limitation of Liability Cap
 
@@ -794,7 +743,7 @@ The Consultant disclaims all express, implied, and statutory warranties, includi
 
 ---
 
-# 第十四條　第三方資訊及技術方案  <br>Article 14 – Third-Party Information and Technologies
+## 第十四條　第三方資訊及技術方案  <br>Article 14 – Third-Party Information and Technologies
 
 ### 14.1 第三方資料之使用 | Use of Third-Party Information
 
@@ -828,7 +777,7 @@ The Consultant shall have no obligation to monitor, update, or notify the Client
 
 ---
 
-# 第十五條　非排他性  <br>Article 15 – Non-Exclusivity
+## 第十五條　非排他性  <br>Article 15 – Non-Exclusivity
 
 ### 15.1 非排他合作 | Non-Exclusive Engagement
 
@@ -856,7 +805,7 @@ The Consultant may continue to develop, improve, use, license, and commercialize
 
 ---
 
-# 第十六條　利益衝突  <br>Article 16 – Conflicts of Interest
+## 第十六條　利益衝突  <br>Article 16 – Conflicts of Interest
 
 ### 16.1 利益衝突通知 | Conflict Disclosure
 
@@ -890,7 +839,7 @@ Any non-competition or exclusivity obligation shall be subject to a separate wri
 
 ---
 
-# 第十七條　不得挖角及規避合作  <br>Article 17 – Non-Solicitation and Non-Circumvention
+## 第十七條　不得挖角及規避合作  <br>Article 17 – Non-Solicitation and Non-Circumvention
 
 ### 17.1 禁止挖角 | Non-Solicitation
 
@@ -924,7 +873,7 @@ In the event of a breach of this Article, the Consultant may seek damages and ot
 
 ---
 
-# 第十八條　契約及專案終止  <br>Article 18 – Termination
+## 第十八條　契約及專案終止  <br>Article 18 – Termination
 
 ### 18.1 主合約任意終止 | Termination for Convenience
 
@@ -982,7 +931,7 @@ Either Party may immediately terminate this Agreement upon written notice if the
 
 ---
 
-# 第十九條　不可抗力  <br>Article 19 – Force Majeure
+## 第十九條　不可抗力  <br>Article 19 – Force Majeure
 
 ### 19.1 不可抗力事件 | Force Majeure Events
 
@@ -1010,7 +959,7 @@ The affected Party shall use commercially reasonable efforts to mitigate the imp
 
 ---
 
-# 第二十條　禁止轉讓  <br>Article 20 – Assignment
+## 第二十條　禁止轉讓  <br>Article 20 – Assignment
 
 ### 20.1 禁止轉讓 | Restriction on Assignment
 
@@ -1026,7 +975,7 @@ A Party may assign this Agreement in connection with a merger, acquisition, corp
 
 ---
 
-# 第二十一條　準據法及管轄法院  <br>Article 21 – Governing Law and Jurisdiction
+## 第二十一條　準據法及管轄法院  <br>Article 21 – Governing Law and Jurisdiction
 
 ### 21.1 台灣地區客戶 | Clients in Taiwan
 
@@ -1056,7 +1005,7 @@ This Agreement is executed in both Chinese and English. In the event of any inco
 
 ---
 
-# 第二十二條　完整合意  <br>Article 22 – Entire Agreement
+## 第二十二條　完整合意  <br>Article 22 – Entire Agreement
 
 ### 22.1 完整合意 | Entire Agreement
 
@@ -1102,7 +1051,7 @@ Each Party acknowledges that it has not relied upon any representation, statemen
 
 ---
 
-# 第二十三條　契約簽署及文件效力  <br>Article 23 – Execution and Legal Effect of Documents
+## 第二十三條　契約簽署及文件效力  <br>Article 23 – Execution and Legal Effect of Documents
 
 ### 23.1 契約簽署方式 | Execution
 
@@ -1142,7 +1091,7 @@ This Agreement may be executed in one or more counterparts, including scanned co
 
 ---
 
-# 簽署頁 | SIGNATURE PAGE
+## 簽署頁 | SIGNATURE PAGE
 
 雙方確認已閱讀、理解並同意本契約全部條款，並由下列授權代表簽署。
 

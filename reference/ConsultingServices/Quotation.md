@@ -157,7 +157,7 @@ This allocation is provided as an example only. Actual consulting points may var
 - 上述價格均未含營業稅。  
  All fees are exclusive of applicable taxes.  
 
-- 月度顧問服務方案僅定義顧問服務額度與費用標準；服務內容、服務範圍、交付成果、責任限制及其他相關事項，均以《[RETA 獨立技術策略與系統架構顧問服務契約](ConsultingAgreement.md)》為準。如本方案內容與前述契約有任何差異，應以該契約之約定為優先。    
+- 月度顧問服務方案僅定義顧問服務額度與費用標準；服務內容、服務範圍、交付成果、責任限制及其他相關事項，均以《[RETA 獨立技術策略與系統架構顧問服務契約](ConsultingAgreement.md)》為準。如方案內容與前述契約有任何差異，應以該契約之約定為優先。    
 This Monthly Advisory Retainer Plan defines only the service allocation and fee structure. The detailed scope of services, deliverables, limitations of liability, and all other applicable terms shall be governed by the [RETA INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING AGREEMENT](ConsultingAgreement.md). In the event of any inconsistency, the Consulting Agreement shall prevail.    
 
 - 客製化軟體開發、系統建置及實際導入作業 **不** 包含於本報價範圍。  
