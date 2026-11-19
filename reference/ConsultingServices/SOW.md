@@ -3,7 +3,7 @@
 
 [![Consulting Service](../img/ConsultingTeamBanner.png)](Quotation.md)  
 
-本附件為 [RETA Project-Based Independent Technology Strategy and System Architecture Consulting Master Services Agreement](ProjectBasedConsultingAgreement.md) 之一部分。
+本附件為 [RETA 專案型獨立技術策略與系統架構顧問服務合約](ProjectBasedConsultingAgreement.md) 之一部分。
 
 This Statement of Work ("SOW") forms an integral part of the [RETA Project-Based Independent Technology Strategy and System Architecture Consulting Master Services Agreement](ProjectBasedConsultingAgreement.md).
 
