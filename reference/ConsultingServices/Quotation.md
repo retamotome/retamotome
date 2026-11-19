@@ -79,8 +79,8 @@ The consulting engagement is conducted on an independent and impartial basis, fo
 
 ## 專案型服務 | Project-Based Services  
 
-本專案型顧問服務方案所涵蓋之服務內容、服務範圍、交付方式、雙方權利義務及相關執行規範，均以《[RETA 專案型獨立技術策略與系統架構顧問服務主合約](ProjectBasedConsultingAgreement.md)》之約定為準。    
- The scope of services, deliverables, engagement methods, rights and obligations of both parties, and all related consulting activities under the Project-Based Advisory Retainer Plan shall be governed by the provisions set forth in the [RETA PROJECT-BASED INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING MASTER SERVICES AGREEMENT](ProjectBasedConsultingAgreement.md).   
+本專案型顧問服務方案所涵蓋之服務內容、服務範圍、交付方式、雙方權利義務及相關執行規範，均以《[RETA 專案型獨立技術策略與系統架構顧問服務合約](ProjectBasedConsultingAgreement.md)》之約定為準。    
+ The scope of services, deliverables, engagement methods, rights and obligations of both parties, and all related consulting activities under the Project-Based Advisory Retainer Plan shall be governed by the provisions set forth in the [RETA PROJECT-BASED INDEPENDENT TECHNOLOGY STRATEGY AND SYSTEM ARCHITECTURE CONSULTING SERVICES AGREEMENT](ProjectBasedConsultingAgreement.md).   
 
 | **項目<br>Service**                   | **內容<br>Scope**             | **參考費用<br>Fee**         |
 | -------------------------- | -------------------- | -------------------- |
