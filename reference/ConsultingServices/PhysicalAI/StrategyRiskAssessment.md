@@ -6,11 +6,17 @@
 
 [![Consulting Service](../../img/ConsultingTeamBanner.png)](../Quotation.md)  
 
+> [!IMPORTANT]  
+> **著作權聲明**  
+> © 2026 潘貞元（Reta Pan） [保留一切權利](https://github.com/retamotome/retamotome/blob/main/LICENSE.md)。
+
 > [!NOTE]  
 > 本文件為案例分享版，部分核心方法論、分析內容及實務經驗基於顧問服務成果，未納入免費公開範圍。   
 > 如需完整內容，請參閱 [顧問服務與報價單](../Quotation.md)。  
+> 
 
 ---
+
 
 # 一、Executive Summary｜執行摘要
 
