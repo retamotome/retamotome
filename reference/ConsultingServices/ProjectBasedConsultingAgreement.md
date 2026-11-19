@@ -29,8 +29,7 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements set fort
 
 ---
 
-# 第一條　契約性質及期間
-# Article 1 – Nature and Term of Agreement
+# 第一條　契約性質及期間  <br>Article 1 – Nature and Term of Agreement
 
 ### 1.1 主合約性質 | Master Agreement
 
@@ -64,8 +63,7 @@ This Agreement shall not require periodic renewal. The Parties may enter into ad
 
 ---
 
-# 第二條　專案報酬及付款方式
-# Article 2 – Project Fees and Payment Terms
+# 第二條　專案報酬及付款方式  <br>Article 2 – Project Fees and Payment Terms
 
 ### 2.1 專案費用 | Project Fees
 
@@ -135,8 +133,7 @@ Except for deductions or withholding required by applicable law, the Client shal
 
 ---
 
-# 第三條　顧問服務範圍
-# Article 3 – Scope of Consulting Services
+# 第三條　顧問服務範圍  <br>Article 3 – Scope of Consulting Services
 
 ### 3.1 服務項目 | Consulting Services
 
@@ -217,8 +214,7 @@ Unless expressly agreed otherwise in writing, the Services shall not constitute 
 
 ---
 
-# 第四條　服務方式及執行模式
-# Article 4 – Service Delivery Model
+# 第四條　服務方式及執行模式  <br>Article 4 – Service Delivery Model
 
 ### 4.1 專案執行方式 | Project-Based Engagement
 
@@ -252,8 +248,7 @@ Unless otherwise expressly agreed, the Consultant shall not be required to discl
 
 ---
 
-# 第五條　交付成果及驗收
-# Article 5 – Deliverables and Acceptance
+# 第五條　交付成果及驗收  <br>Article 5 – Deliverables and Acceptance
 
 ### 5.1 交付成果 | Deliverables
 
@@ -303,8 +298,7 @@ Requests for additional research, new functionality, expanded Services, or modif
 
 ---
 
-# 第六條　遠端服務及出差限制
-# Article 6 – Remote-Only Services and No Travel
+# 第六條　遠端服務及出差限制  <br>Article 6 – Remote-Only Services and No Travel
 
 ### 6.1 遠端服務原則 | Remote-Only Engagement
 
@@ -332,8 +326,7 @@ The Project Fees are based exclusively on a remote service delivery model and do
 
 ---
 
-# 第七條　專案變更管理
-# Article 7 – Project Change Control
+# 第七條　專案變更管理  <br>Article 7 – Project Change Control
 
 ### 7.1 變更需求 | Change Requests
 
@@ -367,8 +360,7 @@ If project progress is affected by the Client's delay in providing information, 
 
 ---
 
-# 第八條　保密責任
-# Article 8 – Confidentiality
+# 第八條　保密責任  <br>Article 8 – Confidentiality
 
 ### 8.1 機密資訊定義 | Definition of Confidential Information
 
@@ -444,8 +436,7 @@ Upon termination or the Client's reasonable request, the Consultant shall return
 
 ---
 
-# 第九條　智慧財產權
-# Article 9 – Intellectual Property Rights
+# 第九條　智慧財產權  <br>Article 9 – Intellectual Property Rights
 
 ### 9.1 既有智慧財產權之保留 | Background Intellectual Property
 
@@ -573,8 +564,7 @@ Where an engagement primarily involves software, system, tool, or module develop
 
 ---
 
-# 第十條　法律關係及獨立顧問身分
-# Article 10 – Independent Contractor Relationship
+# 第十條　法律關係及獨立顧問身分  <br>Article 10 – Independent Contractor Relationship
 
 ### 10.1 獨立顧問 | Independent Contractor
 
@@ -608,8 +598,7 @@ The Parties acknowledge their mutual intention to establish an independent consu
 
 ---
 
-# 第十一條　資料及資訊安全
-# Article 11 – Data Protection and Information Security
+# 第十一條　資料及資訊安全  <br>Article 11 – Data Protection and Information Security
 
 ### 11.1 資料使用限制 | Permitted Use of Client Information
 
@@ -665,8 +654,7 @@ Upon termination, the Consultant shall return or securely destroy the Client's i
 
 ---
 
-# 第十二條　個人資料
-# Article 12 – Personal Data Protection
+# 第十二條　個人資料  <br>Article 12 – Personal Data Protection
 
 ### 12.1 法令遵循 | Compliance with Data Protection Laws
 
@@ -698,8 +686,7 @@ If the Client requires the Consultant to access sensitive healthcare, financial,
 
 ---
 
-# 第十三條　顧問責任及責任限制
-# Article 13 – Professional Responsibility and Limitation of Liability
+# 第十三條　顧問責任及責任限制  <br>Article 13 – Professional Responsibility and Limitation of Liability
 
 ### 13.1 專業注意義務 | Standard of Professional Care
 
@@ -807,8 +794,7 @@ The Consultant disclaims all express, implied, and statutory warranties, includi
 
 ---
 
-# 第十四條　第三方資訊及技術方案
-# Article 14 – Third-Party Information and Technologies
+# 第十四條　第三方資訊及技術方案  <br>Article 14 – Third-Party Information and Technologies
 
 ### 14.1 第三方資料之使用 | Use of Third-Party Information
 
@@ -842,8 +828,7 @@ The Consultant shall have no obligation to monitor, update, or notify the Client
 
 ---
 
-# 第十五條　非排他性
-# Article 15 – Non-Exclusivity
+# 第十五條　非排他性  <br>Article 15 – Non-Exclusivity
 
 ### 15.1 非排他合作 | Non-Exclusive Engagement
 
@@ -871,8 +856,7 @@ The Consultant may continue to develop, improve, use, license, and commercialize
 
 ---
 
-# 第十六條　利益衝突
-# Article 16 – Conflicts of Interest
+# 第十六條　利益衝突  <br>Article 16 – Conflicts of Interest
 
 ### 16.1 利益衝突通知 | Conflict Disclosure
 
@@ -906,8 +890,7 @@ Any non-competition or exclusivity obligation shall be subject to a separate wri
 
 ---
 
-# 第十七條　不得挖角及規避合作
-# Article 17 – Non-Solicitation and Non-Circumvention
+# 第十七條　不得挖角及規避合作  <br>Article 17 – Non-Solicitation and Non-Circumvention
 
 ### 17.1 禁止挖角 | Non-Solicitation
 
@@ -941,8 +924,7 @@ In the event of a breach of this Article, the Consultant may seek damages and ot
 
 ---
 
-# 第十八條　契約及專案終止
-# Article 18 – Termination
+# 第十八條　契約及專案終止  <br>Article 18 – Termination
 
 ### 18.1 主合約任意終止 | Termination for Convenience
 
@@ -1000,8 +982,7 @@ Either Party may immediately terminate this Agreement upon written notice if the
 
 ---
 
-# 第十九條　不可抗力
-# Article 19 – Force Majeure
+# 第十九條　不可抗力  <br>Article 19 – Force Majeure
 
 ### 19.1 不可抗力事件 | Force Majeure Events
 
@@ -1029,8 +1010,7 @@ The affected Party shall use commercially reasonable efforts to mitigate the imp
 
 ---
 
-# 第二十條　禁止轉讓
-# Article 20 – Assignment
+# 第二十條　禁止轉讓  <br>Article 20 – Assignment
 
 ### 20.1 禁止轉讓 | Restriction on Assignment
 
@@ -1046,8 +1026,7 @@ A Party may assign this Agreement in connection with a merger, acquisition, corp
 
 ---
 
-# 第二十一條　準據法及管轄法院
-# Article 21 – Governing Law and Jurisdiction
+# 第二十一條　準據法及管轄法院  <br>Article 21 – Governing Law and Jurisdiction
 
 ### 21.1 台灣地區客戶 | Clients in Taiwan
 
@@ -1077,8 +1056,7 @@ This Agreement is executed in both Chinese and English. In the event of any inco
 
 ---
 
-# 第二十二條　完整合意
-# Article 22 – Entire Agreement
+# 第二十二條　完整合意  <br>Article 22 – Entire Agreement
 
 ### 22.1 完整合意 | Entire Agreement
 
@@ -1124,8 +1102,7 @@ Each Party acknowledges that it has not relied upon any representation, statemen
 
 ---
 
-# 第二十三條　契約簽署及文件效力
-# Article 23 – Execution and Legal Effect of Documents
+# 第二十三條　契約簽署及文件效力  <br>Article 23 – Execution and Legal Effect of Documents
 
 ### 23.1 契約簽署方式 | Execution
 
@@ -1179,8 +1156,9 @@ IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by the
 
 ## 附錄 | Appendix   
 
-* [專案工作說明書 | STATEMENT OF WORK (SOW)](SOW.md)  
 * [顧問服務與報價單 | Consulting Service Proposal & Fee Schedule](Quotation.md)   
+* [專案工作說明書 | STATEMENT OF WORK (SOW)](SOW.md)  
+* [專案變更單｜PROJECT CHANGE ORDER](ChangeOrder.md)  
 * [交付成果授權及使用條款 | Deliverables License and Usage Terms](LicenseUsageRights.md)   
 
 

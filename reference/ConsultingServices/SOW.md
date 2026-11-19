@@ -98,7 +98,7 @@ The Parties acknowledge and agree that this SOW is subject to all applicable ter
 
 | **甲方 Consultant** | **乙方 Client** |
 | --- | --- |
-| 姓名 Name: 潘貞元 Pan, Jen-Yuan<br>身分證字號 National ID No.:<br>地址 Address:<br>電話 Telephone:<br>簽署 Signature:<br>日期 Date: | 公司名稱 Company Name:<br>授權代表 Authorized Representative:<br>職稱 Title:<br>統一編號 Uniform Business Number:<br>地址 Address:<br>電話 Telephone:<br>簽署 Signature:<br>日期 Date: |
+| 姓名 Name: 潘貞元 Pan, Jen-Yuan<br>簽署 Signature:<br>日期 Date: | 公司名稱 Company Name:<br>授權代表 Authorized Representative:<br>職稱 Title:<br>簽署 Signature:<br>日期 Date: |
 
 ---
 
