@@ -79,17 +79,17 @@ The Project Fees constitute consideration for the Consultant's professional serv
 
 ### 2.3 分階段付款 | Milestone-Based Payments
 
-除個別[工作說明書](SOW.md)另有約定外，專案費用依下列方式支付：
+除個別[工作說明書](SOW.md)另有約定外，專案費用依下列方式支付：   
 
-（一）專案啟動款：總專案費用之 40%，於[工作說明書](SOW.md)簽署後支付。
-（二）中期款：總專案費用之 40%，於約定之中期成果交付後支付。
-（三）結案款：總專案費用之 20%，於最終成果完成驗收後支付。
+（一）專案啟動款：總專案費用之 40%，於[工作說明書](SOW.md)簽署後支付。   
+（二）中期款：總專案費用之 40%，於約定之中期成果交付後支付。   
+（三）結案款：總專案費用之 20%，於最終成果完成驗收後支付。   
 
-Unless otherwise specified in the applicable [SOW](SOW.md), the Project Fees shall be payable as follows:
+Unless otherwise specified in the applicable [SOW](SOW.md), the Project Fees shall be payable as follows:   
 
-(a) Initial Payment: Forty percent (40%) of the total Project Fee upon execution of the [SOW](SOW.md).
-(b) Milestone Payment: Forty percent (40%) upon delivery of the agreed interim Deliverables.
-(c) Final Payment: Twenty percent (20%) upon acceptance of the final Deliverables.
+(a) Initial Payment: Forty percent (40%) of the total Project Fee upon execution of the [SOW](SOW.md).   
+(b) Milestone Payment: Forty percent (40%) upon delivery of the agreed interim Deliverables.   
+(c) Final Payment: Twenty percent (20%) upon acceptance of the final Deliverables.   
 
 ### 2.4 付款期限 | Payment Due Date
 
