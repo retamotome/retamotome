@@ -23,7 +23,7 @@ WHEREAS, the Client desires to engage the Consultant to provide independent prof
 
 WHEREAS, the Consultant possesses the professional expertise, experience, and qualifications necessary to provide such services independently;
 
-WHEREAS, the Parties intend to establish a project-based consulting relationship under which the scope, deliverables, schedule, and fees for each engagement shall be separately agreed upon in a Statement of Work;
+WHEREAS, the Parties intend to establish a project-based consulting relationship under which the scope, deliverables, schedule, and fees for each engagement shall be separately agreed upon in a [Statement of Work](SOW.md);
 
 NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, the Parties agree as follows:
 
@@ -46,21 +46,21 @@ This Agreement shall become effective upon execution by both Parties and shall r
 
 ### 1.3 個別專案成立 | Individual Project Engagements
 
-每一專案均應由雙方另行簽署專案工作說明書（Statement of Work, SOW），載明服務範圍、專案目標、交付成果、執行時程、專案費用及付款條件。
+每一專案均應由雙方另行簽署專案[工作說明書](SOW.md)（Statement of Work），載明服務範圍、專案目標、交付成果、執行時程、專案費用及付款條件。
 
-Each project shall be initiated pursuant to a separately executed Statement of Work ("SOW") specifying the scope of Services, project objectives, Deliverables, project schedule, fees, and payment terms.
+Each project shall be initiated pursuant to a separately executed [Statement of Work](SOW.md) ("SOW") specifying the scope of Services, project objectives, Deliverables, project schedule, fees, and payment terms.
 
 ### 1.4 無持續服務義務 | No Ongoing Service Commitment
 
-本契約之存在不構成甲方持續提供服務、保留固定服務時數、優先回應或隨時待命之義務。甲方僅於雙方簽署個別 SOW 後，始負有該專案之履約義務。
+本契約之存在不構成甲方持續提供服務、保留固定服務時數、優先回應或隨時待命之義務。甲方僅於雙方簽署個別[工作說明書](SOW.md)後，始負有該專案之履約義務。
 
-Nothing in this Agreement shall obligate the Consultant to provide continuous services, reserve consulting capacity, maintain fixed working hours, or remain on standby. The Consultant's obligations with respect to any project shall arise only upon execution of the applicable SOW.
+Nothing in this Agreement shall obligate the Consultant to provide continuous services, reserve consulting capacity, maintain fixed working hours, or remain on standby. The Consultant's obligations with respect to any project shall arise only upon execution of the applicable [SOW](SOW.md).
 
 ### 1.5 契約續約及延續 | Renewal and Continuation
 
-本契約無須定期續約。雙方得依本契約持續簽署個別 SOW。任何專案之延長或新增工作，均應經雙方書面確認。
+本契約無須定期續約。雙方得依本契約持續簽署個別[工作說明書](SOW.md)。任何專案之延長或新增工作，均應經雙方書面確認。
 
-This Agreement shall not require periodic renewal. The Parties may enter into additional SOWs from time to time. Any extension or expansion of an individual project shall require written agreement.
+This Agreement shall not require periodic renewal. The Parties may enter into additional [SOW](SOW.md)s from time to time. Any extension or expansion of an individual project shall require written agreement.
 
 ---
 
@@ -69,9 +69,9 @@ This Agreement shall not require periodic renewal. The Parties may enter into ad
 
 ### 2.1 專案費用 | Project Fees
 
-各專案之顧問費用以該專案 SOW 所載金額為準，採專案固定總價（Fixed Project Fee）或雙方另行書面約定之計價方式。
+各專案之顧問費用以該專案[工作說明書](SOW.md)所載金額為準，採專案固定總價（Fixed Project Fee）或雙方另行書面約定之計價方式。
 
-The fees for each project shall be specified in the applicable SOW and may be structured as a fixed project fee or such other pricing arrangement as mutually agreed in writing.
+The fees for each project shall be specified in the applicable [SOW](SOW.md) and may be structured as a fixed project fee or such other pricing arrangement as mutually agreed in writing.
 
 ### 2.2 專案費用涵蓋範圍 | Scope of Compensation
 
@@ -81,15 +81,15 @@ The Project Fees constitute consideration for the Consultant's professional serv
 
 ### 2.3 分階段付款 | Milestone-Based Payments
 
-除個別 SOW 另有約定外，專案費用依下列方式支付：
+除個別[工作說明書](SOW.md)另有約定外，專案費用依下列方式支付：
 
-1. 專案啟動款：總專案費用之 40%，於 SOW 簽署後支付。
+1. 專案啟動款：總專案費用之 40%，於[工作說明書](SOW.md)簽署後支付。
 2. 中期款：總專案費用之 40%，於約定之中期成果交付後支付。
 3. 結案款：總專案費用之 20%，於最終成果完成驗收後支付。
 
-Unless otherwise specified in the applicable SOW, the Project Fees shall be payable as follows:
+Unless otherwise specified in the applicable [SOW](SOW.md), the Project Fees shall be payable as follows:
 
-1. Initial Payment: Forty percent (40%) of the total Project Fee upon execution of the SOW.
+1. Initial Payment: Forty percent (40%) of the total Project Fee upon execution of the [SOW](SOW.md).
 2. Milestone Payment: Forty percent (40%) upon delivery of the agreed interim Deliverables.
 3. Final Payment: Twenty percent (20%) upon acceptance of the final Deliverables.
 
@@ -140,7 +140,7 @@ Except for deductions or withholding required by applicable law, the Client shal
 
 ### 3.1 服務項目 | Consulting Services
 
-甲方得依個別 SOW 約定提供下列一項或數項服務：
+甲方得依個別[工作說明書](SOW.md)約定提供下列一項或數項服務：
 
 1. 系統架構分析及評估。
 2. 技術方案研究、比較及可行性分析。
@@ -151,7 +151,7 @@ Except for deductions or withholding required by applicable law, the Client shal
 7. 特定技術議題研究及分析報告。
 8. 其他雙方書面同意之專業顧問服務。
 
-The Consultant may provide one or more of the following Services, as specified in the applicable SOW:
+The Consultant may provide one or more of the following Services, as specified in the applicable [SOW](SOW.md):
 
 (a) System architecture analysis and assessment;
 
@@ -171,21 +171,21 @@ The Consultant may provide one or more of the following Services, as specified i
 
 ### 3.2 服務範圍限制 | Scope Limitations
 
-甲方之服務義務以本契約及個別 SOW 明確約定之內容為限。
+甲方之服務義務以本契約及個別[工作說明書](SOW.md)明確約定之內容為限。
 
-The Consultant's obligations shall be strictly limited to the Services expressly specified in this Agreement and the applicable SOW.
+The Consultant's obligations shall be strictly limited to the Services expressly specified in this Agreement and the applicable [SOW](SOW.md).
 
 ### 3.3 不包含之工程實作 | Excluded Implementation Services
 
-除 SOW 明確約定外，顧問服務不包含軟體開發、系統建置、產品製造、部署、維運、現場支援或其他工程實作工作。
+除[工作說明書](SOW.md)明確約定外，顧問服務不包含軟體開發、系統建置、產品製造、部署、維運、現場支援或其他工程實作工作。
 
-Unless expressly specified in the applicable SOW, the Services shall not include software development, system implementation, product manufacturing, deployment, maintenance, on-site support, or other engineering execution activities.
+Unless expressly specified in the applicable [SOW](SOW.md), the Services shall not include software development, system implementation, product manufacturing, deployment, maintenance, on-site support, or other engineering execution activities.
 
 ### 3.4 額外服務 | Additional Services
 
-乙方如要求超出原 SOW 範圍之服務，雙方應另行協議服務內容、費用、時程及交付成果。
+乙方如要求超出原[工作說明書](SOW.md)範圍之服務，雙方應另行協議服務內容、費用、時程及交付成果。
 
-Any services requested by the Client beyond the scope of the applicable SOW shall be treated as Additional Services and shall require separate written agreement regarding scope, fees, schedule, and Deliverables.
+Any services requested by the Client beyond the scope of the applicable [SOW](SOW.md) shall be treated as Additional Services and shall require separate written agreement regarding scope, fees, schedule, and Deliverables.
 
 ### 3.5 專業判斷基礎 | Basis of Professional Judgment
 
@@ -222,9 +222,9 @@ Unless expressly agreed otherwise in writing, the Services shall not constitute 
 
 ### 4.1 專案執行方式 | Project-Based Engagement
 
-甲方依個別 SOW 約定之專案目標、工作範圍及交付時程提供服務。
+甲方依個別[工作說明書](SOW.md)約定之專案目標、工作範圍及交付時程提供服務。
 
-The Consultant shall perform the Services in accordance with the project objectives, scope, and delivery schedule specified in the applicable SOW.
+The Consultant shall perform the Services in accordance with the project objectives, scope, and delivery schedule specified in the applicable [SOW](SOW.md).
 
 ### 4.2 工作自主性 | Professional Autonomy
 
@@ -240,9 +240,9 @@ The Parties may communicate and coordinate project activities through email, vid
 
 ### 4.4 無固定工時義務 | No Fixed Working Hours
 
-除 SOW 另有約定外，甲方無提供固定每日工作時數、出勤、常駐或待命服務之義務。
+除[工作說明書](SOW.md)另有約定外，甲方無提供固定每日工作時數、出勤、常駐或待命服務之義務。
 
-Unless otherwise specified in the applicable SOW, the Consultant shall not be subject to fixed daily working hours, attendance requirements, residency obligations, or standby requirements.
+Unless otherwise specified in the applicable [SOW](SOW.md), the Consultant shall not be subject to fixed daily working hours, attendance requirements, residency obligations, or standby requirements.
 
 ### 4.5 內部工作文件 | Internal Working Materials
 
@@ -257,9 +257,9 @@ Unless otherwise expressly agreed, the Consultant shall not be required to discl
 
 ### 5.1 交付成果 | Deliverables
 
-甲方應依個別 SOW 所列項目、格式及時程交付約定成果。
+甲方應依個別[工作說明書](SOW.md)所列項目、格式及時程交付約定成果。
 
-The Consultant shall deliver the Deliverables specified in the applicable SOW in the agreed format and within the agreed schedule.
+The Consultant shall deliver the Deliverables specified in the applicable [SOW](SOW.md) in the agreed format and within the agreed schedule.
 
 ### 5.2 交付形式 | Delivery Format
 
@@ -275,9 +275,9 @@ The Client shall review each Deliverable within seven (7) Business Days followin
 
 ### 5.4 驗收標準 | Acceptance Criteria
 
-乙方提出異議時，應具體指出交付成果未符合 SOW 所載驗收標準之項目及理由。
+乙方提出異議時，應具體指出交付成果未符合[工作說明書](SOW.md)所載驗收標準之項目及理由。
 
-Any rejection or objection shall identify the specific aspects of the Deliverable that materially fail to conform to the acceptance criteria expressly set forth in the applicable SOW, together with reasonable supporting details.
+Any rejection or objection shall identify the specific aspects of the Deliverable that materially fail to conform to the acceptance criteria expressly set forth in the applicable [SOW](SOW.md), together with reasonable supporting details.
 
 ### 5.5 合理修正 | Reasonable Revisions
 
@@ -297,9 +297,9 @@ The Client's commercial use, production deployment, or distribution of a Deliver
 
 ### 5.7 超出範圍之修改 | Out-of-Scope Revisions
 
-新增研究方向、額外功能、服務內容擴張或超出原 SOW 之修改，不屬於甲方免費修正義務。
+新增研究方向、額外功能、服務內容擴張或超出原[工作說明書](SOW.md)之修改，不屬於甲方免費修正義務。
 
-Requests for additional research, new functionality, expanded Services, or modifications beyond the original SOW shall constitute Additional Services and shall be separately quoted.
+Requests for additional research, new functionality, expanded Services, or modifications beyond the original [SOW](SOW.md) shall constitute Additional Services and shall be separately quoted.
 
 ---
 
@@ -308,9 +308,9 @@ Requests for additional research, new functionality, expanded Services, or modif
 
 ### 6.1 遠端服務原則 | Remote-Only Engagement
 
-雙方確認，本契約及其所有 SOW 所約定之顧問服務均採遠端方式執行。
+雙方確認，本契約及其所有[工作說明書](SOW.md)所約定之顧問服務均採遠端方式執行。
 
-The Parties expressly agree that all Services provided under this Agreement and any SOW shall be performed remotely.
+The Parties expressly agree that all Services provided under this Agreement and any [SOW](SOW.md) shall be performed remotely.
 
 ### 6.2 不提供出差服務 | No Business Travel
 
@@ -349,9 +349,9 @@ The Consultant shall assess the impact of the proposed change on the project sco
 
 ### 7.3 變更確認 | Written Change Order
 
-任何專案變更均應經雙方書面確認，必要時以修訂 SOW 或另行簽署之變更單（Change Order）辦理。
+任何專案變更均應經雙方書面確認，必要時以修訂[工作說明書](SOW.md)或另行簽署之變更單（Change Order）辦理。
 
-No project change shall become effective unless approved in writing by both Parties through an amended SOW or a separate Change Order.
+No project change shall become effective unless approved in writing by both Parties through an amended [SOW](SOW.md) or a separate Change Order.
 
 ### 7.4 未經核准之工作 | Unauthorized Work
 
@@ -469,9 +469,9 @@ The Consultant shall remain entitled to use, modify, develop, license, commercia
 
 ### 9.3 專案交付成果之著作財產權 | Copyright Ownership of Project Deliverables
 
-甲方依乙方特定委託所完成，且於 SOW 中明確列為交付成果之報告、分析文件、建議書、簡報、架構設計文件及其他專案成果（以下稱「專案交付成果」），其著作財產權於乙方完成該專案全部應付款項後，始移轉予乙方。
+甲方依乙方特定委託所完成，且於[工作說明書](SOW.md)中明確列為交付成果之報告、分析文件、建議書、簡報、架構設計文件及其他專案成果（以下稱「專案交付成果」），其著作財產權於乙方完成該專案全部應付款項後，始移轉予乙方。
 
-The economic copyright interests in reports, analytical documents, recommendations, presentations, architectural design documents, and other work products specifically commissioned by the Client and expressly identified as Deliverables in the applicable SOW (collectively, "Project Deliverables") shall vest in the Client only upon the Client's full payment of all fees and other amounts due in respect of the relevant project.
+The economic copyright interests in reports, analytical documents, recommendations, presentations, architectural design documents, and other work products specifically commissioned by the Client and expressly identified as Deliverables in the applicable [SOW](SOW.md) (collectively, "Project Deliverables") shall vest in the Client only upon the Client's full payment of all fees and other amounts due in respect of the relevant project.
 
 甲方保留依法不得讓與之著作人格權及其他權利。
 
@@ -529,7 +529,7 @@ Any assignment, exclusive license, transfer of ownership, or transfer of source 
 
 ### 9.9 非交付項目 | Excluded Materials
 
-除 SOW 明確列為交付成果外，甲方無提供下列項目之義務：
+除[工作說明書](SOW.md)明確列為交付成果外，甲方無提供下列項目之義務：
 
 (a) 原始碼；
 
@@ -547,7 +547,7 @@ Any assignment, exclusive license, transfer of ownership, or transfer of source 
 
 (h) 其他未明確列為交付成果之內部技術資料。
 
-Unless expressly identified as Deliverables in the applicable SOW, the Consultant shall have no obligation to provide:
+Unless expressly identified as Deliverables in the applicable [SOW](SOW.md), the Consultant shall have no obligation to provide:
 
 (a) source code;
 
@@ -935,9 +935,9 @@ The Consultant's existing clients, business partners, suppliers, professional ne
 
 ### 17.5 違反之救濟 | Remedies
 
-乙方違反本條時，甲方得依法請求損害賠償及其他適當救濟。雙方如需約定違約金，應於個別 SOW 或補充協議中另行明確約定。
+乙方違反本條時，甲方得依法請求損害賠償及其他適當救濟。雙方如需約定違約金，應於個別[工作說明書](SOW.md)或補充協議中另行明確約定。
 
-In the event of a breach of this Article, the Consultant may seek damages and other remedies available under applicable law. Any contractual liquidated damages shall be expressly agreed upon in the applicable SOW or a separate written agreement.
+In the event of a breach of this Article, the Consultant may seek damages and other remedies available under applicable law. Any contractual liquidated damages shall be expressly agreed upon in the applicable [SOW](SOW.md) or a separate written agreement.
 
 ---
 
@@ -952,9 +952,9 @@ Either Party may terminate this Agreement for convenience by providing at least 
 
 ### 18.2 個別專案終止 | Termination of Individual Projects
 
-個別專案之提前終止，應依該專案 SOW 所約定之終止條件辦理。除另有約定外，任一方得提前三十（30）日以書面通知終止個別專案。
+個別專案之提前終止，應依該專案[工作說明書](SOW.md)所約定之終止條件辦理。除另有約定外，任一方得提前三十（30）日以書面通知終止個別專案。
 
-Termination of an individual project shall be governed by the termination provisions of the applicable SOW. Unless otherwise specified, either Party may terminate an individual project upon thirty (30) days' prior written notice.
+Termination of an individual project shall be governed by the termination provisions of the applicable [SOW](SOW.md). Unless otherwise specified, either Party may terminate an individual project upon thirty (30) days' prior written notice.
 
 ### 18.3 專案終止費用結算 | Project Fee Settlement
 
@@ -964,9 +964,9 @@ Upon early termination of a project, the Client shall remain responsible for pay
 
 ### 18.4 預付款處理 | Treatment of Advance Payments
 
-已支付之預付款應依專案實際執行進度及雙方約定之終止結算方式處理。尚未執行部分之費用，依 SOW 約定或雙方書面協議辦理退還或結算。
+已支付之預付款應依專案實際執行進度及雙方約定之終止結算方式處理。尚未執行部分之費用，依[工作說明書](SOW.md)約定或雙方書面協議辦理退還或結算。
 
-Advance payments shall be accounted for based on the actual progress of the project and the applicable termination settlement provisions. Any amounts attributable to unperformed Services shall be refunded or otherwise settled in accordance with the SOW or a written agreement between the Parties.
+Advance payments shall be accounted for based on the actual progress of the project and the applicable termination settlement provisions. Any amounts attributable to unperformed Services shall be refunded or otherwise settled in accordance with the [SOW](SOW.md) or a written agreement between the Parties.
 
 ### 18.5 進行中交付成果 | Work in Progress
 
@@ -1082,15 +1082,15 @@ This Agreement is executed in both Chinese and English. In the event of any inco
 
 ### 22.1 完整合意 | Entire Agreement
 
-本契約及其個別 SOW 構成雙方就相關服務事項之完整合意，取代雙方先前就相同事項所為之一切口頭或書面協議。
+本契約及其個別[工作說明書](SOW.md)構成雙方就相關服務事項之完整合意，取代雙方先前就相同事項所為之一切口頭或書面協議。
 
-This Agreement, together with all applicable SOWs, constitutes the entire agreement between the Parties with respect to the Services and supersedes all prior oral or written agreements concerning the same subject matter.
+This Agreement, together with all applicable [SOW](SOW.md)s, constitutes the entire agreement between the Parties with respect to the Services and supersedes all prior oral or written agreements concerning the same subject matter.
 
-### 22.2 主合約與 SOW 之關係 | Order of Precedence
+### 22.2 主合約與[工作說明書](SOW.md)之關係 | Order of Precedence
 
-如本契約與個別 SOW 內容有牴觸，原則上以本契約為準；但 SOW 如明確指出特定條款之變更或例外，且經雙方授權代表簽署者，就該專案以 SOW 之明確約定為準。
+如本契約與個別[工作說明書](SOW.md)內容有牴觸，原則上以本契約為準；但[工作說明書](SOW.md)如明確指出特定條款之變更或例外，且經雙方授權代表簽署者，就該專案以[工作說明書](SOW.md)之明確約定為準。
 
-In the event of any inconsistency between this Agreement and an SOW, this Agreement shall prevail unless the SOW expressly identifies the specific provision being modified or superseded and is signed by duly authorized representatives of both Parties. In such case, the express terms of the SOW shall prevail solely with respect to the relevant project.
+In the event of any inconsistency between this Agreement and an [SOW](SOW.md), this Agreement shall prevail unless the [SOW](SOW.md) expressly identifies the specific provision being modified or superseded and is signed by duly authorized representatives of both Parties. In such case, the express terms of the [SOW](SOW.md) shall prevail solely with respect to the relevant project.
 
 ### 22.3 補充協議 | Supplemental Agreements
 
@@ -1118,9 +1118,9 @@ No failure or delay by either Party in exercising any right or remedy under this
 
 ### 22.7 契約外陳述排除 | Non-Reliance
 
-雙方確認，除本契約及個別 SOW 明確記載者外，均未依賴其他口頭或書面陳述、承諾或保證而締結本契約。
+雙方確認，除本契約及個別[工作說明書](SOW.md)明確記載者外，均未依賴其他口頭或書面陳述、承諾或保證而締結本契約。
 
-Each Party acknowledges that it has not relied upon any representation, statement, promise, or understanding not expressly set forth in this Agreement or the applicable SOW.
+Each Party acknowledges that it has not relied upon any representation, statement, promise, or understanding not expressly set forth in this Agreement or the applicable [SOW](SOW.md).
 
 ---
 
